@@ -1,0 +1,49 @@
+{
+  "name": "trikayoga.ru",
+  "version": "0.0.1",
+  "description": "trika yoga resource base",
+  "main": "index.js",
+  "keywords": [
+    "trika",
+    "yoga",
+    "shaiva",
+    "mantra",
+    "hymn",
+    "texts",
+    "tantra",
+    "yantra"
+  ],
+  "author": "davay",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vitepress dev ",
+    "build": "vitepress build ",
+    "serve": "vitepress serve ",
+    "deploy": "sh deploy.sh"
+  },
+  "dependencies": {
+    "@vueuse/core": "5.0.3",
+    "@vueuse/gesture": "^1.0.0",
+    "@vueuse/motion": "^1.5.6",
+    "paper": "^0.12.15",
+    "vue": "^3.1.2",
+    "zdog": "^1.1.2"
+  },
+  "devDependencies": {
+    "@iconify/json": "^1.1.361",
+    "markdown-it-classy": "^0.2.0",
+    "markdown-it-container": "^3.0.0",
+    "markdown-it-external-links": "^0.0.6",
+    "patch-vue-directive-ssr": "^0.0.1",
+    "pug": "3.0.2",
+    "typescript": "^4.3.4",
+    "vite": "^2.3.8",
+    "vite-aliases": "0.8.2",
+    "vite-plugin-components": "^0.11.2",
+    "vite-plugin-icons": "^0.6.3",
+    "vite-plugin-windicss": "^1.1.1",
+    "vitepress": "0.15.5",
+    "vitepress-tags": "^0.4.0",
+    "windicss": "3.1.3"
+  }
+}
