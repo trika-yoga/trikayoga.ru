@@ -4,7 +4,7 @@ subtitle: '<p class="sanskrit">श्री शिवसहस्रनामस
 tags: hymn
 ---
 
-![R.Thyagarajan-Shiva-Sahasranama-From-Rudra-Yaamala-Tantra](./R.Thyagarajan-Shiva-Sahasranama-From-Rudra-Yaamala-Tantra.mp3)
+<!-- ![R.Thyagarajan-Shiva-Sahasranama-From-Rudra-Yaamala-Tantra](./R.Thyagarajan-Shiva-Sahasranama-From-Rudra-Yaamala-Tantra.mp3) -->
 
 [sect]
 [sans]॥ ॐ श्री गणेशाय नमः ॥ [/sans]

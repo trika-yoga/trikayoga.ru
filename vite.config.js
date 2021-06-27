@@ -36,10 +36,9 @@ export default defineConfig({
     }),
   ],
   optimizeDeps: {
-    include: ['vue', '@vueuse/core'],
+    include: ['vue'],
   },
   build: {
-    chunkSizeWarningLimit: 800,
     rollupOptions: {
       output: {
         manualChunks: {},

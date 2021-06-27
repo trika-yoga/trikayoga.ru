@@ -57,7 +57,7 @@ module.exports = {
       md.use(require('markdown-it-classy'))
       md.use(require('markdown-it-container'), 'section')
       md.use(require('markdown-it-external-links'), {
-        internalDomains: ['localhost', 'tsoop.ru'],
+        internalDomains: ['localhost', 'trikayoga.ru'],
       })
     },
   },

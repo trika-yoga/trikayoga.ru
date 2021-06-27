@@ -23,16 +23,13 @@
   },
   "dependencies": {
     "@vueuse/core": "5.0.3",
-    "@vueuse/gesture": "^1.0.0",
-    "@vueuse/motion": "^1.5.6",
-    "paper": "^0.12.15",
-    "vue": "^3.1.2",
-    "zdog": "^1.1.2"
+    "vue": "^3.1.2"
   },
   "devDependencies": {
     "@iconify/json": "^1.1.361",
     "markdown-it-classy": "^0.2.0",
     "markdown-it-container": "^3.0.0",
+    "markdown-it-custom-short-codes": "^1.0.1",
     "markdown-it-external-links": "^0.0.6",
     "patch-vue-directive-ssr": "^0.0.1",
     "pug": "3.0.2",

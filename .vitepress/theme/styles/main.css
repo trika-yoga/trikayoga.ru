@@ -17,6 +17,11 @@ body {
   @apply transition-colors;
 }
 
+.dark body {
+  background-color: #eee;
+  color: #333;
+}
+
 .bounce {
   animation: bounce 12s infinite ease-in-out;
 }
@@ -31,4 +36,27 @@ body {
   100% {
     transform: translateY(0);
   }
+}
+
+.sans,
+.sanskrt,
+.sanskrit {
+  font-weight: 500;
+  font-size: 2em;
+  margin: 12px 0;
+  line-height: 1.42;
+  font-family: 'Mukta';
+}
+
+.trans {
+  font-size: 1.2em;
+  color: #999;
+  margin: 12px 0;
+}
+
+.section {
+  position: relative;
+  margin: 40px 0;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #ccc;
 }

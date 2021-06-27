@@ -5,25 +5,32 @@ tags: mantra
 ---
 
 ::: section
-ॐ { sans }
-[trans]auṃ[/trans]
+ॐ {sans}
 
-[sans]वैदिकप्रणव[/sans]
-[trans]vaidikapraṇava[/trans]
+auṃ  {trans}
+
+वैदिकप्रणव {sans}
+
+vaidikapraṇava {trans}
+
 Ведическая пранава, изначальный звук Вселенной
 
 :::
-[sect]
 
-[sans class="big"]ह्रीं[/sans]
-[trans]hrīṃ[/trans]
+::: section
+
+ह्रीं {sans}
+
+hrīṃ {trans}
+
 [sans]शाक्तप्रणव[/sans]
 [trans]śāktapraṇava[/trans]
 Шакта пранава
 
 
-[/sect]
-[sect]
+:::
+::: section
+
 
 [sans class="big"]हूं[/sans]
 [transcript]hūṃ[/transcript]
@@ -32,8 +39,8 @@ tags: mantra
 Шайва пранава или курча-биджа
 
 
-[/sect]
-[sect]
+:::
+::: section
 
 [sans class="big"]सौः[/sans]
 [transcript]sauḥ[/transcript]
@@ -41,8 +48,8 @@ tags: mantra
 [trans]prāsādabīja / hṛdayabīja[/trans]
 Прасада-биджа или хридая-биджа
 
-[/sect]
-[sect]
+:::
+::: section
 
 [sans class="big"]अहं[/sans]
 [transcript]ahaṃ[/transcript]
@@ -50,12 +57,13 @@ tags: mantra
 [trans]sṛṣṭibīja[/trans]
 Сришти-биджа
 
-[/sect]
-[sect]
+:::
+::: section
 
 [sans class="big"]महा / मह अ[/sans]
 [transcript]mahā / maha a[/transcript]
 [sans]संहरबीज[/sans]
 [trans]saṃharabīja[/trans]
 Самхара-биджа
-[/sect]
+
+:::

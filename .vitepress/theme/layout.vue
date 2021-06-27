@@ -1,5 +1,6 @@
 <template lang="pug">
 .page
+  nav-bar
   content
   page-list(
     v-if="frontmatter.list"
@@ -16,6 +17,6 @@ const { site, frontmatter } = useData();
 
 <style scoped>
 .page {
-  @apply bg-dark-200;
+  @apply bg-dark-200 p-4;
 }
 </style>
