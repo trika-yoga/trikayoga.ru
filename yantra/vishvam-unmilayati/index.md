@@ -4,7 +4,7 @@ icon: compressed-universe-square-hand.svg
 tags: yantra
 ---
 
-![](./compressed-universe-square-hand-02.svg)
+![](./compressed.svg)
 
 <p class="sanskrt">विश्वमुन्मीलयति</p>
 <p class="transcript">viśvamunmīlayati</p>

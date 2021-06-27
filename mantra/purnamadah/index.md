@@ -17,4 +17,4 @@ pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ॥[/trans]
 
 ![Пение](./purnam.mp3)
 
-[Комментарий к мантре от Свами Даянанды Сарасвати](./SwamiDayanandaEng.pdf)
+[Комментарий к мантре от Свами Даянанды Сарасвати](./books/SwamiDayanandaEng.pdf)

@@ -10,8 +10,6 @@
 
 <script setup>
 import { useData } from 'vitepress'
-import { defineProps } from 'vue'
-
 const { site, frontmatter } = useData();
 </script>
 

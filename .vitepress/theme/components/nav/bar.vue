@@ -1,8 +1,9 @@
 <template lang="pug">
 .nav-bar
-  .text-2xl Трика йога
-  .flex-1
-  state-dark
+  a(href="/")
+    img.max-w-8rem(src="/img/sadvidya.svg")
+    .text-2xl Трика йога
+  nav-links
 </template>
 
 <script setup>
@@ -14,6 +15,6 @@ const props = defineProps({
 
 <style scoped>
 .nav-bar {
-  @apply flex flex-wrap p-2;
+  @apply flex flex-col items-center p-2 border-b-1 m-2;
 }
 </style>
