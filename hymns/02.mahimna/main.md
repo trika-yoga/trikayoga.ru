@@ -1,0 +1,349 @@
+---
+title: 'Шива махимна стотра'
+subtitle: '<p class="sanskrt">पशिवमहिम्नः स्तोत्रम्</p>
+<p class="transcript">Śivamahimnaḥ stotram</p>Гимн величия Шивы'
+taxonomy:
+    category:
+        - Гимн
+---
+
+[Перевод на русский Ирины Валлабхи с английского и испанского пословного перевода Гуру Габриэля Прадиипаки](https://www.sanskrit-trikashaivism.com/ru/shiva-mahimna-stotram-normal-translation-ru/597)
+
+[sect]
+
+[sans]गजाननं भूतगणाधिसेवितं कपित्थजम्बूफलचारुभक्षणम्।
+उमासुतं शोकविनाशकारकं नमामि विघ्नेश्वरपादपङ्कजम्॥[/sans]
+[trans]Gajānanaṁ bhūtagaṇādisevitaṁ kapitthajambūphalacārubhakṣanam|
+Umāsutaṁ śokavināśakārakaṁ namāmi vighneśvarapādapaṅkajam||[/trans]
+Я преклоняюсь _(namāmi)_ перед лотосными стопами _(pādapaṅkajam)_ Господа _(īśvara)_, [который избавляет от] препятствий _(vighna)_ [и] вызывает _(kārakam)_ разрушение _(vināśa)_ [всех] горестей _(śoka)_, слонолицего _(gaja-ānanam)_ сына _(sutam)_ Умы -- супруги Шивы-- _(umā)_, которому служат _(sevitam)_ армии _(gaṇa)_ духов и приведений _(bhūta)_ [Шивы], и т.д. _(ādi)_ и который очаровательно _(cāru)_ вкушает _(bhakṣaṇam)_ дикие яблоки _(kapittha... phala)_ и розовые яблоки _(jambūphala)_.
+
+
+[/sect] [sect]
+
+[sans]श्रीपुष्पदन्त उवाच महिम्नः पारं ते परमविदुषो यद्यसदृशी स्तुतिर्ब्रह्मादीनामपि तदवसन्नास्त्वयि गिरः।
+अथावाच्यः सर्वः स्वमतिपरिणामावधि गृणन् ममाप्येषः स्तोत्रे हर निरपवादः परिकरः॥१॥[/sans]
+[trans]Śrīpuṣpadanta uvāca
+Mahimnaḥ pāraṁ te paramaviduṣo yadyasadṛśī stutirbrahmādīnāmapi tadavasannāstvayi giraḥ|
+Athāvācyaḥ sarvaḥ svamatipariṇāmāvadhi gṛṇan mamāpyeṣaḥ stotre hara nirapavādaḥ parikaraḥ||1||[/trans]
+Почтенный _(śrī)_ Пушпаданта --досл. «с зубами из цветов»-- _(puṣpadantaḥ)_ сказал _(uvāca)_:
+
+Если бы _(yadi)_ восхваление _(stutiḥ)_, [выполненное] кем-то, кто  совсем _(param)_ не знает _(avidusaḥ)_ предела _(pāram)_ Твоего _(te)_ величия _(mahimnaḥ)_, было бы неподобающе  _(asadṛśī)_, тогда _(tad)_ даже _(api)_ возгласы восхваления _(giraḥ)_ Тебя _(tvayi)_, [произнесённые] Брахмой  _(brahmā)_и т.д., --ādi-- _(ādīnām)_ [были бы] отклонены и увяли бы _(avasannāḥ)_. К тому же _(atha)_, [если] все _(sarvaḥ)_, кто восхваляет [Тебя] _(gṛṇan)_согласно _(avadhi)_ развитости _(pariṇāma)_ своего _(sva)_ разума _(mati)_ не могут быть обвинены или оговорены _(avācyaḥ)_, [тогда], о Хара --Шива-- _(hara)_, этот _(eṣaḥ)_ «Парикара» --ряд эпитетов или прилагательных-- [в честь Тебя] _(parikaraḥ)_, [написанных] мною _(mama)_ в гимне  _(stotre)_, тоже_ _(api)_ не может быть подвергнут цензуре  _(nirapavādaḥ)_||1||
+
+
+[/sect] [sect]
+[sans]अतीतः पन्थानं तव च महिमा वाङ्मानसयोरतद्व्यावृत्त्या यं चकितमभिधत्ते श्रुतिरपि।
+स कस्य स्तोतव्यः कतिविधगुणः कस्य विषयः पदे त्वर्वाचीने पतति न मनः कस्य न वचः॥२॥[/sans]
+[trans]Atītaḥ panthānaṁ tava ca mahimā vāṅmānasayoratadvyāvṛttyā yaṁ cakitamabhidhatte śrutirapi|
+Sa kasya stotavyaḥ katividhaguṇaḥ kasya viṣayaḥ pade tvarvācīne patati na manaḥ kasya na vacaḥ||2||[/trans]
+Твое _(tava)_ величие _(mahimā)_ определённо _(ca)_ вне _(atītaḥ)_ досягаемости _(panthānam)_ речи _(vāk)_ и ума --mānasa-- _(mānasayoḥ)_. Даже _(api)_ Шрути -- этот термин обычно является синонимом Вед, хотя он должен быть использован только по отношению к разделам «Mantra» и «Brāhmaṇa» вышеупомянутых Вед--  _(śrutiḥ)_ с благоговением _(cakitam)_ описывает _(abhidhatte)_ то [величие] _(yam)_, за исключением [любых других имён] _(vyāvṛttyā)_, [таких как] «не то» _(atad)_. [Итак], кем _(kasya)_ Он --Шива-- _(saḥ)_ [будет] восхваляться _(stotavyaḥ)_? Сколькими _(katividha)_ качествами _(guṇa)_ [обладает Шива]? Кем _(kasya)_ [Он будет] воспринят _(viṣayaḥ)_? Тем не менее _(tu)_, [где тот человек], чьи  _(kasya)_ ум _(manas)_ [и] речь _(vacaḥ)_ не _(na... na)_ пропадают _(patati)_ при состоянии _(pade)_, в которое [Ты] входишь после  _(arvācīne)_?||2||
+
+
+[/sect] [sect]
+[sans]मधुस्फीता वाचः परमममृतं निर्मितवतस्तव ब्रह्मन्किं वागपि सुरगुरोर्विस्मयपदम्।
+मम त्वेनां वाणीं गुणकथनपुण्येन भवतः पुनामीत्यर्थेऽस्मिन् पुरमथन बुद्धिर्व्यवसिता॥३॥[/sans]
+[trans]Madhusphītā vācaḥ paramamamṛtaṁ nirmitavatastava brahmankiṁ vāgapi suragurorvismayapadam|
+Mama tvenāṁ vāṇīṁ guṇakathanapuṇyena bhavataḥ punāmītyarthe'smin puramathana buddhirvyavasitā||3||[/trans]
+
+О, Брахма --Абсолют-- _(brahman)_! Удивительно ли _(kim... vismayapadam)_, что даже  _(api)_ гуру --наставник-- _(guroḥ)_ богов _(sura)_ --т.e. «Bṛhaspati»-- [произнёс] слова _(vāk)_ [восхваляющие] Тебя _(tava)_, автора --nirmitavān-- _(nirmitavataḥ)_ Высшего _(paramam)_ Нектара _(amṛtam)_ --т.e. Вед--, состоящего из слов _(vācaḥ)_ полных _(sphītāḥ)_ мёда [знания] _(madhu)_? «Я несомненно _(tu)_ отчищаю _(punāmi)_ мою _(mama... enām)_ речь _(vāṇīm)_ благодетельным актом _(puṇyena)_ описания _(kathana)_ Твоих _(bhavataḥ)_ качеств _(guṇa)_»... Для этой цели _(ityarthe)_, [мой] разум _(buddhiḥ)_ решительно принял на себя _(vyavasitā)_ эту [задачу] _(asmin)_, о Разрушитель _(mathana)_ [трёх] городов _(pura)_! --Шиву называют «puramathana», потому что Он разрушил три города, принадлежащих трём сыновьям демонов по имени Tāraka--||3||
+
+
+[/sect] [sect]
+[sans]तवैश्वर्यं यत्तज्जगदुदयरक्षाप्रलयकृत्त्रयीवस्तु व्यस्तं तिसृषु गुणभिन्नासु तनुषु।
+अभव्यानामस्मिन् वरद रमणीयामरमणीं विहन्तुं व्याक्रोशीं विदधत इहैके जडधियः॥४॥[/sans]
+[trans]Tavaiśvaryaṁ yattajjagadudayarakṣāpralayakṛttrayīvastu vyastaṁ tisṛṣu guṇabhinnāsu tanuṣu|
+Abhavyānāmasmin varada ramaṇīyāmaramaṇīṁ vihantuṁ vyākrośīṁ vidadhata ihaike jaḍadhiyaḥ||4||[/trans]
+
+Твой _(tava)_ Суверенитет или Господсво _(aiśvaryam)_, который _(yad-tad)_ [состоит из] «того, что вызывает _(kṛt)_ проявление _(udaya)_ мира _(jagat)_» --т.e. Brahmā--, «того, что даёт _(kṛt)_ защиту _(rakṣā)_ миру _(jagat)_» --т.e. Viṣṇu--,  «того, что является причиной _(kṛt)_ растворения _(pralaya)_ мира _(jagat)_» --т.e. Rudra--, обладает трехкратной _(trayī)_ сутью _(vastu)_, которая классифицирована [в Ведах]  _(vyastam)_ согласно тройственной _(tisṛṣu)_ форме _(tanuṣu)_, состоящей из разных  _(bhinnāsu)_ гун --качеств Prakṛti-- _(guṇa)_. О дарующий _(da)_ милость _(vara)_! В этом мире _(iha)_ некоторые _(eke)_ слабоумные люди _(jaḍadhiyaḥ)_ приводят _(vidadhate)_ оскорбительные _(vyākrośīm)_ _(и)_ неприятные _(aramaṇīm)_ _(доводы),_ чтобы докучать _(vihantum)_. [Этими аргументами] наслаждаются [только]  _(ramaṇīyām)_ безбожные и непосвящённые _(abhavyānām)_ в это _(asmin)_ --т.e. «в истину Суверенитета или Господства Шивы»--||4||
+
+
+[/sect] [sect]
+[sans]किमीहः किंकायः स खलु किमुपायस्त्रिभुवनं किमाधारो धाता सृजति किमुपादान इति च।
+अतर्क्यैश्वर्ये त्वय्यनवसरदुःस्थो हतधियः कुतर्कोऽयं कांश्चिन्मुखरयति मोहाय जगतः॥५॥[/sans]
+[trans]Kimīhaḥ kiṅkāyaḥ sa khalu kimupāyastribhuvanaṁ kimādhāro dhātā sṛjati kimupādāna iti ca|
+Atarkyaiśvarye tvayyanavasaraduḥstho hatadhiyaḥ kutarko'yaṁ kāṁścinmukharayati mohāya jagataḥ||5||[/trans]
+«Какое _(kim)_ желание _(īhaḥ)_ Он [удовлетворяет] _(saḥ khalu)_? В каком _(kim)_ теле _(kāyaḥ)_ Он [воплощается] _(saḥ khalu)_? [И] какой _(kim)_ метод _(upāyaḥ)_, основу _(ādhāraḥ)_ и материал _(upadānaḥ)_ Создатель _(dhātā)_ [использует для] проявления _(sṛjati)_ трёх _(tri)_ миров _(bhuvanam... iti ca)_?» --«iti» означает кавычки, а «ca» является всего лишь вставным элементом в этом случае--. Этот _(ayam)_ ошибочный образ аргументирования _(kutarkaḥ)_, немудрый _(duḥsthaḥ)_ и неуместный _(anavasara)_, в отношении Тебя  _(tvayi)_ и [Твоего] Суверенитета или Господства _(aiśvarye)_, который превосходит мышление и логику _(atarkya)_, [происходит] от сбитой с толку личности _(hatadhiyaḥ)_. [Этот самый ошибочный образ аргументирования] заставляет некоторых людей  _(kān-cid)_ [громко] говорить _(mukharayati)_ [только лишь для того], чтобы мир  _(jagataḥ)_ утратил осознанность и пал жертвой заблуждения _(mohāya)_||5||
+
+
+[/sect] [sect]
+[sans]अजन्मानो लोकाः किमवयववन्तोऽपि जगतामधिष्टातारं किं भवविधिरनादृत्य भवति।
+अनीशो वा कुर्याद्भुवनजनने कः परिकरो यतो मन्दास्त्वां प्रत्यमरवर संशेरत इमे॥६॥[/sans]
+[trans]Ajanmāno lokāḥ kimavayavavanto'pi jagatāmadhiṣṭhātāraṁ kiṁ bhavavidhiranādṛtya bhavati|
+Anīśo vā kuryādbhuvanajanane kaḥ parikaro yato mandāstvāṁ pratyamaravara saṁśerata ime||6||[/trans]
+«Существуют ли _(kim)_ миры _(lokāḥ)_ без какого либо источника _(ajanmānaḥ)_, не смотря на то, что _(api)_ они состоят из частей _(avayavavantaḥ)_? Имеет ли место быть _(kim... bhavati)_ создание _(vidhiḥ)_ миров _(bhava)_ вне зависимости _(anādṛtya)_ _от _[существования] кого-то, кто правит _(adhiṣṭhātāram)_ [вышеупомянутыми] мирами _(jagatām)_? Или _(vā)_, _(если)_ Господина не существует _(anīśaḥ)_, какой _(kaḥ)_ помощник _(parikaraḥ)_ содействует _(kuryāt)_ в проявлении _(janane)_ миров _(bhuvana)_?» Основывая [свои идеи] на [подобном образе мышления] _(yatas)_, о Ты, высший _(vara)_ среди богов _(amara)_, эти _(ime)_ слабоумные и глупые личности _(mandāḥ)_ вызывают сомнения _(saṁśerate)_ о Тебе _(tvāṁ prati)_||6||
+
+
+[/sect] [sect]
+[sans]त्रयी साङ्ख्यं योगः पशुपतिमतं वैष्णवमिति प्रभिन्ने प्रस्थाने परमिदमदः पथ्यमिति च।
+रुचीनां वैचित्र्यादृजुकुटिलनानापथजुषां नृणामेको गम्यस्त्वमसि पयसामर्णव इव॥७॥[/sans]
+[trans]Trayī sāṅkhyaṁ yogaḥ paśupatimataṁ vaiṣṇavamiti prabhinne prasthāne paramidamadaḥ pathyamiti ca|
+Rucīnāṁ vaicitryādṛjukuṭilanānāpathajuṣāṁ nṛṇāmeko gamyastvamasi payasāmarṇava iva||7||[/trans]
+«Три Веды _(trayī)_, Санкхья _(sāṅkhyam)_, Йога _(yogaḥ)_, учение _(matam)_ Пашупати _(paśupati)_ --т.e. Шиваизм-- _(и)_ Вайшнавизм -- относящийся к Господу Вишну-- _(vaiṣṇavam iti)_»: в [этих] разных _(prabhinne)_ источниках _(prasthāne)_ таким образом [содержится] _(iti ca)_ тот _(idam)_ или иной _(adas)_ путь _(pathyam)_ к Высшему [Состоянию] _(param)_ --т.e. есть разные способы осознания Высшего Я или Шивы--. Для людей _(nṛṇām)_, преданных _(juṣām)_ различным _(nānā)_ путям _(patha)_, прямым и извилистым _(ṛju-kuṭila)_, согласно разнообразию _(vaicitryāt)_ их аппетитов _(rucīnām)_, Ты _(tvam)_ являешься _(asi)_ единственной _(ekaḥ)_ целью для достижения _(gamyaḥ)_, подобно тому, чем _(iva)_ океан [является] _(arṇavaḥ)_ для вод _(payasām)_ --т.e. воды рек, дождь и т.д. в результате  впадают в океан--||7||
+
+
+[/sect] [sect]
+[sans]महोक्षः खट्वाङ्गं परशुरजिनं भस्म फणिनः कपालं चेतीयत्तव वरद तन्त्रोपकरणम्।
+सुरास्तां तामृद्धिं दधति तु भवद्भ्रप्रणिहितां न हि स्वात्मारामं विषयमृगतृष्णा भ्रमयति॥८॥[/sans]
+[trans]Mahokṣaḥ khaṭvāṅgaṁ paraśurajinaṁ bhasma phaṇinaḥ kapālaṁ cetīyattava varada tantropakaraṇam|
+Surāstāṁ tāmṛddhiṁ dadhati tu bhavadbhrapraṇihitāṁ na hi svātmārāmaṁ viṣayamṛgatṛṣṇā bhramayati||8||[/trans]
+«Крупный  _(mahā)_ бык _(ukṣaḥ)_, посох в форме остова кровати --т.e. посох с черепом на конце-- _(khaṭvāṅgam)_, томагавк _(paraśuḥ)_, шкура тигра _(ajinam)_, пепел _(bhasma)_, кобры с раздутыми капюшонами _(phaṇinaḥ)_ и _(ca)_ череп _(kapālam... iti)_» -- iti означает кавычки--: только эти предметы _(iyat)_ являются Твоей _(tava)_ основной характерной _(tantra)_ утварью _(upakaraṇam)_, о Дарующий _(da)_ милость _(vara)_! Тем не менее _(tu)_, боги _(surāḥ)_ получают _(dadhati)_ различные _(tām tām)_ «риддхи» --т.e. процветание, богатство, успех и т.д.-- _(ṛddhim)_, [появляющиеся как результат] Твоей _(bhavat)_ концентрации _(praṇihitām)_ на [области между] бровями _(bhra)_. Несомненно _(hi)_, мираж _(mṛgatṛṣṇā)_ из объектов _(viṣaya)_ не _(na)_ волнует _(bhramayati)_ того, кто наслаждается _(ārāmam)_ своим _(sva)_ Высшим Я _(ātma)_||8||
+
+
+[/sect] [sect]
+[sans]ध्रुवं कश्चित् सर्वं सकलमपरस्त्वध्रुवमिदं परो ध्रौव्याध्रौव्ये जगति गदति व्यस्तविषये।
+समस्तेऽप्येतस्मिन् पुरमथन तैर्विस्मित इव स्तुवञ्जिह्रेमि त्वां न खलु ननु धृष्टा मुखरता॥९॥[/sans]
+[trans]Dhruvaṁ kaścit sarvaṁ sakalamaparastvadhruvamidaṁ paro dhrauvyādhrauvye jagati gadati vyastaviṣaye|
+Samaste'pyetasmin puramathana tairvismita iva stuvañjihremi tvāṁ na khalu nanu dhṛṣṭā mukharatā||9||[/trans]
+Некоторые _(kaścid)_ [утверждают, что] всё _(sarvam)_ вечно _(dhruvam)_. Тем не менее _(tu)_, другие _(aparaḥ)_ [говорят, что] всё _(sakalam)_ это _(idam)_ не вечно _(adhruvam)_. [В свою очередь] третьи _(paraḥ)_ провозглашают _(gadati)_ в отношении этого мира _(jagati)_, состоящего из различных _(vyasta)_ объектов и качеств _(viṣaye)_, что он как вечный _(dhrauvya)_, так и эфемерный  --adhrauvya-- _(adhrauvye)_. О Разрушитель _(mathana)_ _(трёх)_ городов _(pura)_! Удивлённый _(vismitaḥ)_, так сказать _(iva)_, всеми этими [точками зрения] _(taiḥ)_ в отношении всего _(samaste)_ этого _(Создания)_ _(api etasmin)_, Я не стыжусь _(jihremi... na)_ восхвалять _(stuvan)_ Тебя _(tvām)_... [Моя] разговорчивость _(mukharatā)_ действительно _(khalu nanu)_ дерзка _(dhṛṣṭā)_!||9||
+
+
+[/sect] [sect]
+[sans]तवैश्वर्यं यत्नाद्यदुपरि विरिञ्चिर्हरिरधः परिच्छेत्तुं यातावनलमनलस्कन्धवपुषः।
+ततो भक्तिश्रद्धाभरगुरुगृणद्भ्यां गिरिश यत्स्वयं तस्थे ताभ्यां तव किमनुवृत्तिर्न फलति॥१०॥[/sans]
+[trans]Tavaiśvaryaṁ yatnādyadupari viriñcirhariradhaḥ paricchetuṁ yātāvanalamanalaskandhavapuṣaḥ|
+Tato bhaktiśraddhābharagurugṛṇadbhyāṁ girīśa yatsvayaṁ tasthe tābhyāṁ tava kimanuvṛttirna phalati||10||[/trans]
+Brahmā --Создатель-- _(viriñciḥ)_ сверху _(yad-upari)_ _(и)_ Viṣṇu --Поддерживающий-- _(hariḥ)_ снизу _(adhas)_ продолжили _(yātau)_ с усилием _(yatnāt)_ точно определять _(paricchettum)_ Твой _(tava)_ Суверенитет или Господство _(aiśvaryam)_, [когда Ты принял] форму  _(vapuṣaḥ)_ огненного _(anala)_ столба _(skandha)_, [но] этого было недостаточно --т.e. у них ничего не получилось-- _(analam)_. [Тем не менее] потом _(tatas)_, [только] когда они оба восхваляли [Шиву] _(gṛṇadbhyām)_ в высшей степени _(guru)_ с _(bhara)_ преданностью _(bhakti)_ и верой _(śraddhā)_, о Girīśa --т.e. «Горный Господь», эпитет Шивы-- _(giri-īśa)_, тогда _(yad)_ Он --Шива-- показал _(tasthe)_ Его [сущностную природу] _(svayam)_ им обоим _(tābhyām)_. Какое _(kim)_ уважительное действие _(anuvṛttiḥ)_ в честь Тебя  _(tava)_ [подобное тому, которое выполнили Брахмаа и Вишну] не принесёт [в конце концов] плодов?||10||
+
+
+[/sect] [sect]
+[sans]अयत्नादापाद्य त्रिभुवनमवैरव्यतिकरं दशास्यो यद्बाहूनभृत रणकण्डूपरवशान्।
+शिरःपद्मश्रेणीरचितचरणाम्भोरुहबलेः स्थिरायास्त्वद्भक्तेस्त्रिपुरहर विस्फूर्जितमिदम्॥११॥[/sans]
+[trans]Ayatnādāpādya tribhuvanamavairavyatikaraṁ daśāsyo yadbāhūnabhṛta raṇakaṇḍūparavaśān|
+Śiraḥpadmaśreṇīracitacaraṇāmbhoruhabaleḥ sthirāyāstvadbhaktestripurahara visphūrjitamidam||11||[/trans]
+Без усилий _(ayatnāt)_ избавившись от всего вражеского проникновения --т.e. от всех врагов из трёх миров-- досл. «приведя _(āpādya)_ три _(tri)_ мира _(bhuvanam)_ в состояние без _(a)_ какого-либо вражеского _(vaira)_ проникновения _(vyatikaram)_ »-- _(āpādya tribhuvanam avairavyatikaram)_, у [демона] с десятью ртами --Rāvaṇa, известного врага Rāmacandra-- _(daśa-āsyaḥ)_ его _(yad)_ _(двадцать)_ рук _(bāhūn... abhṛta)_ _(всё ещё)_ одолевало _(paravaśān)_ желание --досл. «они чесались»-- _(kaṇḍū)_ сражения _(raṇa)_. [После этого], о Разрушитель _(hara)_ трёх _(tri)_ городов _(pura)_!, _(Rāvaṇa)_ сложил _(racita)_ в ряд _(śreṇī)_ [его десять] лотосных голов _(śiras-padma)_ в виде подношения  --bali-- _(baleḥ)_ к [Твоим] стопам _(caraṇa)_, [прекрасным] как лотос _(ambhoruha)_. [Он сделал это] из-за [своей] непоколебимой _(sthirāyāḥ)_ преданности _(bhakteḥ)_ Тебе _(tvat)_. Этот [акт сдачи] _(idam)_ случился спонтанно _(visphūrjitam)_||11||
+
+
+[/sect] [sect]
+[sans]अमुष्य त्वत्सेवासमधिगतसारं भुजवनं बलात्कैलासेऽपि त्वदधिवसतौ विक्रमयतः।
+अलभ्या पातालेऽप्यलसचलिताङ्गुष्ठशिरसि प्रतिष्ठा त्वय्यासीद्ध्रुवमुपचितो मुह्यति खलः॥१२॥[/sans]
+[trans]Amuṣya tvatsevāsamadhigatasāraṁ bhujavanaṁ balātkailāse'pi tvadadhivasatau vikramayataḥ|
+Alabhyā pātāle'pyalasacalitāṅguṣṭhaśirasi pratiṣṭhā tvayyāsīddhruvamupacito muhyati khalaḥ||12||[/trans]
+[Тем не менее,] для этого [самого демона] _(amuṣya)_ не находилось _(alabhyā... āsīt)_ места покоя _(pratiṣṭhā)_ даже _(api)_ в низшем аду --или в «низшей области»-- _(pātāle)_ когда (Ты) праздно _(alasa)_ пошевелил _(calita)_ кончиком --śiras-- _(śirasi)_ Твоего --tava-- _(tvayi)_ великого пальца ноги _(aṅguṣṭha)_, (потому что он) также _(api)_ [ранее] отправился маршем _(vikramayataḥ)_ на Кайласу _(kailāse)_, Твою _(tvat)_ Обитель --adhivasati-- _(adhivasatau)_, _(в попытке захватить её)_ силой _(balāt)_ его [бесчисленных] рук _(bhuja)_, похожих на лес _(vanam)_, чья сила _(sāram)_ была достигнута _(samadhigatam)_ служением _(sevā)_ Тебе _(tvat)_. Однозначно _(dhruvam)_, бесшабашный человек _(khalaḥ)_ впадает в заблуждение _(muhyati)_ из-за богатства _(upacitaḥ)_||12||
+
+
+[/sect] [sect]
+[sans]यदृद्धिं सुत्राम्णो वरद परमोच्चैरपि सतीमधश्चक्रे बाणः परिजनविधेयत्रिभुवनः।
+न तच्चित्रं तस्मिन्वरिवसितरि त्वच्चरणयोर्न कस्या उन्नत्यै भवति शिरसस्त्वय्यवनतिः॥१३॥[/sans]
+[trans]Yadṛddhiṁ sutrāmṇo varada paramoccairapi satīmadhaścakre bāṇaḥ parijanavidheyatribhuvanaḥ|
+Na taccitraṁ tasminvarivasitari tvaccaraṇayorna kasyā unnatyai bhavati śirasastvayyavanatiḥ||13||[/trans]
+О дарующий _(da)_ милость _(vara)_! Что касается _(yad)_ Bāṇa _(bāṇaḥ)_, который превратил три _(tri)_ мира _(bhuvanaḥ)_ в послушных _(vidheya)_ слуг _(parijana)_, [он наслаждался] даже _(api)_ богатством _(ṛddhim)_ Сутраамана --эпитет Индры, бога рая, означающий «хорошо защищающий»-- _(sutrāmṇaḥ)_, которое является _(satīm)_ крайне _(uccais)_ превосходным _(parama)_ в нижней _(adhas)_ реалии, [которой он правил как царь] _(cakre)_. Это _(tad)_ (совсем) не _(na)_ удивительно _(citram)_, [потому что] тот [царь демонов] _(tasmin)_ поклонялся _(varivasitari)_ Твоим _(tvat)_ стопам _(caraṇayoḥ)_. К какому богатству _(kasyai unnatyai)_ склонение _(avanatiḥ)_ _(своей)_ головы _(śirasaḥ)_ перед Тобой _(tvayi)_ не _(na)_ приведёт _(bhavati)_? --т.e. не существует богатства, недоступного тому, кто склоняет свою голову перед Тобой--||13||
+
+
+[/sect] [sect]
+[sans]अकाण्डब्रह्माण्डक्षयचकितदेवासुरकृपाविधेयस्यासीद्यस्त्रिनयन विषं संहृतवतः।
+स कल्माषः कण्ठे तव न कुरुते न श्रियमहो विकारोऽपि श्लाघ्यो भुवनभयभङ्गव्यसनिनः॥१४॥[/sans]
+[trans]Akāṇḍabrahmāṇḍakṣayacakitadevāsurakṛpāvidheyasyāsīdyastrinayana viṣaṁ saṁhṛtavataḥ|
+Sa kalmāṣaḥ kaṇṭhe tava na kurute na śriyamaho vikāro'pi ślāghyo bhuvanabhayabhaṅgavyasaninaḥ||14||[/trans]
+О Трёхглазый  _(trinayana)_! То _(saḥ)_ [синее] пятно _(kalmāṣaḥ)_ на Твоём _(tava)_ горле _(kaṇṭhe)_, которое _(yaḥ)_ появилось _(āsīt)_ потому что [Ты] удержал [там] _(saṁhṛtavataḥ)_ яд [известный как _Kālakūṭa_] _(viṣam)_, когда был охвачен _(vidheyasya)_ состраданием _(kṛpā)_ к богам _(deva)_ и демонам _(asura)_, напуганным _(cakita)_ неожиданным _(akāṇḍa)_ разрушением _(kṣaya)_ вселенной _(brahmāṇḍa)_, определённо _(na... na)_ украшает [Тебя] _(kurute...śriyam)_. Ах _(aho)_! Даже _(api)_ [вышеупомянутое] изменение в теле _(vikāraḥ)_ того [Верховного Божества], которое обожает _(vyasaninaḥ)_ рассеивать _(bhaṅga)_ страх _(bhaya)_ во всём мире _(bhuvana)_, достойно восхваления _(ślāghyaḥ)_||14||
+
+
+[/sect] [sect]
+[sans]असिद्धार्था नैव क्वचिदपि सदेवासुरनरे निवर्तन्ते नित्यं जगति जयिनो यस्य विशिखाः।
+स पश्यन्नीश त्वामितरसुरसाधारणमभूत्स्मरः स्मर्तव्यात्मा न हि वशिषु पथ्यः परिभवः॥१५॥[/sans]
+[trans]Asiddhārthā naiva kvacidapi sadevāsuranare nivartante nityaṁ jagati jayino yasya viśikhāḥ|
+Sa paśyannīśa tvāmitarasurasādhāraṇamabhūtsmaraḥ smartavyātmā na hi vaśiṣu pathyaḥ paribhavaḥ||15||[/trans]
+О Господь _(īśa)_! Он --Kāmadeva, бог любви-- _(saḥ)_, чьи _(yasya)_ стрелы _(viśikhāḥ)_ всегда _(nityam)_ победоносны _(jayinaḥ)_ и не пропускают цели _(asiddha-arthāḥ... nivartante)_ нигде _(na eva kvacid-api)_ в этом мире _(jagati)_, состоящем _(sa)_ из богов _(deva)_, демонов _(asura)_ _(и)_ человеческих существ --nara-- _(nare)_, [просто] считал _(paśyan)_ Тебя _(tvām)_ подобным _(sādhāraṇam)_ более низкому _(itara)_ богу _(sura)_, и _(поэтому)_ стал _(abhūt)_ воспоминанием _(smaraḥ)_, живущим [только] в памяти [людей] _(smartavya-ātmā)_. Несомненно _(hi)_, оскорбление _(paribhavaḥ)_, [нанесённое] обуздавшим себя _(vaśiṣu)_, не _(na)_ приводит к благосостоянию _(pathyaḥ)_||15||
+
+
+[/sect] [sect]
+[sans]मही पादाघाताद्व्रजति सहसा संशयपदं पदं विष्णोर्भ्राम्यद्भुजपरिघरुग्णग्रहगणम्।
+मुहुर्द्यौर्दौस्थ्यं यात्यनिभृतजटाताडिततटा जगद्रक्षायै त्वं नटसि ननु वामैव विभुता॥१६॥[/sans]
+[trans]Mahī pādāghātādvrajati sahasā saṁśayapadaṁ padaṁ viṣṇorbhrāmyadbhujaparigharugṇagrahagaṇam|
+Muhurdyaurdausthyaṁ yātyanibhṛtajaṭātāḍitataṭā jagadrakṣāyai tvaṁ naṭasi nanu vāmaiva vibhutā||16||[/trans]
+Из-за удара _(āghātāt)_ [Твоих] стоп _(pāda)_, земля _(mahī)_ вдруг _(sahasā)_ начинает сомневаться _(vrajati... saṁśaya-padam)_. [На самом деле все] три мира --досл. «[три] шага Viṣṇu»-- _(padam viṣṇoḥ)_, которые состоят из множества _(gaṇam)_ планет _(graha)_, разбитые вдребезги _(rugṇa)_ _(Твоими)_ руками _(bhuja)_, подобными железным брусьям _(parigha)_, испытывают смятение _(bhrāmyat)_. Неожиданно _(muhur)_, небо _(dyaus)_ становится _(yāti)_ несчастным _(dausthyam)_, [когда его] покатые края _(taṭāḥ)_ хлыстаются _(tāḍita)_ _(Твоими)_ волнистыми _(anibhṛta)_ скрученными локонами _(jaṭā)_ [во время того, как] Ты _(tvam)_ исполняешь танец _(naṭasi)_ для защиты _(rakṣāyai)_ мира _(jagat)_. Определённо _(eva)_, _(Твои)_ Сила и Превосходство _(vibhutā)_ нежелательны [в этот момент] _(vāmā)_, без сомнений _(nanu)_||16||
+
+
+[/sect] [sect]
+[sans]वियद्व्यापी तारागणगुणितफेनोद्गमरुचिः प्रवाहो वारां यः पृषतलघुदृष्टः शिरसि ते।
+जगद्द्वीपाकारं जलधिवलयं तेन कृतमित्यनेनैवोन्नेयं धृतमहिम दिव्यं तव वपुः॥१७॥[/sans]
+[trans]Viyadvyāpī tārāgaṇaguṇitaphenodgamaruciḥ pravāho vārāṁ yaḥ pṛṣatalaghudṛṣṭaḥ śirasi te|
+Jagaddvīpākāraṁ jaladhivalayaṁ tena kṛtamityanenaivonneyaṁ dhṛtamahima divyaṁ tava vapuḥ||17||[/trans]
+Тот _(yaḥ)_ непрекращающийся поток _(pravāhaḥ)_ вод --это эпитет божественной реки по имени «Mandākinī»-- _(vārām)_, который растекается _(vyāpī)_ по небесам _(viyat)_ [и чья] красота _(ruciḥ)_, предстающая _(udgama)_ в виде пены _(phena)_, усиливается _(guṇita)_ множеством _(gaṇa)_ звёзд _(tārā)_, выглядит _(dṛṣṭaḥ)_ маленькой _(laghu)_ капелькой _(pṛṣata)_ на Твоей _(te)_ голове _(śirasi)_. Мир _(jagat)_ создаётся _(kṛtam)_ этой самой [священной рекой] _(tena)_ в форме _(ākāram)_ _(семи)_ островов _(dvīpa)_, окружённых _(valayam)_ океаном _(jaladhi)_. Таким образом _(iti)_ из этого [заявления] _(anena eva)_ [можно с легкостью] аналогично сделать вывод _(unneyam)_ о Твоей _(tava)_ Божественной _(divyam)_ Форме _(vapus)_, наделённой постоянным и устойчивым _(dhṛta)_ величием _(mahima)_||17||
+
+
+[/sect] [sect]
+[sans]रथः क्षोणी यन्ता शतधृतिरगेन्द्रो धनुरथो रथाङ्गे चन्द्रार्कौ रथचरणपाणिः शर इति।
+दिधक्षोस्ते कोऽयं त्रिपुरतृणमाडम्बरविधिर्विधेयैः क्रीडन्त्यो न खलु परतन्त्राः प्रभुधियः॥१८॥[/sans]
+[trans]Rathaḥ kṣoṇī yantā śatadhṛtiragendro dhanuratho rathāṅge candrārkau rathacaraṇapāṇiḥ śara iti|
+Didhakṣoste ko'yaṁ tripuratṛṇamāḍambaravidhirvidheyaiḥ krīḍantyo na khalu paratantrāḥ prabhudhiyaḥ||18||[/trans]
+[Твоей] колесницей _(rathaḥ)_ _(была)_ земля _(kṣoṇī)_, колесничим _(yantā)_ _(был)_ Brahmā --также называемый «Śatadhṛti», досл. означает «обладающий сотней жертвоприношений»-- _(śatadhṛtiḥ)_, гора Меру -- также известная как «Agendra», досл. означает «царь гор»-- _(agendraḥ)_ [была Твоим] луком _(dhanus)_. Также _(atho)_ двумя колёсами _(aṅge)_ [Твоей] колесницы _(rathaḥ)_ _(были)_ солнце --arka-- и луна --candra-- _(candrārkau)_. Viṣṇu --называемый «Rathacaraṇapāṇi», досл. означает «держащий в руках колесо колесницы»-- _(rathacaraṇapāṇiḥ)_ [был Твоей] стрелой _(śaraḥ iti)_, когда Ты --tvam-- _(te)_ пожелал сжечь --didhakṣu-- _(didhakṣoḥ)_ три _(tri)_ города _(pura)_, [которые были как] трава _(tṛṇam)_ [для Тебя].  [Тем не менее], в чём смысл _(kaḥ)_ этого _(ayam)_ громкого _(āḍambara)_ действия _(vidhiḥ)_? [На самом деле] Мысли  _(dhiyaḥ)_ Господа _(prabhu)_ не _(na khalu)_ зависят _(tantrāḥ)_ ни от чего _(para)_, [а] играют _(krīḍantyaḥ)_ с объектами, находящимися в Его распоряжении _(vidheyaiḥ)_||18||
+
+
+[/sect] [sect]
+[sans]हरिस्ते साहस्रं कमलबलिमाधाय पदयोर्यदेकोने तस्मिन्निजमुदहरन्नेत्रकमलम्।
+गतो भक्त्युद्रेकः परिणतिमसौ चक्रवपुषा त्रयाणां रक्षायै त्रिपुरहर जागर्ति जगताम्॥१९॥[/sans]
+[trans]Hariste sāhasraṁ kamalabalimādhāya padayoryadekone tasminnijamudaharannetrakamalam|
+Gato bhaktyudrekaḥ pariṇatimasau cakravapuṣā trayāṇāṁ rakṣāyai tripurahara jāgarti jagatām||19||[/trans]
+О Разрушитель _(hara)_ трёх _(tri)_ городов _(pura)_! Хари --т.e. Viṣṇu-- _(hariḥ)_, положив _(ādhāya)_ _(своё)_ подношение _(balim)_ из тысячи _(sāhasram)_ лотосов _(kamala)_ к Твоим _(te)_ стопам _(padayoḥ)_, _(заметил),_ что _(yad)_ одного [из лотосов] не хватало _(ekone)_ в этом [подношении] _(tasmin)_. [И поэтому], он вырвал _(udaharat)_ [один] из своих _(nijam)_ лотосных глаз _(netrakamalam)_, [чтобы решить эту проблему]. [В результате], изобилие _(udrekaḥ)_ _(его)_ преданности _(bhakti)_ _(было)_ превращено _(gataḥ... pariṇatim)_ _(Тобою)_ в то _(asau)_ прекрасное _(vapuṣā)_ Колесо [известное как «Sudarśana»] _(cakra)_, которое с бдительностью _(jāgarti)_ защищает _(rakṣāyai)_ три _(trayāṇām)_ мира _(jagatām)_||19||
+
+
+[/sect] [sect]
+[sans]क्रतौ सुप्ते जाग्रत्त्वमसि फलयोगे क्रतुमतां क्व कर्म प्रध्वस्तं फलति पुरुषाराधनमृते।
+अतस्त्वां सम्प्रेक्ष्य क्रतुषु फलदानप्रतिभुवं श्रुतौ श्रद्धां बद्ध्वा दृढपरिकरः कर्मसु जनः॥२०॥[/sans]
+[trans]Kratau supte jāgrattvamasi phalayoge kratumatāṁ kva karma pradhvastaṁ phalati puruṣārādhanamṛte|
+Atastvāṁ samprekṣya kratuṣu phaladānapratibhuvaṁ śrutau śraddhāṁ baddhvā dṛḍhaparikaraḥ karmasu janaḥ||20||[/trans]
+Когда жертвоприношение --kratu-- _(kratau)_ заканчивается --досл. «засыпает»-- _(supte)_, Ты _(tvam)_ продолжаешь _(asi)_ бодрствовать _(jāgrat)_, чтобы вознаградить _(phalayoge)_ приносящего жертву _(kratumatām)_. Как _(kva)_ ритуал жертвоприношения _(karma)_, который закончился _(pradhvastam)_ может принести плоды _(phalati)_ без _(ṛte)_ поклонения _(ārādhanam)_ Пуруше или Верховной Личности -- Шиве-- _(puruṣa)_? По этой причине _(atas)_, осознав _(samprekṣya)_, что Ты [являешься] _(tvām)_ дарующим плоды _(phala-dānapratibhuvam)_ в жертвоприношениях _(kratuṣu)_, и обладая _(baddhvā)_ верою _(śraddhām)_ в Шрути --т.e. в Веды-- _(śrutau)_, люди _(janaḥ)_ решительно _(dṛḍha)_ выполняют _(parikaraḥ)_ обряды жертвоприношения _(karmasu)_||20||
+
+
+[/sect] [sect]
+[sans]क्रियादक्षो दक्षः क्रतुपतिरधीशस्तनुभृतामृषीणामार्त्विज्यं शरणद सदस्याः सुरगणाः।
+क्रतुभ्रंशस्त्वत्तः क्रतुफलविधानव्यसनिनो ध्रुवं कर्तुः श्रद्धाविधुरमभिचाराय हि मखाः॥२१॥[/sans]
+[trans]Kriyādakṣo dakṣaḥ kratupatiradhīśastanubhṛtāmṛṣīṇāmārtvijyaṁ śaraṇada sadasyāḥ suragaṇāḥ|
+Kratubhraṁśastvattaḥ kratuphalavidhānavyasanino dhruvaṁ kartuḥ śraddhāvidhuramabhicārāya hi makhāḥ||21||[/trans]
+О Дарующий _(da)_ убежище _(śaraṇa)_! Ты --tvam-- _(tvattaḥ)_, обожающий _(vyasaninaḥ)_ постоянно _(dhruvam)_ даровать _(vidhāna)_ плоды _(phala)_ жертвоприношений _(kratu)_, испортил --ababhraṁśas или abhraṁśayas-- _(bhraṁśaḥ)_ [то известное] жертвоприношение _(kratu)_, [в котором] _Dakṣa_ -- отец _Satī_, первой жены Шивы-- _(dakṣaḥ)_, эксперт _(dakṣaḥ)_ в ритуалах жертвоприношений _(kriyā)_ и господин _(adhīśaḥ)_ всех существ, наделённых _(bhṛtām)_ телом _(tanu)_, выполнял роль приносящего жертву _(kratupatiḥ)_. [В свою очередь] роль «ṛtvij» --жрецов-- _(ārtvijyam)_ исполнялась [самими] ведическими Мудрецами --Ṛṣi-- _(ṛṣīṇām)_, [в то время как] полки _(gaṇāḥ)_ богов _(sura)_ [служили] верховными жрецами _(sadasyāḥ)_. Несомненно _(hi)_, жертвоприношения _(makhāḥ)_, [выполненные] для очарования [других] _(abhicārāya)_, нежелательны _(vidhuram)_ для веры _(śraddhā)_ исполняющего их _(kartuḥ)_||21||
+
+
+[/sect] [sect]
+[sans]प्रजानाथं नाथ प्रसभमभिकं स्वां दुहितरं गतं रोहिद्भूतां रिरमयिषुमृष्यस्य वपुषा।
+धनुष्पाणेर्यातं दिवमपि सपत्राकृतममुं त्रसन्तं तेऽद्यापि त्यजति न मृगव्याधरभसः॥२२॥[/sans]
+[trans]Prajānāthaṁ nātha prasabhamabhikaṁ svāṁ duhitaraṁ gataṁ rohidbhūtāṁ riramayiṣumṛṣyasya vapuṣā|
+Dhanuṣpāṇeryātaṁ divamapi sapatrākṛtamamuṁ trasantaṁ te'dyāpi tyajati na mṛgavyādharabhasaḥ||22||[/trans]
+
+О Господин _(nātha)_! Твоя _(te)_ мощная ярость _(rabhasaḥ)_ в форме охотника _(mṛgavyādha)_ даже сейчас _(adya-api)_ не _(na)_ покидает _(tyajati)_ того _(amum)_ господа _(nātham)_ _(всех)_ живых существ _(prajā)_ --т.e. Брахму, или Создателя, из известной триады--, который был ранен _(sapatrā-kṛtam)_ [стрелами вышеупомянутого] охотника с луком в руках _(dhanuṣpāṇeḥ)_ [и] убежал _(yātam)_ даже _(api)_ на небеса _(divam)_ в страхе [Тебя] _(trasantam)_. [Всё это произошло из-за того, что _Brahmā_] был охвачен _(gatam)_ невероятной _(prasabham)_ похотью _(abhikam)_ по отношению к своей собственной _(svām)_ дочери _(duhitaram)_. [Он принял] форму --vapus-- _(vapuṣā)_ белоногой антилопы _(ṛṣyasya)_, чтобы овладеть [ею] _(riramayiṣum)_ [и тогда она] стала _(bhūtām)_ красным оленем _(rohit)_, [чтобы улететь от него]||22||
+
+
+[/sect] [sect]
+[sans]स्वलावण्याशंसा धृतधनुषमह्नाय तृणवत्पुरः प्लुष्टं दृष्ट्वा पुरमथन पुष्पायुधमपि।
+यदि स्त्रैणं देवी यमनिरत देहार्धघटनादवैति त्वामद्धा बत वरद मुग्धा यवतयः॥२३॥[/sans]
+[trans]Svalāvaṇyāśaṁsā dhṛtadhanuṣamahnāya tṛṇavatpuraḥ pluṣṭaṁ dṛṣṭvā puramathana puṣpāyudhamapi|
+Yadi straiṇaṁ devī yamanirata dehārdhaghaṭanādavaiti tvāmaddhā bata varada mugdhā yuvatayaḥ||23||[/trans]
+О Разрушитель _(mathana)_ [трёх] миров _(pura)_! Если _(yadi)_ богиня _(Pārvatī)_ _(devī)_, _(чья)_ надежда _(āśaṁsā)_ основана на ее собственной _(sva)_ красоте и очаровании _(lāvaṇya)_, даже _(api)_ в прошлом _(puras)_ увидев _(dṛṣṭvā)_ _(как)_ Puṣpāyudha --досл. «цвето-рукий», эпитет Каамадевы, бога любви-- _(puṣpāyudham)_, оснащенный луком _(dhṛtadhanuṣam)_ [был] немедленно _(ahnāya)_ испепелён _(pluṣṭam)_ _(Тобой)_ подобно _(vat)_ травинке _(tṛṇa)_, [всё ещё] считает _(avaiti)_, что Ты _(tvām)_ управляем женщиной _(straiṇam)_, о Ты, посвящающий себя  _(nirata)_ [разному роду] ограничений _(yama)_! Поскольку [она] занимает _(ghaṭanāt)_ половину _(ardha)_ [Твоего] тела _(deha)_... [увы], о _(bata)_ Дарующий _(da)_ милость _(vara)_, молодые женщины _(yuvatayaḥ)_ определённо _(addhā)_ неопытны и просты _(mugdhāḥ)_!||23||[/trans]
+
+[/sect] [sect]
+[sans]श्मशानेष्वाक्रीडा स्मरहर पिशाचाः सहचराश्चिताभस्मालेपः स्रगपि नृकरोटीपरिकरः।
+अमाङ्गल्यं शीलं तव भवतु नामैवमखिलं तथापि स्मर्तॄणां वरद परमं मङ्गलमसि॥२४॥[/sans]
+[trans]Śmaśāneṣvākrīḍā smarahara pīśācāḥ sahacarāścitābhasmālepaḥ sragapi nṛkaroṭīparikaraḥ|
+Amāṅgalyaṁ śīlaṁ tava bhavatu nāmaivamakhilaṁ tathāpi smartṝṇāṁ varada paramaṁ maṅgalamasi||24||[/trans]
+О Разрушитель _(hara)_ Смары --т.e. Каамадевы, бога любви-- _(smara)_! _(Твоей)_ площадкой для игр _(ākrīḍā)_ [является] крематорий _(śmaśāneṣu)_, _(а)_ Piśāca --вид демонов-- _(piśācāḥ)_ _(Твои)_ спутники _(sahacarāḥ)_. _(Ты)_ наносишь _(ālepaḥ)_ пепел _(bhasma)_ похоронных костров [на Свое собственное тело] _(citā)_ _(и)_ даже _(api)_ [носишь] гирлянду _(srak)_ [из] множества _(parikaraḥ)_ человеческих _(nṛ)_ черепов _(karoṭī)_. Поэтому _(evam)_, _(пусть)_ всё _(akhilam)_ Твоё _(tava)_ поведение _(śīlam)_ будет _(bhavatu)_ названо _(nāma)_ «неблагоприятным» _(amāṅgalyam)_!... Тем не менее _(tathā-api)_, о Дарующий _(da)_ милость _(vara)_, Ты _(asi)_ Высшее _(paramam)_ Благосостояние _(maṅgalam)_ для тех, кто помнит [Тебя]! _(smartṝṇām)_||24||
+
+[/sect] [sect]
+[sans]मनः प्रत्यक्चित्ते सविधमवधायात्तमरुतः प्रहृष्यद्रोमाणः प्रमदसलिलोत्सङ्गितदृशः।
+यदालोक्याह्लादं ह्रद इव निमज्ज्यामृतमये दधत्यन्तस्तत्त्वं किमपि यमिनस्तत् किल भवान्॥२५॥[/sans]
+[trans]Manaḥ pratyakcitte savidhamavadhāyāttamarutaḥ prahṛṣyadromāṇaḥ pramadasalilotsaṅgitadṛśaḥ|
+Yadālokyāhlādaṁ hrada iva nimajjyāmṛtamaye dadhatyantastattvaṁ kimapi yaminastat kila bhavān||25||[/trans]
+Погрузив _(avadhāya)_ ум _(manas)_ в Высшее Я _(pratyakcitte)_, согласно наставлениям писаний _(savidham)_, _(и)_ контролируя _(ātta)_ дыхание _(marutaḥ)_, с глазами _(dṛśaḥ)_ полными _(utsaṅgita)_ слёз _(salila)_, [испытывая] Радость _(pramada)_, от которой встают дыбом _(prahṛṣyat)_ волосы _(на из телах)_ _(romāṇaḥ)_, обладающие самоконтролем [мудрецы] _(yaminaḥ)_, во время _(yadā)_ созерцания _(ālokya)_ Восторга _(āhlādam)_ _(и)_ погружаясь _(nimajjya)_, так сказать _(iva)_, в Озеро _(hrade)_ из --mayaḥ-- _(maye)_ Нектара _(amṛta)_, ухватывают -- т.е. «осознают»-- _(dadhati)_ Внутренний _(antar)_ Принцип _(tattvam)_ в значительной степени _(kim-api)_. Ты _(bhavān)_ определённо [являешься] _(kila)_ тем [Внутренним Принципом] _(tad)_||25||
+
+[/sect] [sect]
+[sans]त्वमर्कस्त्वं सोमस्त्वमसि पवनस्त्वं हुतवहस्त्वमापस्त्वं व्योम त्वमु धरणिरात्मा त्वमिति च।
+परिच्छिन्नामेवं त्वयि परिणता विभ्रतु गिरं न विद्मस्तत्तत्त्वं वयमिह तु यत्त्वं न भवसि॥२६॥[/sans]
+[trans]Tvamarkastvaṁ somastvamasi pavanastvaṁ hutavahastvamāpastvaṁ vyoma tvamu dharaṇirātmā tvamiti ca|
+Paricchinnāmevaṁ tvayi pariṇatā bibhratu giraṁ na vidmastattattvaṁ vayamiha tu yattvaṁ na bhavasi||26||[/trans]
+«Ты _(tvam)_ — солнце _(arkaḥ)_; Ты _(tvam)_— луна _(somaḥ)_; Ты _(tvam)_ являешься _(asi)_ воздухом _(pavanaḥ)_; Ты _(tvam)_ — огонь --«принимающий жертвоприношение»-- _(huta-vahaḥ)_; Ты _(tvam)_ — вода _(āpaḥ)_; Ты _(tvam)_ — пространство_ _(vyoma)_._ Ты _(tvam)_ — во истину _(u)_ земля _(dharaṇiḥ)_ и _(ca)_ Ты _(tvam)_ — Высшее Я _(ātmā)_» --«iti» означает кавычки--. Итак _(evam)_, [пусть] те, кто претерпел изменения --мудрецы-- _(pariṇatāḥ)_ трепетно хранят _(bibhratu)_ ограниченные _(paricchinnām)_ описания --досл. «слова»-- _(giram)_ Тебя _(tvayi)_! Тем не менее _(tu)_, в этом мире _(iha)_, мы _(vayam)_ не _(na)_ знаем _(vidmaḥ)_ той _(tad)_ реальности _(tattvam)_, которой _(yad)_ Ты _(tvam)_ не являлся бы _(na bhavasi)_||26||
+
+[/sect] [sect]
+[sans]त्रयीं तिस्रो वृत्तीस्त्रिभुवनमथो त्रीनपि सुरानकाराद्यैर्वर्णैस्त्रिभिरभिदधत्तीर्णविकृति।
+तुरीयं ते धाम ध्वनिभिरवरुन्धानमणुभिः समस्तं व्यस्तं त्वां शरणद गृणात्योमिति पदम्॥२७॥[/sans]
+[trans]Trayīṁ tisro vṛttīstribhuvanamatho trīnapi surānakārādyairvarṇaistribhirabhidadhattīrṇavikṛti|
+Turīyaṁ te dhāma dhvanibhiravarundhānamaṇubhiḥ samastaṁ vyastaṁ tvāṁ śaraṇada gṛṇātyomiti padam||27||[/trans]
+О Дарующий _(da)_ убежище _(śaraṇa)_! Слово _(padam)_ «Om» _(om-iti)_ описывает _(gṛṇāti)_ Тебя _(tvām)_ отдельно _(vyastam)_ с помощью [своих] трёх  _(tribhiḥ)_ букв _(varṇaiḥ)_, [состоящих из различных] форм _(ākāra)_ и т.д. _(ādyaiḥ)_, [которые обозначают] три Веды _(trayīm)_, три _(tisras)_ состояния [сознания] --т.e. бодрствование, сон и глубокий сон--  _(vṛttīḥ)_, три _(tri)_ мира _(bhuvanam)_, а также _(atho... api)_ три _(trīn)_ бога _(surān)_. [Поэтому Ты] описываешься _(abhidadhat)_ как _(та Реальность),_ которая претерпела _(tīrṇa)_ [множество] изменений _(vikṛti)_. [В свою очередь], с помощью [этих самых трёх] тонких _(anubhiḥ)_ звуков --dhvani-- _(dhvanibhiḥ)_, [слово «Ом» описывает Тебя] в целом _(samastam)_, [так как] оно содержит _(avarundhānam)_ Четвёртое [состояние сознания] --т.e. Свидетеля всех остальных состояний-- _(turīyam)_, [являющееся] Твоей _(te)_ [Трансцендентальной] Обителью или Состоянием _(dhāma)_||27||
+
+[/sect] [sect]
+[sans]भवः शर्वो रुद्रः पशुपतिरथोग्रः सहमहांस्तथा भीमेशानाविति यदभिधानाष्टकमिदम्।
+अमुष्मिन्प्रत्येकं प्रविचरति देव श्रुतिरपि प्रियायास्मै धाम्ने प्रविहितनमस्योऽस्मि भवते॥२८॥[/sans]
+[trans]Bhavaḥ śarvo rudraḥ paśupatirathograḥ sahamahāṁstathā bhīmeśānāviti yadabhidhānāṣṭakamidam|
+Amuṣminpratyekaṁ pravicarati deva śrutirapi priyāyāsmai dhāmne pravihitanamasyo'smi bhavate||28||[/trans]
+«Бхава _(bhavaḥ)_, Шарва _(śarvaḥ)_, Рудра _(rudraḥ)_, Пашупати _(paśupatiḥ)_, а также _(atha)_ Угра _(ugraḥ)_ и _(saha)_ Махаадева _(mahān)_ и _(tathā)_ Бхиима _(bhīma)_ и Иишаана _(īśānau)_» --«iti» означает кавычки--. Это _(idam)_ – группа, состоящая из восьми _(aṣṭakam)_ имён _(abhidhāna)_ того _(Шивы)_ _(yad)_. О Бог _(deva)_! Даже если _(api)_ Шрути --Веды-- _(śrutiḥ)_ тщательно исследуют _(pravicarati)_ каждое из них _(pratyekam)_ в этой _(группе)_ _(amuṣmin)_, Я преклоняюсь _(pravihita-namasyaḥ asmi)_ перед этой _(asmai)_ дорогой _(priyāya)_ [Трансцендентальной] Обителью или [Высшим] Состоянием --dhāma-- _(dhāmne)_, [сутью которого являешься] Ты --bhavān-- _(bhavate)_||28||
+
+[/sect] [sect]
+[sans]नमो नेदिष्ठाय प्रियदव दविष्ठाय च नमो नमः क्षोदिष्ठाय स्मरहर महिष्ठाय च नमः।
+नमो वर्षिष्ठाय त्रिनयन यविष्ठाय च नमो नमः सर्वस्मै ते तदिदमितिसर्वाय च नमः॥२९॥[/sans]
+[trans]Namo nediṣṭhāya priyadava daviṣṭhāya ca namo namaḥ kṣodiṣṭhāya smarahara mahiṣṭhāya ca namaḥ|
+Namo varṣiṣṭhāya trinayana yaviṣṭhāya ca namo namaḥ sarvasmai te tadidamitisarvāya ca namaḥ||29||[/trans]
+О Ты, обожающий _(priya)_ огонь _(dava)_! Приветствия _(namas)_ Самому Близкому _(nediṣṭhāya)_ и _(ca)_ приветствия _(namas)_ Самому Далёкому _(daviṣṭhāya)_. О Разрушитель _(hara)_ Каамадевы [— бога любви] _(smara)_! Приветствия _(namas)_ Самому Малому _(kṣodiṣṭhāya)_, а также _(ca)_ приветствия _(namas)_ Самому Великому _(mahiṣṭhāya)_. О Трехглазый [Шива] _(trinayana)_! Приветствия _(namas)_ Старейшему _(varṣiṣṭhāya)_ и _(ca)_ приветствия _(namas)_ Самому Молодому _(yaviṣṭhāya)_. Приветствия _(namas)_ Тебе _(te)_, тому, кто является всем --sarva-- _(sarvasmai)_, _а также_ _(ca)_ приветствия _(namas)_ Сарве --эпитет Шивы-- _(sarvāya)_, [так как он является в форме] «того _(tad)_ и сего _(idam-iti)_» --Шива зовётся «Сарвой», потому что Он — этот человек и тот, это животное и то, этот объект и тот и т.д... Он всё и все--||29||
+
+[/sect] [sect]
+[sans]बहलरजसे विश्वोत्पत्तौ भवाय नमो नमः प्रबलतमसे तत्संहारे हराय नमो नमः।
+जनसुखकृते सत्त्वोद्रिक्तौ मृडाय नमो नमः प्रमहसि पदे निस्त्रैगुण्ये शिवाय नमो नमः॥३०॥[/sans]
+[trans]Bahalarajase viśvotpattau bhavāya namo namaḥ prabalatamase tatsaṁhāre harāya namo namaḥ|
+Janasukhakṛte sattvodriktau mṛḍāya namo namaḥ pramahasi pade nistraiguṇye śivāya namo namaḥ||30||[/trans]
+Множество приветствий _(namas namas)_ Бхаве -- эпитет Шивы, означающий «существование»-- _(bhavāya)_, [являющемуся в форме] _Viśvotpatti_ --досл. «тот, из кого происходит вселенная», то есть Brahmā, Создатель-- _(viśvotpattau)_, [в котором присутствует] огромное количество _(bahala)_ Rajoguṇa --т.e. качества «раджас»-- _(rajase)_. Я приветствую вновь и вновь _(namas namas)_ Хару --эпитет Шивы, означающий «Разрушитель»-- _(harāya)_, [являющемуся в форме] _Tatsaṁhāra_ --досл. «тот, кто разрушает эту [вселенную]», то есть, Рудра, Разрушитель-- _(tatsaṁhāre)_ [в котором присутствует] обильное количество _(prabala)_ Tamoguṇa --т.e. качества «тамас»-- _(tamase)_. Приветствую вновь и вновь _(namas namas)_ Мриду --эпитет Шивы, означающий «сострадательный» или «милостивый»-- _(mṛḍāya)_, [являющегося в форме] _Sattvodrikti_ --досл. «тот, в ком обильна Sattvaguṇa или качество «саттва», то есть, Вишну, Поддержателя-- _(sattvodriktau)_ во имя _(kṛte)_ счастья _(sukha)_ [всех] живых существ _(jana)_. Множество приветствий _(namas namas)_ Шиве --досл. «Благоприятный»-- _(śivāya)_, [являющемуся в форме] сияющего _(pramahasi)_ состояния _(pade)_, не наделённого гунами или качествами _(nistraiguṇye)_ ||30||
+
+[/sect] [sect]
+[sans]कृशपरिणति चेतः क्लेशवश्यं क्व चेदं क्व च तव गुणसीमोल्लङ्घिनी शश्वदृद्धिः।
+इति चकितममन्दीकृत्य मां भक्तिराधाद्वरद चरणयोस्ते वाक्यपुष्पोहारम्॥३१॥[/sans]
+[trans]Kṛśapariṇati cetaḥ kleśavaśyaṁ kva cedaṁ kva ca tava guṇasīmollaṅghinī śaśvadṛddhiḥ|
+Iti cakitamamandīkṛtya māṁ bhaktirādhādvarada caraṇayoste vākyapuṣpopahāram||31||[/trans]
+Как _(kva ca)_ слабо _(kṛśa)_ развит _(pariṇati)_ этот _(idam)_ ум _(cetas)_, управляемый _(vaśyam)_ Клешами --т.e. широко известными пятью напастями: невежеством, эго, привязанностью, отвращением и страхом смерти-- _(kleśa)_. И как _(kva ca)_ бесконечно и вечно _(śaśvat)_ Твоё _(tava)_ Процветание _(ṛddhiḥ)_, выходящее за _(ullaṅghinī)_ границу _(sīmā)_, [обозначенную тремя] гунами или качествами _(guṇa)_! Таким образом _(iti)_, [хотя я и] очень _(amandīkṛtya)_ напуган _(cakitam)_ _(этим)_, о Дарующий _(da)_ милость _(vara)_, преданность _(bhaktiḥ)_ заставила _(ādhāt)_ меня _(mām)_ преподнести _(upahāram)_ цветы _(puṣpa)_ [в виде] слов _(vākya)_ к Твоим _(te)_ стопам _(caraṇayoḥ)_ ||31||
+
+[/sect] [sect]
+[sans]असितगिरिसमं स्यात्कज्जलं सिन्धुपात्रे सुरतरुवरशाखा लेखनी पत्रमुर्वी।
+लिखति यदि गृहीत्वा शारदा सर्वकालं तदपि तव गुणानामीश पारं न याति॥३२॥[/sans]
+[trans]Asitagirisamaṁ syātkajjalaṁ sindhupātre surataruvaraśākhā lekhanī patramurvī|
+Likhati yadi gṛhītvā śāradā sarvakālaṁ tadapi tava guṇānāmīśa pāraṁ na yāti||32||[/trans]
+[Если бы определённое количество] ламповой сажи -- используемой как чернила-- _(kajjalam)_, соответствующее _(samam)_ черной _(asita)_ горе _(giri)_, было бы _(syāt)_ _(налито в)_ океан _(sindhu)_, выполняющий роль сосуда --т.e. чернильницы-- _(pātre)_, _(и если бы)_ ветвь _(śākhā)_ лучшего _(vara)_ дерева _(taru)_ богов _(sura)_ --т.e. прославленного Kalpavṛkṣa-- [использовалась бы] в виде ручки _(lekhanī)_, _(а сама__)_ земля _(urvī)_ — [в виде] листа для письма _(patram)_, [и] если бы _(yadi)_ Śāradā --т.e. «Sarasvatī», река-богиня, обычно ассоциируемая с красноречием и образованием-- _(śāradā)_, взяв [эти принадлежности] _(gṛhītvā)_, писала бы _(likhati)_ вечно _(sarvakālam)_, даже _(api)_ эта [восхитительная метафора] _(tad)_, о Бог _(īśa)_, не _(na)_ достигла бы _(yāti)_ конца _(pāram)_ Твоих _(tava)_ положительных качеств _(guṇānām)_ --другими словами, все качества Шивы не могут быть описаны, даже если такой великий персонаж, как сама Sarasvatī вечно записывала бы их, используя вышеупомянутые принадлежности--||32||
+
+[/sect] [sect]
+[sans]असुरसुरमुनीन्द्रैरर्चितस्येन्दुमौलेर्ग्रथितगुणमहिम्नो निर्गुणस्येश्वरस्य।
+सकलगणवरिष्ठः पुष्पदन्ताभिधानो रुचिरमलघुवृत्तैः स्तोत्रमेतच्चकार॥३३॥[/sans]
+[trans]Asurasuramunīndrairarcitasyendumaulergrathitaguṇamahimno nirguṇasyeśvarasya|
+Sakalagaṇavariṣṭhaḥ puṣpadantābhidhāno ruciramalaghuvṛttaiḥ stotrametaccakāra||33||[/trans]
+[Гандхарва или небесный музыкант] по имени _(abhidhānaḥ)_ Puṣpadanta --досл. «с зубами из цветов»-- _(puṣpadanta)_, лучший _(variṣṭhaḥ)_ из всей _(sakala)_ группы слуг Шивы _(gaṇa)_, сочинил _(cakāra)_ этот _(etad)_ прекрасный _(ruciram)_ гимн _(stotram)_, наделённый длинными _(alaghu)_ мерами стихосложения _(vṛttaiḥ)_, _(в честь)_ Господа _(īśvarasya)_, который носит луну _(indu)_ на Своей голове --mauli-- _(mauleḥ)_ и которому поклоняются _(arcitasya)_ Индра --indreṇa-- _(indraiḥ)_, мудрецы _(muni)_, боги _(sura)_ и демоны _(asura)_, и чьё Величие _(mahimnaḥ)_ состоит из _(бесконечных)_ качеств _(guṇa)_, нанизанных вместе [на одну нить, подобно бусинам в ожерелье] _(grathita)_, [хотя он полностью] лишён любых качеств --nirguṇa-- _(nirguṇasya)_ ||33||
+
+[/sect] [sect]
+[sans]अहरहरनवद्यं धूर्जटेः स्तोत्रमेतत्पठति परमभक्त्या शुद्धचित्तः पुमान् यः।
+स भवति शिवलोके रुद्रतुल्यस्तथाऽत्र प्रचुरतरधनायुःपुत्रवान्कीर्तिमांश्च॥३४॥[/sans]
+[trans]Aharaharanavadyaṁ dhūrjaṭeḥ stotrametatpaṭhati paramabhaktyā śuddhacittaḥ pumān yaḥ|
+Sa bhavati śivaloke rudratulyastathā'tra pracurataradhanāyuḥputravānkīrtimāṁśca||34||[/trans]
+Человеческое существо _(pumān)_ с чистым умом _(śuddha-cittaḥ)_, которое _(yaḥ)_ _с величайшей _(parama)_ преданностью _(bhaktyā)_ день за днём _(ahar-ahar)_ безупречно _(anavadyam)_ повторяет _(paṭhati)_ этот _(etad)_ гимн _(stotram)_ (в честь) _Dhūrjaṭi_ --эпитет Шивы, означающий «с грузом из спутанных локонов»-- _(dhūrjaṭeḥ)_, становится _(saḥ bhavati)_ идентичным _(tulyaḥ)_ Рудре --т.e. Шиве-- _(rudra)_ в мире Шивы _(śiva-loke)_ [после смерти]. Также _(tathā)_, [он становится] известным _(kīrtimān)_, многодетным _(putravān)_, [наслаждается долгой] жизнью _(āyus)_ и _(ca)_ более _(tara)_ обильным _(pracura)_ богатством _(dhana)_ в этом мире _(atra)_ ||34||
+
+[/sect] [sect]
+[sans]दीक्षा दानं तपस्तीर्थं योगयागादिकाः क्रियाः।
+महिम्नः स्तव पाठस्य कलां नार्हन्ति षोडशीम्॥३५॥[/sans]
+[trans]Dīkṣā dānaṁ tapastīrthaṁ yogayāgādikāḥ kriyāḥ|
+Mahimnaḥ stavapāṭhasya kalāṁ nārhanti ṣoḍaśīm||35||[/trans]
+Инициация _(dīkṣā)_, благотворительность _(dānam)_, аскезы _(tapas)_, паломничество _(tīrtham)_ _(и подобная)_ деятельность _(kriyāḥ)_, [такая как] Йога _(yoga)_, жертвоприношение _(yāga)_ и т.д., _(ādikāḥ)_ не _(na)_ стоит _(arhanti)_ [даже] шестнадцатой _(ṣoḍaśīm)_ части _(kalām)_ [того, что стоит] повторение _(pāṭhasya)_ [этого] гимна _(stava)_ Величия _(mahimnaḥ)_ Шивы||35||
+
+[/sect] [sect]
+[sans]आसमाप्तमिदं स्तोत्रं पुण्यं गन्धर्वभाषितम्।
+अनौपम्यं मनोहारि शिवमीश्वरवर्णनम्॥३६॥[/sans]
+[trans]Āsamāptamidaṁ stotraṁ puṇyaṁ gandharvabhāṣitam|
+Anaupamyaṁ manohāri śivamīśvaravarṇanam||36||[/trans]
+Этот _(idam)_ священный _(puṇyam)_ гимн _(stotram)_, произнесённый _(bhāṣitam)_ [известным] божественным музыкантом [по имени Puṣpadanta] _(gandharva)_, [содержащий] непревзойдённые _(anaupamyam)_, восхитительные _(manohāri)_ и благоприятные _(śivam)_ описания _(varṇanam)_ Господа _(īśvara)_, заканчивается _(āsamāptam)_ ||36||
+
+[/sect] [sect]
+[sans]महेशान्नापरो देवो महिम्नो नापरा स्तुतिः।
+अघोरान्नापरो मन्त्रो नास्ति तत्त्वं गुरोः परम्॥३७॥[/sans]
+[trans]Maheśānnāparo devo mahimno nāparā stutiḥ|
+Aghorānnāparo mantro nāsti tattvaṁ guroḥ param||37||[/trans]
+Не существует _(na)_ бога _(devaḥ)_ выше _(aparaḥ)_ Махеши --эпитет Шивы, означающий «великий Господь»-- _(maheśāt)_, не существует _(na)_ восхваляющего гимна _(stutiḥ)_ выше _(aparā)_ [этого] «Śivamahimnaḥ stotram» _(mahimnaḥ)_. Не существует _(na)_ Мантры --священного слова-- _(mantraḥ)_ выше _(aparaḥ)_ «Aghora» --эпитет Шивы, означающий «не ужасающий»-- _(aghora)_ [и] нет _(na asti)_ принципа _(tattvam)_ выше _(param)_ Гуру --в смысле пятого «kṛtya» или действия Шивы, которое дарует божественную Милость ограниченному существу-- _(guroḥ)_ ||37||
+
+[/sect] [sect]
+[sans]कुसुमदशननामा सर्वगन्धर्वराजः शिशुशशधरमौलेर्देवदेवस्य दासः।
+स खलु निजमहिम्नो भ्रष्ठ एवास्य रोषात्स्तवनमिदमकार्षीद्दिव्यदिव्यं महिम्नः॥३८॥[/sans]
+[trans]Kusumadaśananāmā sarvagandharvarājaḥ śiśuśaśadharamaulerdevadevasya dāsaḥ|
+Sa khalu nijamahimno bhraṣṭa evāsya roṣātstavanamidamakārṣīddivyadivyaṁ mahimnaḥ||38||[/trans]
+Царь _(rājaḥ)_ всех _(sarva)_ божественных музыкантов _(gandharva)_ по имени _(nāmā)_ _Kusumadaśana_ --синоним термину «Puṣpadanta», т.e. «с зубами из цветов», так как «kusuma» = puṣpa (цветок) и «daśana» = danta (зуб)-- _(kusumadaśana)_ [является] слугой _(dāsaḥ)_ Бога _(devasya)_ богов _(deva)_, носящего месяц _(śiśu __śaśadhara)_ на Своей голове --mauli-- _(mauleḥ)_. Он --Puṣpadanta-- _(saḥ)_ определённо _(khalu... eva)_ пал _(bhraṣṭaḥ)_ из своего _(nija)_ величия _(mahimnaḥ)_ из-за ярости _(roṣāt)_ Шивы _(asya)_ --так как Puṣpadanta нечаянно наступил на траву, священную для Шивы-- [и] сочинил _(akārṣīt)_ этот _(idam)_ прекрасный _(divya)_ божественный _(divyam)_ гимн восхваления _(stavanam)_ _(в честь)_ Величия [того самого Шивы] _(mahimnaḥ)_, [чтоб обрести Его милость]||38||
+
+[/sect] [sect]
+[sans]सुरवरमुनिपूज्यं स्वर्गमोक्षैकहेतुं पठति यदि मनुष्यः प्राञ्जलिर्नान्यचेताः।
+व्रजति शिवसमीपं किन्नरैः स्तूयमानः स्तवनमिदममोघं पुष्पदन्तप्रणीतम्॥३९॥[/sans]
+[trans]Suravaramunipūjyaṁ svargamokṣaikahetuṁ paṭhati yadi manuṣyaḥ prāñjalirnānyacetāḥ|
+Vrajati śivasamīpaṁ kinnaraiḥ stūyamānaḥ stavanamidamamoghaṁ puṣpadantapraṇītam||39||[/trans]
+Если _(yadi)_ человеческое существо _(manuṣyaḥ)_, чей ум _(cetāḥ)_ полностью направлен в одну точку _(na-anya)_, повторяет _(paṭhati)_, сложив пустые ладони _(prāñjaliḥ)_, этот _(idam)_ безупречный _(amogham)_ гимн восхваления _(stavanam)_, написанный _(praṇītam)_ Пушпадантой _(puṣpadanta)_, которому поклоняются _(pūjyam)_ боги _(sura)_ и лучшие _(vara)_ мудрецы _(muni)_, и который является единственной _(eka)_ причиной _(hetu)_ небесного _(svarga)_ Освобождения _(mokṣa)_, [тогда такая личность], восхваляемая _(stūyamānaḥ)_ Киннарами --видом божественных существ-- _(kinnaraiḥ)_, направляется _(vrajati)_ к _(samīpam)_ Шиве _(śiva)_ ||39||
+
+[/sect] [sect]
+[sans]श्रीपुष्पदन्तमुखपङ्कजनिर्गतेन स्तोत्रेण किल्बिषहरेण हरप्रियेण।
+कण्ठस्थितेन पठितेन समाहितेन सुप्रीणितो भवति भूतपतिर्महेशः॥४०॥[/sans]
+[trans]Śrīpuṣpadantamukhapaṅkajanirgatena stotreṇa kilbiṣahareṇa harapriyeṇa|
+Kaṇṭhasthitena paṭhitena samāhitena suprīṇito bhavati bhūtapatirmaheśaḥ||40||[/trans]
+Maheśa --досл. «великий Господь»-- _(maheśaḥ)_, Господин _(patiḥ)_ [всех] существ _(bhūta)_, остаётся _(bhavati)_ доволен _(suprīṇitaḥ)_ [повторением этого] гимна _(stotreṇa)_, произошедшего из --nirgata-- _(nirgatena)_ лотосных уст _(mukha-paṅkaja)_ Достопочтимого _(śrī)_ Пушпаданты _(puṣpadanta)_, разрушающего --hara-- _(hareṇa)_ грехи _(kilbiṣa)_ _(и)_ дорогого --priya-- _(priyeṇa)_ Харе --Шиве-- _(hara)_, [будь] он заучен наизусть --kaṇṭhasthita-- _(kaṇṭhasthitena)_ _(или)_ повторяем --paṭhita-- _(paṭhitena)_ [или просто] внимательно выслушан --samāhita-- _(samāhitena)_ --другой вариант перевода: «[или просто] храним [дома]»--||40||
+
+[/sect] [sect]
+[sans]इत्येषा वाङ्मयी पूजा श्रीमच्छङ्करपादयोः।
+अर्पिता तेन देवेशः प्रीयतां मे सदाशिवः॥४१॥[/sans]
+[trans]Ityeṣā vāṅmayī pūjā śrīmacchaṅkarapādayoḥ|
+Arpitā tena deveśaḥ prīyatāṁ me sadāśivaḥ||41||[/trans]
+Итак _(iti)_, это _(eṣā)_ поклонение _(pūjā)_, состоящее _(mayī)_ из слов _(vāk)_, предлагается _(arpitā)_ стопам _(pādayoḥ)_ Достопочтимого _(śrīmat)_ _Шанкары_ --эпитет Шивы, означающий «дарующий процветание, благотворный и т.д.»-- _(śaṅkara)_. С помощью этого [подношения] _(tena)_, [да будет] _Sadāśiva_ --эпитет Шивы, означающий «вечно благоприятный»-- _(sadāśivaḥ)_, Господин _(īśa)_ богов _(deva)_, доволен _(prīyatām)_ мною _(me)_! ||41||
+
+[/sect] [sect]
+[sans]यदक्षरं पदं भ्रष्टं मात्राहीनं च यद्भवेत्।
+तत्सर्वं क्षम्यतां देव प्रसीद परमेश्वर॥४२॥[/sans]
+[trans]Yadakṣaraṁ padaṁ bhraṣṭaṁ mātrāhīnaṁ ca yadbhavet|
+Tatsarvaṁ kṣamyatāṁ deva prasīda parameśvara||42||[/trans]
+Любой _(yad... yad)_ слог _(akṣaram)_ _(или)_ слово _(padam)_, которое было _(bhavet)_ пропущено _(bhraṣṭam)_ или --досл. «и» -- _(ca)_ произнесено не вовремя _(mātrā-hīnam)_, да простит _(kṣamyatām)_ Бог _(deva)_ всё _(sarva)_ это _(tad)_. О Всевышний _(parama)_ Господь _(īśvara)_, будь удовлетворён _(prasīda)_!||42||
+
+[/sect] [sect]
+[sans]ॐ शान्तिः शान्तिः शान्तिः॥[/sans]
+[trans]Om̐ śāntiḥ śāntiḥ śāntiḥ||[/trans]
+Om̐ _(om̐)_, мир _(śāntiḥ)_, мир _(śāntiḥ)_, мир _(śāntiḥ)_.
+
+[/sect]
