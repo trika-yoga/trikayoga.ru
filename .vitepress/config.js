@@ -55,7 +55,7 @@ module.exports = {
   markdown: {
     config: (md) => {
       md.use(require('markdown-it-classy'))
-      md.use(require('markdown-it-container'), 'card')
+      md.use(require('markdown-it-container'), 'section')
       md.use(require('markdown-it-external-links'), {
         internalDomains: ['localhost', 'tsoop.ru'],
       })
