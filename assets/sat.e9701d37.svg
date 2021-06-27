@@ -1,0 +1,55 @@
+<svg id="ananda" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 453.54 453.54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #f7901e;
+      }
+
+      .cls-3 {
+        fill: #fed402;
+      }
+
+      .cls-4 {
+        fill: #fff200;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path-3);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <polygon class="cls-1" points="722.79 226.45 590.85 -0.61 1115.96 -0.61 983.85 226.56 722.79 226.45"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <polygon class="cls-1" points="649.75 106.81 1057.02 106.81 983.85 226.55 722.19 232.81 649.75 106.81"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <polyline class="cls-1" points="697.23 255.49 1008.07 261.3 1080.13 107.8 588.32 107.11 791.94 518.26"/>
+    </clipPath>
+  </defs>
+  <title>sat</title>
+  <rect id="sadvidya" class="cls-2" width="453.54" height="453.54"/>
+  <circle id="ishvara" class="cls-3" cx="226.77" cy="226.77" r="199.13" transform="translate(-93.93 226.77) rotate(-45)"/>
+  <path id="sadashiva" class="cls-4" d="M226.63,27.64C329.77,87.31,399.16,198.83,399.16,326.56h0C348.52,349.08,289.57,362,226.65,362s-121.94-12.93-172.6-35.47v0C54,198.83,123.43,87.31,226.57,27.64"/>
+  <polygon id="anuttara" class="cls-5" points="54.04 326.56 226.59 27.69 399.14 326.56 54.04 326.56"/>
+</svg>

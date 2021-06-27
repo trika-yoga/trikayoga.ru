@@ -1,0 +1,1 @@
+import{o as a,f as t,y as s}from"./framework.2171159c.js";const r='{"title":"Заключение","description":"","frontmatter":{"title":"Заключение","subtitle":null,"tags":"vijnyana"},"relativePath":"texts/vijnyana-bhairava/end.md","lastUpdated":1624825557163}',n={},e=s("",34);n.render=function(s,r,n,p,i,m){return a(),t("div",null,[e])};export default n;export{r as __pageData};
