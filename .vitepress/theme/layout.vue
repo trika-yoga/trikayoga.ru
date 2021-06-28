@@ -7,10 +7,11 @@
     'no-text': !langs.text,
   }`
 ) 
-  top-bar
-  nav-bar
-  h1.text-4xl.font-bold.my-8.text-center {{ frontmatter.title }}
-  .text-lg.text-center {{ frontmatter.subtitle }}
+  .header
+    top-bar
+    nav-bar
+  h1.text-4xl.font-bold.mb-8.text-center {{ frontmatter.title }}
+  .max-w-xl.mx-auto.text-lg.text-center {{ frontmatter.subtitle }}
   lang-toggle.mt-4(v-if="frontmatter.langs")
   content.content
   page-list(
@@ -27,6 +28,12 @@ import { langs } from './composables/langs.js'
 
 <style scoped>
 .page {
-  @apply p-3 sm:p-4 text-center;
+  @apply text-center;
+}
+.header {
+  @apply bg-light-100 dark:bg-dark-600 pt-8 pb-4 mb-12 shadow-xl;
+}
+.content {
+  @apply p-3 sm:p-4;
 }
 </style>

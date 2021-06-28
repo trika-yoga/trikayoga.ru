@@ -38,7 +38,6 @@ module.exports = {
     ['meta', { name: 'twitter:site', content: meta.site }],
     ['meta', { name: 'twitter:title', value: meta.title }],
     ['meta', { name: 'twitter:description', value: meta.description }],
-    //@ts-ignore
     ['meta', { name: 'twitter:image', content: meta.icon }],
 
     ['meta', { property: 'og:type', content: 'website' }],
@@ -65,9 +64,9 @@ module.exports = {
           if (tokens[idx].nesting === 1) {
             let text = md.utils.escapeHtml(m?.[1] || '')
             let tag = ''
-            if (text) tag = `<div class="num" >${text}</div>`
+            if (text) tag = `<div id="s${text}" class="num" >${text}</div>`
             // opening tag
-            return `<div id="s${text}"  class="stanza">${tag}
+            return `<div class="stanza">${tag}
             `
           } else {
             // closing tag

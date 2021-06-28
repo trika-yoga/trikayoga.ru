@@ -8,7 +8,7 @@ body {
   font-size: 18px;
   font-weight: 400;
   color: #333;
-  background-color: #ddd;
+  background-color: #dfdfdf;
   direction: ltr;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -20,22 +20,6 @@ body {
 .dark body {
   background-color: #222;
   color: #ddd;
-}
-
-.bounce {
-  animation: bounce 12s infinite ease-in-out;
-}
-
-@keyframes bounce {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(18px) rotate(8deg);
-  }
-  100% {
-    transform: translateY(0);
-  }
 }
 
 .content {
@@ -57,6 +41,12 @@ body {
   }
   h2 {
     @apply font-bold text-2xl p-1 my-4;
+  }
+  ul {
+    @apply p-4;
+  }
+  li {
+    @apply leading-relaxed py-2;
   }
 }
 
