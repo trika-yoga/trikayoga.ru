@@ -49,13 +49,31 @@ module.exports = {
     ['meta', { property: 'og:description', content: meta.description }],
   ],
   themeConfig: {
+    nav: pages.main,
     repo: '',
     logo: '/img/sadvidya.svg',
   },
+
   markdown: {
     config: (md) => {
       md.use(require('markdown-it-classy'))
-      md.use(require('markdown-it-container'), 'section')
+      md.use(require('markdown-it-container'), 'stanza', {
+        render: function (tokens, idx) {
+          var m = tokens[idx].info.trim().match(/^stanza\s+(.*)$/)
+
+          if (tokens[idx].nesting === 1) {
+            let text = md.utils.escapeHtml(m?.[1] || '')
+            let tag = ''
+            if (text) tag = `<div class="num" >${text}</div>`
+            // opening tag
+            return `<div id="s${text}"  class="stanza">${tag}
+            `
+          } else {
+            // closing tag
+            return '</div>\n'
+          }
+        },
+      })
       md.use(require('markdown-it-external-links'), {
         internalDomains: ['localhost', 'trikayoga.ru'],
       })
