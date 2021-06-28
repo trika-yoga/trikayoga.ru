@@ -31,7 +31,7 @@ body {
   h5,
   h6,
   p {
-    @apply max-w-2xl mx-auto leading-relaxed;
+    @apply max-w-2xl mx-auto leading-relaxed my-4;
   }
   em {
     @apply not-italic text-dark-100/60 dark:text-light-100/60;
@@ -68,7 +68,7 @@ body {
     @apply shadow-xl;
   }
   .num {
-    @apply transition-all top-3 right-3 sm:(top-6 right-6) duration-600 absolute font-bold text-2xl opacity-10  select-none;
+    @apply transition-all bottom-3 right-3 sm:(bottom-3 right-6) duration-600 absolute font-bold text-2xl opacity-10;
   }
   &:hover .num {
     @apply opacity-70;
@@ -82,6 +82,7 @@ a {
 .no-sans .sans,
 .no-trans .trans,
 .no-words em,
+.no-eng .eng,
 .no-text p:not([class]) {
   @apply hidden;
 }

@@ -5,4 +5,5 @@ export const langs = useStorage('langs', {
   trans: true,
   words: true,
   text: true,
+  eng: false,
 })

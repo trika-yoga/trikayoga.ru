@@ -6,7 +6,6 @@
     :class="{ active: lang }"
     @click="langs[key] = !langs[key]"
     ) {{ langNames[key] }}
-
 </template>
 
 <script setup>
@@ -21,6 +20,7 @@ const langNames = {
   trans: 'Транскрипция',
   words: 'Слова',
   text: 'Перевод',
+  eng: 'English'
 };
 
 

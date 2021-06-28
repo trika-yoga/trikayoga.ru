@@ -5,6 +5,7 @@
     'no-trans': !langs.trans,
     'no-words': !langs.words,
     'no-text': !langs.text,
+    'no-eng': !langs.eng,
   }`
 ) 
   .header
