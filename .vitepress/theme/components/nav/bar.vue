@@ -1,6 +1,6 @@
 <template lang="pug">
 .nav-bar
-  a.underline-3.underline-offset-8.mb-4.text-center(href="/")
+  a.underline-3.underline-offset-8.mb-4.text-center(:href="withBase('/')")
     img.w-12rem.mb-4(src="/img/sadvidya.svg")
     .text-2xl Трика йога
   .flex.flex-wrap.items-center.justify-center
@@ -9,6 +9,7 @@
 </template>
 
 <script setup>
+import { withBase } from 'vitepress'
 import { defineProps } from 'vue'
 const props = defineProps({
 

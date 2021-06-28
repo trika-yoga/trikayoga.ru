@@ -2,12 +2,12 @@
 a.p-2(
   v-for="page in site.customData.pages.main"
   :key= "page.link"
-  :href="page.link"
+  :href="withBase(page.link)"
 ) {{ page.title }}
 </template>
 
 <script setup>
-import { useData } from 'vitepress'
+import { useData, withBase } from 'vitepress'
 const { site, frontmatter } = useData();
 </script>
   
