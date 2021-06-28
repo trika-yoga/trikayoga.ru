@@ -37,6 +37,10 @@ ru_books:
     subtitle: Переводчик А. Орлов, издательство “Ганга”
     book: /books/Kshemaradzha-SHiva-sutra-vimarshini.pdf
     year: 2012
+  - title: Шаттримшаттаттва сандоха
+    subtitle: Перевод, исследование и комментарии к Шаттримшаттаттва-сандохе В.П. Иванова в составе «Розенберговского сборника»
+    book: /books/SHattrimshattattva-sandoha.pdf
+    year: 2014
   - title: Искусство как проводник. Кашмирский шиваизм. Абхинавагупта и Кшемараджа.
     subtitle: Автор Наталья Исаева, Издательство Русской Христианской гуманитарной академии,
     book: /books/Isaeva_Iskusstvo_kak_peovodnik.pdf

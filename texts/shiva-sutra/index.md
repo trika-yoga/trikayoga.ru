@@ -3,6 +3,7 @@ title: Шива сутра
 subtitle: 'शिवसूत्रा - śivasūtrā'
 tags: text
 langs: true
+date: 2021-01-01
 ---
 
 
