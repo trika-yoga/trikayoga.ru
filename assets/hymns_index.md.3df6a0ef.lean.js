@@ -1,1 +1,0 @@
-import{o as t,f as e}from"./framework.de413f98.js";const r='{"title":"Гимны","description":"","frontmatter":{"title":"Гимны","subtitle":"Песни—восхваления Бога для практики преданности","list":"hymn","tags":"main"},"relativePath":"hymns/index.md","lastUpdated":1624803909132}',i={};i.render=function(r,i,a,n,o,s){return t(),e("div")};export default i;export{r as __pageData};
