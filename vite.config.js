@@ -7,8 +7,8 @@ import { ViteAliases } from 'vite-aliases'
 export default defineConfig({
   plugins: [
     ViteAliases({
-      dir: '.vitepress',
-      deep: false,
+      dir: '.vitepress/theme',
+      deep: true,
       adjustDuplicates: true,
     }),
     Components({

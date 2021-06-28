@@ -88,3 +88,10 @@ body {
 a {
   @apply underline;
 }
+
+.no-sans .sans,
+.no-trans .trans,
+.no-words em,
+.no-text p:not([class]) {
+  @apply hidden;
+}
