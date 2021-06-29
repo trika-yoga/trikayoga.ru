@@ -16,7 +16,7 @@ const meta = {
 module.exports = {
   title: meta.title,
   description: meta.description,
-  lang: 'en',
+  lang: 'ru',
   base: '/trikayoga.ru',
   head: [
     ['meta', { name: 'author', content: meta.author }],
@@ -57,6 +57,7 @@ module.exports = {
   markdown: {
     config: (md) => {
       md.use(require('markdown-it-classy'))
+      md.use(require('markdown-it-sup'))
       md.use(require('markdown-it-container'), 'stanza', {
         render: function (tokens, idx) {
           var m = tokens[idx].info.trim().match(/^stanza\s+(.*)$/)

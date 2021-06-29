@@ -15,6 +15,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   @apply transition-colors;
+  scroll-behavior: smooth;
 }
 
 .dark body {
@@ -59,6 +60,10 @@ body {
 
 .trans {
   @apply text-dark-200/40 dark:text-light-300/40 text-2xl  leading-loose mb-2;
+}
+
+.eng {
+  @apply opacity-70;
 }
 
 .stanza {

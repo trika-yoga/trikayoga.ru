@@ -7,6 +7,7 @@ specifiers:
   markdown-it-container: ^3.0.0
   markdown-it-custom-short-codes: ^1.0.1
   markdown-it-external-links: ^0.0.6
+  markdown-it-sup: ^1.0.0
   patch-vue-directive-ssr: ^0.0.1
   pug: 3.0.2
   typescript: ^4.3.4
@@ -30,6 +31,7 @@ devDependencies:
   markdown-it-container: 3.0.0
   markdown-it-custom-short-codes: 1.0.1
   markdown-it-external-links: 0.0.6
+  markdown-it-sup: 1.0.0
   patch-vue-directive-ssr: 0.0.1
   pug: 3.0.2
   typescript: 4.3.4
@@ -1082,6 +1084,10 @@ packages:
 
   /markdown-it-external-links/0.0.6:
     resolution: {integrity: sha1-lQMlj85MgQEOoV/nF2nWOhNG2AE=}
+    dev: true
+
+  /markdown-it-sup/1.0.0:
+    resolution: {integrity: sha1-y5yf+RpSVawI8/09YyhuFd8KH8M=}
     dev: true
 
   /markdown-it-table-of-contents/0.5.2:
