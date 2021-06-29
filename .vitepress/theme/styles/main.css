@@ -63,7 +63,7 @@ body {
 }
 
 .eng {
-  @apply opacity-70;
+  @apply opacity-90 text-base;
 }
 
 .stanza {

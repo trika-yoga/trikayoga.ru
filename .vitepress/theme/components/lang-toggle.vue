@@ -20,7 +20,7 @@ const langNames = {
   trans: 'Транскрипция',
   words: 'Слова',
   text: 'Перевод',
-  eng: 'English'
+  eng: 'Комментарий'
 };
 
 
