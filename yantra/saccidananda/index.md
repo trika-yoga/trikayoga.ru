@@ -1,34 +1,23 @@
 ---
 title: Саччидананда
-icon: cit.svg
 tags: yantra
+date: 2021-09-26
+yantras:
+  - name: sat
+    sans: सत्
+    trans: sat
+    title: Сат
+    text: Всепроникающее вечное бытие
+  - name: cit
+    sans: चित्
+    trans: cit
+    title: Чит
+    text: Чистое сознание Вселенной
+  - name: ananda
+    sans: आनन्द
+    trans: ānanda
+    title: Ананда
+    text: Блаженство самопознания Вселенной
 ---
 
-## सच्चिदानन्द
-### saccidānanda
-
-### सत्
-
-#### sat
-
-#### Всепроникающее вечное бытие
-
-![sat](./sat.svg)
-
-
-### चित्
-
-#### cit
-
-#### Чистое сознание Вселенной
-
-![cit](./cit.svg)
-
-
-### आनन्द
-
-#### ānanda
-
-#### Блаженство самопознания Вселенной
-
-![ananda](./ananda.svg)
+<sat-yantras v-for="yantra in $frontmatter.yantras" :key="yantra.name" :name="yantra.name" :info="yantra" />

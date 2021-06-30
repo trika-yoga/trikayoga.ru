@@ -35,6 +35,6 @@ import { langs } from './composables/langs.js'
   @apply bg-light-100 dark:bg-dark-600 pt-8 pb-4 mb-12 shadow-xl;
 }
 .content {
-  @apply p-3 sm:p-4;
+  @apply px-3 sm:px-4 pb-16;
 }
 </style>

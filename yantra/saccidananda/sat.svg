@@ -1,55 +1,52 @@
-<svg id="ananda" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 453.54 453.54">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: none;
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	y="0px" viewBox="0 0 2000 2000" style="enable-background:new 0 0 2000 2000;" xml:space="preserve">
+	<style type="text/css">
+	      * {
+        transition: opacity 300ms ease;
+        cursor: pointer;
+      }
+      .active, .active * {
+        opacity: 1 !important;
       }
 
-      .cls-2 {
-        fill: #f7901e;
+      .has-active :not(.active):not(g) {
+        opacity: 0.05;
       }
+		.st0 {
+			fill: #ffaa00;
+		}
 
-      .cls-3 {
-        fill: #fed402;
-      }
+		.st1 {
+			fill: #FFD400;
+		}
 
-      .cls-4 {
-        fill: #fff200;
-      }
+		.st2 {
+			fill: #FFF100;
+		}
 
-      .cls-5 {
-        fill: #fff;
-      }
+		.st3 {
+			fill: #FFF799;
+		}
 
-      .cls-6 {
-        clip-path: url(#clip-path);
-      }
+		.st4 {
+			fill: #F9FDFF;
+		}
 
-      .cls-7 {
-        isolation: isolate;
-      }
-
-      .cls-8 {
-        clip-path: url(#clip-path-2);
-      }
-
-      .cls-9 {
-        clip-path: url(#clip-path-3);
-      }
-    </style>
-    <clipPath id="clip-path">
-      <polygon class="cls-1" points="722.79 226.45 590.85 -0.61 1115.96 -0.61 983.85 226.56 722.79 226.45"/>
-    </clipPath>
-    <clipPath id="clip-path-2">
-      <polygon class="cls-1" points="649.75 106.81 1057.02 106.81 983.85 226.55 722.19 232.81 649.75 106.81"/>
-    </clipPath>
-    <clipPath id="clip-path-3">
-      <polyline class="cls-1" points="697.23 255.49 1008.07 261.3 1080.13 107.8 588.32 107.11 791.94 518.26"/>
-    </clipPath>
-  </defs>
-  <title>sat</title>
-  <rect id="sadvidya" class="cls-2" width="453.54" height="453.54"/>
-  <circle id="ishvara" class="cls-3" cx="226.77" cy="226.77" r="199.13" transform="translate(-93.93 226.77) rotate(-45)"/>
-  <path id="sadashiva" class="cls-4" d="M226.63,27.64C329.77,87.31,399.16,198.83,399.16,326.56h0C348.52,349.08,289.57,362,226.65,362s-121.94-12.93-172.6-35.47v0C54,198.83,123.43,87.31,226.57,27.64"/>
-  <polygon id="anuttara" class="cls-5" points="54.04 326.56 226.59 27.69 399.14 326.56 54.04 326.56"/>
+		.st5 {
+			opacity: 0.2;
+			fill: #F9FDFF;
+		}
+	</style>
+	<g id="main">
+		<rect id="sadakhya" x="0" y="0" class="st0" width="2000" height="2003.33" />
+		<circle id="ishvara" class="st1" cx="1000" cy="1000" r="1000" />
+		<circle id="sadashiva" class="st2" cx="1000" cy="987.96" r="618" />
+		<circle id="shakti" class="st3" cx="1000" cy="1000" r="382" />
+		<path id="shiva" class="st4" d="M1187.08,1325.35c-54.96,31.96-118.85,50.26-187.01,50.26c-68.13,0-132.32-17.62-187.26-49.55
+	L1000,1001.84l187.19,324.23" />
+		<path id="spanda" class="st5" d="M1190.24,1331.34c-56.01,32.23-120.97,50.66-190.24,50.66s-134.22-18.43-190.24-50.66L500.1,1867.69
+	C646.84,1952.96,818.25,2000,1000.19,2000c181.77,0,352.16-48.74,498.81-133.87L1190.24,1331.34z" />
+	</g>
 </svg>

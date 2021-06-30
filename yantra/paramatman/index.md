@@ -1,10 +1,12 @@
 ---
 title: Параматман
-icon: paramatman.png
 tags: yantra
+date: 2021-07-02
 ---
 
-## परमात्मन्
+परमात्मन् {sans big}
+
+paramatman {trans}
 
 ![Параматман](./paramatman.png)
 

@@ -1,5 +1,5 @@
 <template lang="pug">
-.flex.flex-col.max-w-60ch.mx-auto.relative
+.flex.flex-col.max-w-60ch.mx-auto.relative.shadow-2xl.my-16
   article#santana-app
     object#santana-object(
       data="./santana.svg", 
@@ -14,12 +14,9 @@
 
 <script setup>
 import { defineProps, onMounted, ref } from 'vue'
-const props = defineProps({
-  vishva: {
-    type: Object,
-    default: {},
-  }
-});
+import vishva from '@composables/tattvas.js'
+
+console.log(vishva)
 let active = null
 function loaded() {
   const svg = document.getElementById('santana-object')
@@ -27,7 +24,7 @@ function loaded() {
   const aham = svgDoc.getElementById('aham')
   const overlay = document.getElementById('overlay')
   const info = document.getElementById('info')
-  setListeners(props.vishva)
+  setListeners(vishva)
 
   overlay.addEventListener('click', close)
 
@@ -42,7 +39,6 @@ function loaded() {
 
   function setListeners(obj) {
     for (let item in obj) {
-      console.log(item)
       let el = svgDoc.getElementById(item)
       if (el) {
         el.addEventListener('click', click(item))
@@ -54,7 +50,6 @@ function loaded() {
 
     return (e) => {
       let el = svgDoc.getElementById(item)
-      console.log(item, el)
       if (active) {
         active.classList.remove('active')
         if (active == el) {
@@ -64,7 +59,7 @@ function loaded() {
         }
       }
       active = el
-      info.innerHTML = format(props.vishva[item])
+      info.innerHTML = format(vishva[item])
       active.classList.add('active')
       aham.classList.add('has-active')
       overlay.classList.toggle('open')
@@ -73,8 +68,8 @@ function loaded() {
 
   function format(item) {
     return /*html*/`
-    <p class="sanskrit">${item.sans}</p>
-    <p class="transcript">${item.trans}</p>
+    <p class="sans big">${item.sans}</p>
+    <p class="trans">${item.trans}</p>
     <h2>${item.title}</h2>
     <p>${item.text}</p>
   `
@@ -100,6 +95,7 @@ function loaded() {
 
 #santana-app {
   cursor: pointer;
+  position: relative;
 }
 
 #overlay {
@@ -110,12 +106,14 @@ function loaded() {
   position: absolute;
   top: 0;
   left: 0;
+  z-index: 100;
   opacity: 0;
   transition: opacity 300ms ease;
   max-height: 100%;
   overflow-y: scroll;
   background-color: rgba(255, 255, 255, 0.35);
   cursor: pointer;
+  color: #333;
 }
 
 #overlay article {
@@ -130,8 +128,8 @@ function loaded() {
 
 .sanskrt,
 .sanskrit {
-  font-weight: 500;
-  font-size: 2em;
+  font-weight: bold;
+  font-size: 4em;
   margin: 12px 0;
   line-height: 1.42;
   font-family: "Mukta";

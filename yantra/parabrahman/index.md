@@ -1,10 +1,12 @@
 ---
 title: Парабрахман
-icon: parabrahman.png
+date: 2021-03-14
 tags: yantra
 ---
 
-## परब्रह्मन्
+परब्रह्मन् {sans big}
+
+parabrahman {trans}
 
 
 ![парабрахман](./parabrahman.png)
