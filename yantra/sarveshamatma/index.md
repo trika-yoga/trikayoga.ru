@@ -1,13 +1,13 @@
 ---
 title: Сарвешаматма
-icon: sarveshamatma.svg
 tags: yantra
+date: 2021-01-15
 ---
 
-## सर्वेषामात्मा
+सर्वेषामात्मा {sans big}
 
-### Sarveṣāmātmā
+Sarveṣāmātmā {trans}
 
-### Душа всего
+Душа всего
 
 ![](./sarveshamatma.svg)

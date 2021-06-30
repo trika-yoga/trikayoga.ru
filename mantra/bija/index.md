@@ -1,11 +1,14 @@
 ---
-title: 'Биджа мантры'
-subtitle: "<p class=\"sanskrt\" >बीजामन्त्</p>\r\n<p class=\"transcript\" >bīja-mantra</p>\r\nСеменные мантры"
+title: Биджа мантры
+subtitle: बीजामन्त् - bīja-mantra - Семенные мантры
 tags: mantra
+date: 2021-02-03
+langs: true
 ---
 
-::: section
-ॐ {sans}
+::: stanza
+
+ॐ {sans big}
 
 auṃ  {trans}
 
@@ -17,53 +20,71 @@ vaidikapraṇava {trans}
 
 :::
 
-::: section
+::: stanza
 
-ह्रीं {sans}
+ह्रीं {sans big}
 
 hrīṃ {trans}
 
-[sans]शाक्तप्रणव[/sans]
-[trans]śāktapraṇava[/trans]
+शाक्तप्रणव {sans}
+
+śāktapraṇava {trans}
+
 Шакта пранава
 
 
 :::
-::: section
+::: stanza
 
 
-[sans class="big"]हूं[/sans]
-[transcript]hūṃ[/transcript]
-[sans]शैवप्रणव / कूर्चबीज[/sans]
-[trans]śaivapraṇava / kūrcabīja[/trans]
+हूं {sans big}
+
+hūṃ {trans}
+
+शैवप्रणव / कूर्चबीज {sans}
+
+śaivapraṇava / kūrcabīja {trans}
+
 Шайва пранава или курча-биджа
 
 
 :::
-::: section
+::: stanza
 
-[sans class="big"]सौः[/sans]
-[transcript]sauḥ[/transcript]
-[sans]प्रासादबीज / हृदयबीज[/sans]
-[trans]prāsādabīja / hṛdayabīja[/trans]
+सौः {sans big}
+
+sauḥ {trans}
+
+प्रासादबीज / हृदयबीज {sans}
+
+prāsādabīja / hṛdayabīja {trans}
+
 Прасада-биджа или хридая-биджа
 
 :::
-::: section
+::: stanza
 
-[sans class="big"]अहं[/sans]
-[transcript]ahaṃ[/transcript]
-[sans]सृष्टिबीज[/sans]
-[trans]sṛṣṭibīja[/trans]
+अहं {sans big}
+
+ahaṃ {trans}
+
+सृष्टिबीज {sans}
+
+sṛṣṭibīja {trans}
+
 Сришти-биджа
 
 :::
-::: section
+::: stanza
 
-[sans class="big"]महा / मह अ[/sans]
-[transcript]mahā / maha a[/transcript]
-[sans]संहरबीज[/sans]
-[trans]saṃharabīja[/trans]
+महा / मह अ {sans big}
+
+mahā / maha a {trans}
+
+संहरबीज {sans}
+
+saṃharabīja {trans}
+
 Самхара-биджа
 
 :::

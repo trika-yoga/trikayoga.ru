@@ -519,4 +519,6 @@ Om̐ _(om̐)_, мир _(śāntiḥ)_, мир _(śāntiḥ)_, мир _(śāntiḥ
 
 :::
 
-<youtube-embed id="xaKaZvgkKm8"/>
+<youtube-embed id="xaKaZvgkKm8"/>   
+
+<audio-player title="Shiv mahimna Stotram with lyrics Chorus Shyamal Saumil" file="/audio/mahimna/Shiv mahimna Stotram with lyrics Chorus Shyamal Saumil Devotional Songs.mp3" />

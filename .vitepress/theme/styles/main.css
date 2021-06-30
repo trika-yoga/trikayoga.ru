@@ -70,6 +70,10 @@ body {
   font-family: 'Mukta';
 }
 
+.sans.big {
+  @apply text-6xl font-bold mt-4;
+}
+
 .trans {
   @apply text-dark-200/40 dark:text-light-300/40 text-2xl  leading-loose mb-2;
 }

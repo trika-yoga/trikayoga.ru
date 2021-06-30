@@ -1,10 +1,11 @@
 ---
 title: Сварупаспанда
-icon: svarupaspanda.jpg
 tags: yantra
+date: 2021-01-04
 ---
 
-## स्वरूपस्पन्द
-### Svarūpaspanda
+स्वरूपस्पन्द {sans big}
+
+Svarūpaspanda {trans}
 
 ![svarupaspanda](./svarupaspanda.jpg)

@@ -1,5 +1,4 @@
-
-const vishva = {...tattvas, ...chakras, ...nadis}
+const vishva = { ...tattvas, ...chakras, ...nadis }
 
 let active = null
 
@@ -9,15 +8,15 @@ function app() {
   const aham = svgDoc.getElementById('aham')
   const overlay = document.getElementById('overlay')
   const info = document.getElementById('info')
-    
+
   setListeners(vishva)
 
   overlay.addEventListener('click', close)
-  
-  function close (e) {
+
+  function close(e) {
     overlay.classList.remove('open')
     if (active) {
-        active.classList.remove('active')
+      active.classList.remove('active')
     }
     active = null
     aham.classList.remove('has-active')
@@ -27,6 +26,7 @@ function app() {
     for (let item in obj) {
       let el = svgDoc.getElementById(item)
       if (el) {
+        console.log(item)
         el.addEventListener('click', click(item))
       }
     }
@@ -53,7 +53,7 @@ function app() {
 }
 
 function format(item) {
-  return /*html*/`
+  return /*html*/ `
     <p class="sanskrit">${item.sans}</p>
     <p class="transcript">${item.trans}</p>
     <h2>${item.title}</h2>

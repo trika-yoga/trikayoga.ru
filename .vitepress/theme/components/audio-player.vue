@@ -1,8 +1,8 @@
 <template lang="pug">
-.flex.flex-col.items-center
+.flex.flex-col.items-center.my-8
   .box
-    .text-2xl.pb-4 {{ title }}
-    audio.rounded-xl(
+    .text-xl.pb-4 {{ title }}
+    audio.rounded-xl.mx-auto(
       controls
       :src="withBase(file)"
     )

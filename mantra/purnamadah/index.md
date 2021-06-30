@@ -1,20 +1,25 @@
 ---
-title: 'Пурнамадах Пурнамидам мантра'
-subtitle: "<p class=\"sanskrt\">पूर्णमदः पूर्णमिदं मंत्र</p>\r\n<p class=\"transcript\" >pūrṇamadaḥ pūrṇamidaṃ mantra</p>\r\nМантра абсолютной полноты"
+title: Пурнамадах Пурнамидам мантра
+subtitle: पूर्णमदः पूर्णमिदं मंत्र - pūrṇamadaḥ pūrṇamidaṃ mantra - Мантра абсолютной полноты
 tags: mantra
+date: 2021-05-06
 ---
 
-[sans]ॐ पूर्णमदः पूर्णमिदं पूर्णात्पुर्णमुदच्यते ।
-पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥[/sans]
+::: stanza
 
-[trans]oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇātpurṇamudacyate ।
-pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ॥[/trans]
+ॐ पूर्णमदः पूर्णमिदं पूर्णात्पुर्णमुदच्यते ।    
+पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥ {sans}
+
+oṃ pūrṇamadaḥ pūrṇamidaṃ pūrṇātpurṇamudacyate ।     
+pūrṇasya pūrṇamādāya pūrṇamevāvaśiṣyate ॥ {trans}
 
 То есть совершенное целое, это есть совершенное целое. То, что выходит из совершенного целого, тоже есть совершенное целое.    
 Если полнота исходит из полноты, то то, что остается, остается совершенной полнотой.
 
+:::
+
 ### Аудиозапись пения мантры
 
-![Пение](./purnam.mp3)
-
 <a href="/books/SwamiDayanandaEng.pdf" target="_blank">Комментарий к мантре от Свами Даянанды Сарасвати</a>
+
+<audio-player title="Purnamadah" file="/audio/purnam.mp3" />

@@ -1,0 +1,145 @@
+<template lang="pug">
+.flex.flex-col.max-w-60ch.mx-auto.relative
+  article#santana-app
+    object#santana-object(
+      data="./santana.svg", 
+      type="image/svg+xml", 
+      @load="loaded()"
+      height="100%"
+      )
+    #overlay
+      article#info      
+        
+</template>
+
+<script setup>
+import { defineProps, onMounted, ref } from 'vue'
+const props = defineProps({
+  vishva: {
+    type: Object,
+    default: {},
+  }
+});
+let active = null
+function loaded() {
+  const svg = document.getElementById('santana-object')
+  const svgDoc = svg.contentDocument
+  const aham = svgDoc.getElementById('aham')
+  const overlay = document.getElementById('overlay')
+  const info = document.getElementById('info')
+  setListeners(props.vishva)
+
+  overlay.addEventListener('click', close)
+
+  function close(e) {
+    overlay.classList.remove('open')
+    if (active) {
+      active.classList.remove('active')
+    }
+    active = null
+    aham.classList.remove('has-active')
+  }
+
+  function setListeners(obj) {
+    for (let item in obj) {
+      console.log(item)
+      let el = svgDoc.getElementById(item)
+      if (el) {
+        el.addEventListener('click', click(item))
+      }
+    }
+  }
+
+  function click(item) {
+
+    return (e) => {
+      let el = svgDoc.getElementById(item)
+      console.log(item, el)
+      if (active) {
+        active.classList.remove('active')
+        if (active == el) {
+          active = null
+          aham.classList.remove('has-active')
+          return
+        }
+      }
+      active = el
+      info.innerHTML = format(props.vishva[item])
+      active.classList.add('active')
+      aham.classList.add('has-active')
+      overlay.classList.toggle('open')
+    }
+  }
+
+  function format(item) {
+    return /*html*/`
+    <p class="sanskrit">${item.sans}</p>
+    <p class="transcript">${item.trans}</p>
+    <h2>${item.title}</h2>
+    <p>${item.text}</p>
+  `
+  }
+}
+</script>
+
+<style scoped>
+:root {
+  --height: 90vh;
+}
+
+#santana > article {
+  padding: 0;
+}
+
+#santana-object {
+  max-height: var(--height);
+  min-height: var(--height);
+  min-width: 100%;
+  cursor: pointer;
+}
+
+#santana-app {
+  cursor: pointer;
+}
+
+#overlay {
+  display: none;
+  flex-flow: column;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 300ms ease;
+  max-height: 100%;
+  overflow-y: scroll;
+  background-color: rgba(255, 255, 255, 0.35);
+  cursor: pointer;
+}
+
+#overlay article {
+  font-family: "Noto sans", sans-serif;
+  padding: 2em;
+}
+
+#overlay.open {
+  display: flex;
+  opacity: 1;
+}
+
+.sanskrt,
+.sanskrit {
+  font-weight: 500;
+  font-size: 2em;
+  margin: 12px 0;
+  line-height: 1.42;
+  font-family: "Mukta";
+}
+
+.transcript {
+  font-size: 1.2em;
+  color: #999;
+  margin: 12px 0;
+}
+</style>

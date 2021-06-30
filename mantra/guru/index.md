@@ -1,24 +1,28 @@
 ---
-title: 'Гуру мантра'
+title: Гуру мантра
 tags: mantra
-subtitle: 'Мантра Шиве как всепроникающему Гуру'
+subtitle: Мантра Шиве как всепроникающему Гуру
+date: 2021-03-03
+langs: true
 ---
 
-[sans]ॐ नमः शिवाय गुरवे
+ॐ नमः शिवाय गुरवे     
 सच्चिदानन्द मूर्तये ।   
-निष्प्रपञ्चाय शान्ताय
-निरालम्बाय तेजसे ॥[/sans]
+निष्प्रपञ्चाय शान्ताय      
+निरालम्बाय तेजसे ॥ {sans}
 
-[trans]Om̐ namaḥ śivāya gurave
+Om̐ namaḥ śivāya gurave      
 saccidānanda mūrtaye ।    
-niṣprapañcāya śāntāya
-nirālambāya tejase ॥[/trans]
+niṣprapañcāya śāntāya      
+nirālambāya tejase ॥ {trans}
 
 Ом. Приветствие гуру, который есть Шива.   
 Его форма — воплощения Бытия-Сознания-Блаженства.   
 Он трансцендентный, спокойный,   
 свободный от любой опоры и сияющий.   
 
-![Ty burhoe](./Ty-Burhoe-James-Hoskins-Cat-McCarthy-Manorama-and-Janaki-Kagel-Angels-Prayer.mp3)
+
 
 ![Gurave](./Gurave.svg)
+
+<audio-player title="Ty burhoe - Angels prayer" file="/audio/Ty-Burhoe-James-Hoskins-Cat-McCarthy-Manorama-and-Janaki-Kagel-Angels-Prayer.mp3" />

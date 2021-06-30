@@ -1,20 +1,29 @@
 ---
-title: 'Сохам — хамса'
-subtitle: 'Аджапа джапа — естественная мантра дыхания '
+title: Сохам — хамса
+subtitle: Аджапа джапа — естественная мантра дыхания 
 tags: mantra
+date: 2021-06-04
 ---
 
-[sect]
-[sans]सोऽहम् [/sans]
-[trans]so'ham [/trans]
-Он _(saḥ)_ – Я _(aham)_.    
-[small]Аджапа джапа: so — вдох, ham – выдох.[/small]
+::: stanza
 
-[/sect]
-[sect]
+सोऽहम् {sans big}
 
-[sans]हंस [/sans]
-[trans]haṃsa [/trans]
+so'ham {trans}
+
+Он _(saḥ)_ – Я _(aham)_. 
+
+Аджапа джапа: so — вдох, ham – выдох. {eng}
+
+:::
+::: stanza
+
+हंस {sans big}
+
+haṃsa {trans}
+
 Я _(aham)_ – Он _(saḥ)_.    
-[small]Аджапа джапа: haṃ — вдох, sa – выдох.[/small]
-[/sect]
+
+Аджапа джапа: haṃ — вдох, sa – выдох. {eng}
+
+:::

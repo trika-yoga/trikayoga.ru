@@ -1,22 +1,25 @@
 ---
 title: 'Мула мантра'
-subtitle: "<p class=\"sanskrt\" >मूल मन्त्र</p>\r\n<p class=\"transcript\" >mūla mantra</p>\r\nКоренная мантра"
+subtitle: "मूल मन्त्र - mūla mantra - Коренная мантра"
 tags: mantra
+date: 2021-04-02
+langs: true
 ---
 
-[sans]
+::: stanza
+
 ॐ    
 सच्चिदानन्द परब्रह्मन् ।   
 पुरुषोत्तम परमात्मन् ।   
 श्री भागवती समेत ।   
-श्री भगवत् नमः ॥
-[/sans]
-[trans]
+श्री भगवत् नमः ॥ {sans}
+
+
 оṃ saccidānanda parabrahman ।   
 puruṣottama paramātman ।   
 śrī bhāgavatī sameta ।   
-śrī bhagavat namaḥ ॥
-[/trans]
+śrī bhagavat namaḥ ॥ {trans}
+
 Бытие, Сознание и Блаженство — Наивысший Абсолют   
 Высшая душа — Наивысший Дух   
 Вместе с Великой Богиней   
