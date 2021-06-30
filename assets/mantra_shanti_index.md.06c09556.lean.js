@@ -1,1 +1,0 @@
-import{o as a,c as t,C as r}from"./framework.742a1519.js";const n='{"title":"Шанти мантра","description":"","frontmatter":{"title":"Шанти мантра","tags":"mantra"},"relativePath":"mantra/shanti/index.md","lastUpdated":1624804180209}',s={},m=r("",3);s.render=function(r,n,s,e,i,o){return a(),t("div",null,[m])};export default s;export{n as __pageData};
