@@ -1,19 +1,19 @@
 ---
 title: Панчабрахма упанишада
-subtitle:  '<p class="sanskrit">पञ्चब्रह्मोपनिषत् </p><p class="transcript"> pañcabrahmopaniṣat</p>'
+subtitle:  'पञ्चब्रह्मोपनिषत् - pañcabrahmopaniṣat'
 tags: text
 langs: true
+date: 2021-02-02
 ---
 
 ::: stanza 
 
-
-ॐ ॥ 
+ॐ ॥      
 सह नाववतु सह नौ भुनक्तु सह वीर्यं करवावहै ।             
 तेजस्विनावधीतमस्तु मा विद्विषावहै ॥   
 ॐ शान्तिः शान्तिः शान्तिः ॥ {sans}
 
-[transcript]oṁ ॥ 
+oṁ ॥      
 saha nāvavatu saha nau bhunaktu saha vīryaṁ karavāvahai ।             
 tejasvināvadhītamastu mā vidviṣāvahai ॥   
 oṁ śāntiḥ śāntiḥ śāntiḥ ॥ 

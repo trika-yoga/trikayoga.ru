@@ -1,164 +1,207 @@
 ---
 title: 'Шива аштоттара шатанама стотра'
-subtitle: '<p class="sanskrit">श्रीशिवाष्टोत्तर शतनामस्तोत्रम् </p><p class="transcript"> śrīśivāṣṭottara śatanāmastotram </p>  Стовосьмиимённое восхваление Шивы'
+subtitle: 'श्रीशिवाष्टोत्तर शतनामस्तोत्रम् - śrīśivāṣṭottara śatanāmastotram -  Стовосьмиимённое восхваление Шивы'
 tags: hymn
 ---
 
-_Стихотворный перевод с санскрита: NN._
+Стихотворный перевод с санскрита: NN.
 
 
-[sect]
-[sans]शिवो महेश्वरश्शम्भुः पिनाकी शशिशेखरः ।
-वामदेवो विरूपाक्षः कपर्दी नीललोहितः ॥ १[/sans]
-[trans]śivo maheśvaraśśambhuḥ pinākī śaśiśekharaḥ .
-vāmadevo virūpākṣaḥ kapardī nīlalohitaḥ .. 1..[/trans]
+::: stanza 1
+
+शिवो महेश्वरश्शम्भुः पिनाकी शशिशेखरः ।       
+वामदेवो विरूपाक्षः कपर्दी नीललोहितः ॥१॥ {sans}
+
+śivo maheśvaraśśambhuḥ pinākī śaśiśekharaḥ ।        
+vāmadevo virūpākṣaḥ kapardī nīlalohitaḥ ॥1॥ {trans}
+
 Дарящий счастье царь, благой;
 Кто лучник, убранный луной;
 Прекрасен, необычноок,
 Кроваво-красен, власья в клок.
 
-[/sect]
-[sect]
-[sans]शङ्करश्शूलपाणिश्च खट्वाङ्गी विष्णुवल्लभः ।
-शिपिविष्टोऽम्बिकानाथः श्रीकण्ठो भक्तवत्सलः ॥ २[/sans]
-[trans]śaṅkaraśśūlapāṇiśca khaṭvāṅgī viṣṇuvallabhaḥ .
-śipiviṣṭo'mbikānāthaḥ śrīkaṇṭho bhaktavatsalaḥ .. 2..[/trans]
+:::
+::: stanza 2
+
+शङ्करश्शूलपाणिश्च खट्वाङ्गी विष्णुवल्लभः ।       
+शिपिविष्टोऽम्बिकानाथः श्रीकण्ठो भक्तवत्सलः ॥२॥ {sans}
+
+śaṅkaraśśūlapāṇiśca khaṭvāṅgī viṣṇuvallabhaḥ ।        
+śipiviṣṭo'mbikānāthaḥ śrīkaṇṭho bhaktavatsalaḥ ॥2॥ {trans}
+
 Владелец жезла и копья;
 Богини муж, исток бытья,
 Прекрасношеий, чистый свет,
 Услады преданных предмет.
 
-[/sect]
-[sect]
-[sans]भवश्शर्वस्त्रिलोकेशश्शितिकण्ठश्शिवप्रियः ।
-उग्रः कपाली कामारी अन्धकासुरसूदनः ॥ ३[/sans]
-[trans]bhavaśśarvastrilokeśaśśitikaṇṭhaśśivapriyaḥ .
-ugraḥ kapālī kāmārī andhakāsurasūdanaḥ .. 3..[/trans]
+:::
+::: stanza 3
+
+भवश्शर्वस्त्रिलोकेशश्शितिकण्ठश्शिवप्रियः ।       
+उग्रः कपाली कामारी अन्धकासुरसूदनः ॥३॥ {sans}
+
+bhavaśśarvastrilokeśaśśitikaṇṭhaśśivapriyaḥ ।        
+ugraḥ kapālī kāmārī andhakāsurasūdanaḥ ॥3॥ {trans}
+
 Стрелой разящий; капалин;
 Бытье; трехмирья властелин.
 Желаний враг, Андхаки мор;
 Сам ужас, любый дщери гор.
 
-[/sect]
-[sect]
-[sans]गङ्गाधरो ललाटाक्षः कालकालः कृपानिधिः ।
-भीमः परशुहस्तश्च मृगपाणिर्जटाधरः ॥ ४[/sans]
-[trans]gaṅgādharo lalāṭākṣaḥ kālakālaḥ kṛpānidhiḥ .
-bhīmaḥ paraśuhastaśca mṛgapāṇirjaṭādharaḥ .. 4..[/trans]
+:::
+::: stanza 4
+
+गङ्गाधरो ललाटाक्षः कालकालः कृपानिधिः ।       
+भीमः परशुहस्तश्च मृगपाणिर्जटाधरः ॥४॥ {sans}
+
+gaṅgādharo lalāṭākṣaḥ kālakālaḥ kṛpānidhiḥ ।        
+bhīmaḥ paraśuhastaśca mṛgapāṇirjaṭādharaḥ ॥4॥ {trans}
+
 Держащий Гангу, смерти мор,
 Во лбу чьем глаз, в руке топор.
 Огромен, милости колосс.
 Лань держит, спутанноволос.
 
-[/sect]
-[sect]
-[sans]कैलासवासी कवची कठोरस्त्रिपुरान्तकः ।
-वृषाङ्को वृषभारूढो भस्मोद्धूलितविग्रहः ॥ ५[/sans]
-[trans]kailāsavāsī kavacī kaṭhorastripurāntakaḥ .
-vṛṣāṅko vṛṣabhārūḍho bhasmoddhūlitavigrahaḥ .. 5..[/trans]
+:::
+::: stanza 5
+
+कैलासवासी कवची कठोरस्त्रिपुरान्तकः ।       
+वृषाङ्को वृषभारूढो भस्मोद्धूलितविग्रहः ॥५॥ {sans}
+
+kailāsavāsī kavacī kaṭhorastripurāntakaḥ ।        
+vṛṣāṅko vṛṣabhārūḍho bhasmoddhūlitavigrahaḥ ॥5॥ {trans}
+
 Живущий на горе святой,
 Муж в пепле, на быке, густой.
 Три града ввергнувший в конец;
 В броню одетый и венец.
 
-[/sect]
-[sect]
-[sans]सामप्रियस्स्वरमयस्त्रयीमूर्तिरनीश्वरः ।
-सर्वज्ञः परमात्मा च सोमसूर्याग्निलोचनः ॥ ६[/sans]
-[trans]sāmapriyassvaramayastrayīmūrtiranīśvaraḥ .
-sarvajñaḥ paramātmā ca somasūryāgnilocanaḥ .. 6..[/trans]
+:::
+::: stanza 6
+
+सामप्रियस्स्वरमयस्त्रयीमूर्तिरनीश्वरः ।       
+सर्वज्ञः परमात्मा च सोमसूर्याग्निलोचनः ॥६॥ {sans}
+
+sāmapriyassvaramayastrayīmūrtiranīśvaraḥ ।        
+sarvajñaḥ paramātmā ca somasūryāgnilocanaḥ ॥6॥ {trans}
+
 Трехлик, любящий рифмы слог.
 Звучанье, неподвластный Бог.
 Дух высший и знаток всего;
 Светила все - глаза Его.
 
-[/sect]
-[sect]
-[sans]हविर्यज्ञमयस्सोमः पञ्चवक्त्रस्सदाशिवः ।
-विश्वेश्वरो वीरभद्रो गणनाथः प्रजापतिः ॥ ७[/sans]
-[trans]haviryajñamayassomaḥ pañcavaktrassadāśivaḥ .
-viśveśvaro vīrabhadro gaṇanāthaḥ prajāpatiḥ .. 7..[/trans]
+:::
+::: stanza 7
+
+हविर्यज्ञमयस्सोमः पञ्चवक्त्रस्सदाशिवः ।       
+विश्वेश्वरो वीरभद्रो गणनाथः प्रजापतिः ॥७॥ {sans}
+
+haviryajñamayassomaḥ pañcavaktrassadāśivaḥ ।        
+viśveśvaro vīrabhadro gaṇanāthaḥ prajāpatiḥ ॥7॥ {trans}
+
 Огонь, что с Умою един,
 Приемлет жертвы, господин.
 Кто пятилик, всегда благой.
 Царь духам; предок и герой.
 
-[/sect]
-[sect]
-[sans]हिरण्यरेतः दुर्धर्षः गिरीशो गिरिशोनघः ।
-भुजङ्गभूषणो भर्गो गिरिधन्वा गिरिप्रियः ॥ ८[/sans]
-[trans]hiraṇyaretaḥ durdharṣaḥ girīśo giriśonaghaḥ .
-bhujaṅgabhūṣaṇo bhargo giridhanvā giripriyaḥ .. 8..[/trans]
+:::
+::: stanza 8
+
+हिरण्यरेतः दुर्धर्षः गिरीशो गिरिशोनघः ।       
+भुजङ्गभूषणो भर्गो गिरिधन्वा गिरिप्रियः ॥८॥ {sans}
+
+hiraṇyaretaḥ durdharṣaḥ girīśo giriśonaghaḥ ।        
+bhujaṅgabhūṣaṇo bhargo giridhanvā giripriyaḥ ॥8॥ {trans}
+
 Златое семя у Кого,
 Непросто оскорбить Его,
 Змеей украшен, славен; гор
 Владыка, житель и убор.
 
-[/sect]
-[sect]
-[sans]कृत्तिवासः पुरातनर्भगवान् प्रमथाधिपः ।
-मृत्युञ्जयस्सूक्ष्मतनुर्जगद्व्यापी जगद्गुरुः ॥ ९[/sans]
-[trans]kṛttivāsaḥ purātanarbhagavān pramathādhipaḥ .
-mṛtyuñjayassūkṣmatanurjagadvyāpī jagadguruḥ .. 9..[/trans]
+:::
+::: stanza 9
+
+कृत्तिवासः पुरातनर्भगवान् प्रमथाधिपः ।       
+मृत्युञ्जयस्सूक्ष्मतनुर्जगद्व्यापी जगद्गुरुः ॥९॥ {sans}
+
+kṛttivāsaḥ purātanarbhagavān pramathādhipaḥ ।        
+mṛtyuñjayassūkṣmatanurjagadvyāpī jagadguruḥ ॥9॥ {trans}
+
 Бог древний, смерть что победил,
 Собою всё заполонил.
 Миров учитель, духов царь;
 Кто тоньше, чем любая тварь.
 
-[/sect]
-[sect]
-[sans]व्योमकेशो महासेनजनकश्चारुविक्रमः ।
-रुद्रो भूतपतिः स्थाणुरहिर्भुध्नो दिगम्बरः ॥ १०[/sans]
-[trans]vyomakeśo mahāsenajanakaścāruvikramaḥ .
-rudro bhūtapatiḥ sthāṇurahirbhudhno digambaraḥ .. 10..[/trans]
+:::
+::: stanza 10
+
+व्योमकेशो महासेनजनकश्चारुविक्रमः ।       
+रुद्रो भूतपतिः स्थाणुरहिर्भुध्नो दिगम्बरः ॥१०॥ {sans}
+
+vyomakeśo mahāsenajanakaścāruvikramaḥ ।        
+rudro bhūtapatiḥ sthāṇurahirbhudhno digambaraḥ ॥10॥ {trans}
+
 Небесновласый, милый путь;
 Отец воителя и Суть.
 Владыка всех, чей рёв суров.
 Одетый в небо, ось миров.
 
-[/sect]
-[sect]
-[sans]अष्टमूर्तिरनेकात्मा सात्त्विकश्शुद्धविग्रहः ।
-शाश्वतः खण्डपरशुरजः पाशविमोचकः ॥ ११[/sans]
-[trans]aṣṭamūrtiranekātmā sāttvikaśśuddhavigrahaḥ .
-śāśvataḥ khaṇḍaparaśurajaḥ pāśavimocakaḥ .. 11..[/trans]
+:::
+::: stanza 11
+
+अष्टमूर्तिरनेकात्मा सात्त्विकश्शुद्धविग्रहः ।       
+शाश्वतः खण्डपरशुरजः पाशविमोचकः ॥११॥ {sans}
+
+aṣṭamūrtiranekātmā sāttvikaśśuddhavigrahaḥ ।        
+śāśvataḥ khaṇḍaparaśurajaḥ pāśavimocakaḥ ॥11॥ {trans}
+
 Восьмиобразен, многочтим,
 Реален, чист, неоскверним.
 Рубящий узы, как топор,
 Непобеждённый до сих пор.
 
-[/sect]
-[sect]
-[sans]मृडः पशुपतिर्देवो महादेवोऽव्ययो हरिः ।
-भगनेत्रभिदव्यक्तो दक्षाध्वरहरो हरः ॥ १२[/sans]
-[trans]mṛḍaḥ paśupatirdevo mahādevo'vyayo hariḥ .
-bhaganetrabhidavyakto dakṣādhvaraharo haraḥ .. 12..[/trans]
+:::
+::: stanza 12
+
+मृडः पशुपतिर्देवो महादेवोऽव्ययो हरिः ।       
+भगनेत्रभिदव्यक्तो दक्षाध्वरहरो हरः ॥१२॥ {sans}
+
+mṛḍaḥ paśupatirdevo mahādevo'vyayo hariḥ ।        
+bhaganetrabhidavyakto dakṣādhvaraharo haraḥ ॥12॥ {trans}
+
 Добрейший пастырь душам всем,
 Неизменяемый совсем.
 Великий бог, в оленя цвет,
 Обряд что Дакши свёл на нет.
 
-[/sect]
-[sect]
+:::
+::: stanza 13
 
-[sans]पूषदन्तभिदव्यग्रो सहस्राक्षस्सहस्रपात् ।
-अपवर्गप्रदोऽनन्तस्तारकः परमेश्वरः ॥ १३[/sans]
-[trans]pūṣadantabhidavyagro sahasrākṣassahasrapāt .
-apavargaprado'nantastārakaḥ parameśvaraḥ .. 13..[/trans]
+
+पूषदन्तभिदव्यग्रो सहस्राक्षस्सहस्रपात् ।       
+अपवर्गप्रदोऽनन्तस्तारकः परमेश्वरः ॥१३॥ {sans}
+
+pūṣadantabhidavyagro sahasrākṣassahasrapāt ।        
+apavargaprado'nantastārakaḥ parameśvaraḥ ॥13॥ {trans}
+
 Тысяченог, тысячеглаз,
 у Пуши зуб, у Бхаги глаз
 Он выбил, сам хотя - покой...
 Спаситель, Бог Всевышний мой.
 
 
-[sect]
-[sans]इति श्री शिवाष्टोत्तरशतनामस्त्रोत्रम् समाप्तम् ॥[/sans]
-[trans]iti śrī śivāṣṭottaraśatanāmastrotram samāptam ..[/trans]
+::: stanza 14
+
+इति श्री शिवाष्टोत्तरशतनामस्त्रोत्रम् समाप्तम् ॥॥ {sans}
+
+iti śrī śivāṣṭottaraśatanāmastrotram samāptam ॥ {trans}
+
 Таково стовосьмиимённое восхваление Шивы
-[/sect]
+:::
 
 ![Ноты для пения](./108.svg)
 
+::: stanza
 
 ## Поимённый перевод с санскрита: Савитри Деви
 
@@ -820,3 +863,5 @@ apavargaprado'nantastārakaḥ parameśvaraḥ .. 13..[/trans]
 </tr>
 </tbody>
 </table>
+
+:::

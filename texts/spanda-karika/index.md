@@ -4,6 +4,7 @@ subtitle: 'स्पन्दकारिका - Spandakārikā'
 toc: true
 tags: text
 langs: true
+date: 2021-06-20
 ---
 
 [Перевод на английский Габриэля Прадиипаки, перевод на русский Ирины Валлабхи](http://sanskrit-sanscrito.com.ar/ru/spanda-karikas-normal-translation-trika-scriptures-non-dual-shaivism-of-kashmir-ru/564#spkI21to25)

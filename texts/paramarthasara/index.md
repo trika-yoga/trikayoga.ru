@@ -4,6 +4,7 @@ subtitle: '॥परमार्थसार॥ - Paramārthasāra - Суть В
 tags: text
 langs: true
 eng: Paramarthasara
+date: 2021-05-05
 ---
 
 ## Абхинавагупта

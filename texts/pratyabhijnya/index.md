@@ -3,6 +3,7 @@ title: Пратьябхиджняхридаям
 subtitle: प्रत्यभिज्ञाहृदयम् - Pratyabhijñāhṛdayam - Сущность узнавания
 tags: text
 langs: true
+date: 2021-06-07
 ---
 
 Перевод с санскрита и комментарии С. В. Пахомова. Перевод коренного текста откорректирован и дополнен на основе [пословного перевода на английский Гуру Габриэля Прадиипаки](https://www.sanskrit-sanscrito.com/en/pratyabhijnahrdayam-only-the-20-sutra-s-trika-scriptures-non-dual-shaivism-of-kashmir/541).

@@ -49,6 +49,18 @@ body {
   li {
     @apply leading-relaxed py-2;
   }
+  img {
+    @apply mx-auto rounded-lg;
+  }
+  table {
+    @apply border-collapse;
+    td {
+      @apply p-1;
+    }
+    tr:nth-child(2n) {
+      @apply bg-dark-100/10 dark:bg-light-100/10;
+    }
+  }
 }
 
 .sans,
@@ -67,7 +79,7 @@ body {
 }
 
 .stanza {
-  @apply transition-all max-w-2xl mx-auto relative duration-400 shadow-md p-3 sm:p-8 my-12 bg-light-400 text-left rounded
+  @apply transition-all max-w-2xl mx-auto relative duration-400 shadow-md p-3 sm:p-8 my-12 bg-light-400 text-left rounded overflow-x-scroll
   dark:(bg-dark-200);
   &:hover {
     @apply shadow-xl;

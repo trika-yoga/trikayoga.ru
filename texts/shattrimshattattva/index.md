@@ -2,7 +2,7 @@
 title: Шаттримшаттаттвасандоха
 subtitle: 'षट्त्रिंशत्तत्त्वसन्दोह - Ṣaṭtriṁśattattvasandoha - Собрание тридцати шести таттв'
 tags: text
-date: 2021-01-05
+date: 2021-05-05
 ---
 
 Amṛtānandanātha, 12 век н.э.

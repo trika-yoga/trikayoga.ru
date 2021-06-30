@@ -3,4 +3,4 @@ title: 'Таблица ведическо-агамической космоло�
 tags: scheme
 ---
 
-![таблица](./Vedic_Cosmology_Lokhs.png)
+<img src="./Vedic_Cosmology_Lokhs.png">

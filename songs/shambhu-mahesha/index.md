@@ -3,20 +3,16 @@ title: 'Шамбху махеша'
 tags: song
 ---
 
-[sanskrit]
+::: stanza
 शम्भु महेश गौरीश
+सदाशिव ॐ परमेश {sans}
 
-सदाशिव ॐ परमेश
-[/sanskrit]
-
-
-
-[transcript]Śambhu maheśa gaurīśa
-
-Sadāśiva oṁ parameśa[/transcript]
+Śambhu maheśa gaurīśa
+Sadāśiva oṁ parameśa {trans}
 
 Несущий счастье великий владыка господин для богини Гаури
 Вечный Шива ом высший повелитель
 
+:::
 
-![Shiva stuti](./Shiva-stuti-Sambu-mahesha.mp3)
+<audio-player title="Shambhu mahesha" file="/audio/Shiva-stuti-Sambu-mahesha.mp3" />

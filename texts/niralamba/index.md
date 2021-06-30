@@ -3,6 +3,7 @@ title: 'Нираламба упанишада'
 subtitle: 'निरालम्बोपनिषत् - nirālambopaniṣat - «Наставление о безопорном»'
 tags: text
 langs: true
+date: 2021-01-01
 ---
 
 Малая упанишада канона Муктика (она идёт 34-ой в списке упанишад); принадлежит к упанишадам Шукла-Яджур-веды и Саманья-упанишадам
@@ -499,12 +500,17 @@ oṁ śāntiḥ śāntiḥ śāntiḥ ॥ {trans}
 &nbsp;
 
 :::
-::: stanza 
+
 
 ॥ इति निरालम्बोपनिषत्समाप्ता ॥ {sans}
 
 .. iti nirālambopaniṣatsamāptā ॥ {trans}
 
 Такова «Нираламба упанишада» Шукла-Яджурведы.
-:::
 
+
+<a :href="withBase('/books/niralamba.pdf')" target="_blank">Санскритский текст Нираламба Упанишады</a>
+
+<script setup>
+import {withBase} from 'vitepress'
+</script>

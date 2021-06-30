@@ -3,6 +3,7 @@ title: Виджняна бхайрава тантра
 subtitle: 'विज्ञान भैरव तन्त् - vijñāna bhairava tantra'
 tags: text
 langs: true
+date: 2021-03-03
 ---
 
 Приводится два перевода: краткий и _развернутый_.
