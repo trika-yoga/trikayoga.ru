@@ -3,9 +3,10 @@ title: 'Вишвам унмилаяти'
 icon: compressed-universe-square-hand.svg
 tags: yantra
 date: 2021-01-02
+cover: /img/vishvam-unmilayati.svg
 ---
 
-![](./compressed.svg)
+![](/img/vishvam-unmilayati.svg)
 
 
 

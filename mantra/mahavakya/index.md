@@ -1,6 +1,8 @@
 ---
 title: Махавакья
-subtitle: "महावाक्य - Mahāvākya - Великие изречения упанишад"
+subtitle: Великие изречения упанишад
+sans: महावाक्य
+trans: Mahāvākya
 tags: mantra
 date: 2021-03-20
 langs: true

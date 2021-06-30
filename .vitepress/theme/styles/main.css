@@ -53,7 +53,7 @@ body {
     @apply my-16 bg-dark-100/50 h-1px dark:bg-light-100/50 max-w-xl;
   }
   img {
-    @apply mx-auto rounded-lg shadow-xl m-16;
+    @apply mx-auto rounded-lg shadow-xl my-16;
   }
   table {
     @apply border-collapse;

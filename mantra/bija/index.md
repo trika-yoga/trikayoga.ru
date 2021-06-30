@@ -1,6 +1,8 @@
 ---
 title: Биджа мантры
-subtitle: बीजामन्त् - bīja-mantra - Семенные мантры
+subtitle: Семенные мантры
+sans: बीजामन्त्
+trans: bīja-mantra
 tags: mantra
 date: 2021-02-03
 langs: true

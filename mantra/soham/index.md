@@ -1,6 +1,8 @@
 ---
 title: Сохам — хамса
 subtitle: Аджапа джапа — естественная мантра дыхания 
+sans: अजप जप
+trans: ajapa japa
 tags: mantra
 date: 2021-06-04
 ---

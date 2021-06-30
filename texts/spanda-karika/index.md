@@ -1,6 +1,8 @@
 ---
-title: 'Спанда карика'
-subtitle: 'स्पन्दकारिका - Spandakārikā'
+title: Спанда карика
+subtitle: Развитие идей Шива сутры в учении о Спанде - изначальной вибрации
+sans: स्पन्दकारिका
+trans: Spandakārikā
 toc: true
 tags: text
 langs: true

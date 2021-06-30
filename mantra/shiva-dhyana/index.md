@@ -1,7 +1,10 @@
 ---
 title: Шива дхьяна
-subtitle: शिवध्यानमन्त्र  - śivadhyānamantra - Шлока из Яджурведы, являющаяся одной из самых знаменитых ārti
+subtitle: Шлока из Яджурведы, являющаяся одной из самых знаменитых ārti
+sans: शिवध्यानमन्त्र 
+trans: śivadhyānamantra
 tags: mantra
+date: 2021-04-05
 ---
 
 ::: stanza

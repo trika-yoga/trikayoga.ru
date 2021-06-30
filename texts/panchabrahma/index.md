@@ -1,6 +1,8 @@
 ---
 title: Панчабрахма упанишада
-subtitle:  'पञ्चब्रह्मोपनिषत् - pañcabrahmopaniṣat'
+subtitle: Одна из 13 Шайва Упанишад и одна из 32 Упанишад Кришна Яджурведы о пятиликом Брахмане
+sans: पञ्चब्रह्मोपनिषत्
+trans: pañcabrahmopaniṣat
 tags: text
 langs: true
 date: 2021-02-02

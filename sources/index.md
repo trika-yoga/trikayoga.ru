@@ -55,6 +55,10 @@ ru_books:
   - title: Паратришика-виварана Абхинавагупты. Тайны тантрического мистицизма.
     subtitle: Джайдева Сингх при содействии Свами Лакшманджу.
     book: /books/paratsrisika.pdf
+  - title: Спанда карика. 
+    subtitle: Перевод с санскрита Ерченкова О.Н.
+    book: /books/spanda-karika.pdf
+
 en_books:
   - title: Tantrasara of Abhinavagupta.
     subtitle: H.N. Chakravarty, Boris Marjanovic. 283 pages

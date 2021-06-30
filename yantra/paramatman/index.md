@@ -2,13 +2,13 @@
 title: Параматман
 tags: yantra
 date: 2021-07-02
+cover: /img/paramatman.png
+sans: परमात्मन्
+trans: paramatman
 ---
 
-परमात्मन् {sans big}
 
-paramatman {trans}
-
-![Параматман](./paramatman.png)
+![Параматман](/img/paramatman.png)
 
 ![Схема](./paramatman-scheme.png)
 

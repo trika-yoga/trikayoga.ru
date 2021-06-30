@@ -1,5 +1,5 @@
 <template lang="pug">
-a.p-2(
+a.p-2.no-underline(
   v-for="page in site.customData.pages.main"
   :key= "page.link"
   :href="withBase(page.link)"

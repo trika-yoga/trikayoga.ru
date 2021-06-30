@@ -1,6 +1,8 @@
 ---
 title: Виджняна бхайрава тантра
-subtitle: 'विज्ञान भैरव तन्त् - vijñāna bhairava tantra'
+subtitle: Глава из Рудраямала-тантры, содержащая 112 техник медитации
+sans: विज्ञान भैरव तन्त्
+trans: vijñāna bhairava tantra
 tags: text
 langs: true
 date: 2021-03-03

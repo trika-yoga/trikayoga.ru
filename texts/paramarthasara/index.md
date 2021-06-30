@@ -1,6 +1,8 @@
 ---
 title: Парамартхасара
-subtitle: '॥परमार्थसार॥ - Paramārthasāra - Суть Высшей Истины'
+subtitle: Суть Высшей Истины
+sans: परमार्थसार
+trans: Paramārthasāra
 tags: text
 langs: true
 eng: Paramarthasara

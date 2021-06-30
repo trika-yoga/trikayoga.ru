@@ -1,6 +1,8 @@
 ---
 title: Панчакшара мантра
-subtitle: "पञ्चक्षरमन्त्र - pañcakṣaramantra - Пятислоговая мантра"
+subtitle: Пятислоговая мантра
+sans: पञ्चक्षरमन्त्र
+trans: pañcakṣaramantra
 tags: mantra
 date: 2021-04-05
 langs: true

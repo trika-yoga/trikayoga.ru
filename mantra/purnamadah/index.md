@@ -1,6 +1,8 @@
 ---
 title: Пурнамадах Пурнамидам мантра
-subtitle: पूर्णमदः पूर्णमिदं मंत्र - pūrṇamadaḥ pūrṇamidaṃ mantra - Мантра абсолютной полноты
+subtitle: Мантра абсолютной полноты
+sans: पूर्णमदः पूर्णमिदं मंत्र
+trans: pūrṇamadaḥ pūrṇamidaṃ mantra
 tags: mantra
 date: 2021-05-06
 ---

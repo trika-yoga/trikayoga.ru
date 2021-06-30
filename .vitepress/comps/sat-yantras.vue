@@ -1,5 +1,5 @@
 <template lang="pug">
-section.holder.max-w-60ch.mx-auto.my-16(ref="section")
+section.holder.max-w-60ch.mx-auto.my-16
   .sans.big {{ info.sans }}
   .trans {{ info.trans }}
   .text-2xl.font-bold.mb-4 {{ info.title }}
@@ -7,7 +7,7 @@ section.holder.max-w-60ch.mx-auto.my-16(ref="section")
   .relative
     object#object.shadow-2xl(
       ref="object", 
-      :data="name + '.svg'", 
+      :data="withBase('/img/' + name + '.svg')", 
       type="image/svg+xml", 
       @load="mount()"
       )
@@ -20,6 +20,7 @@ section.holder.max-w-60ch.mx-auto.my-16(ref="section")
 
 <script setup>
 import { defineProps, ref, reactive } from 'vue'
+import { withBase } from 'vitepress'
 import vishva from '@composables/tattvas.js'
 const props = defineProps(['name', 'info']);
 

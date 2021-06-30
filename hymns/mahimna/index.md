@@ -1,6 +1,9 @@
 ---
-title: 'Шива махимна стотра'
-subtitle: 'पशिवमहिम्नः स्तोत्रम् - Śivamahimnaḥ stotram - Гимн величия Шивы'
+title: Шива махимна стотра
+subtitle: Гимн величия Шивы
+sans: पशिवमहिम्नः स्तोत्रम्
+trans: Śivamahimnaḥ stotram
+date: 2021-03-06
 tags: hymn
 ---
 

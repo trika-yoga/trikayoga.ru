@@ -2,12 +2,11 @@
 title: Парамахамса
 tags: yantra
 date: 2021-06-30
+cover: /img/paramahamsa.png
+sans: परमहंस
+trans: paramahaṁsa
+subtitle: Высший лебедь
 ---
 
-परमहंस {sans big}
 
-paramahaṁsa {trans}
-
-### Высший лебедь
-
-![Парамахамса](./paramahamsa.png)
+![Парамахамса](/img/paramahamsa.png)

@@ -1,6 +1,8 @@
 ---
 title: Шаттримшаттаттвасандоха
-subtitle: 'षट्त्रिंशत्तत्त्वसन्दोह - Ṣaṭtriṁśattattvasandoha - Собрание тридцати шести таттв'
+subtitle: Собрание тридцати шести таттв
+sans: षट्त्रिंशत्तत्त्वसन्दोह
+trans: Ṣaṭtriṁśattattvasandoha
 tags: text
 date: 2021-05-05
 ---

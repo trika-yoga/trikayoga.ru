@@ -1,5 +1,8 @@
 ---
-title: 'Шамбху махеша'
+title: Шамбху махеша
+sans: शम्भु महेश
+trans: Śambhu maheśa
+date: 2021-09-09
 tags: song
 ---
 

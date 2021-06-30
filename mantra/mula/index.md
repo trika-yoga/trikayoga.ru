@@ -1,6 +1,8 @@
 ---
-title: 'Мула мантра'
-subtitle: "मूल मन्त्र - mūla mantra - Коренная мантра"
+title: Мула мантра
+subtitle: Коренная мантра
+sans: मूल मन्त्र
+trans: mūla mantra
 tags: mantra
 date: 2021-04-02
 langs: true

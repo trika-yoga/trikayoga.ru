@@ -1,6 +1,9 @@
 ---
 title: Шива шадакшара стотра
-subtitle: ॥श्रीशिवषडक्षरस्तोत्रम्॥ - śrīśivaṣaḍakṣarastotram - Гимн шести слогам мантры Шивы
+subtitle: Гимн шести слогам мантры Шивы
+sans: श्रीशिवषडक्षरस्तोत्रम्
+trans: śrīśivaṣaḍakṣarastotram
+date: 2021-06-06
 tags: hymn
 ---
 
