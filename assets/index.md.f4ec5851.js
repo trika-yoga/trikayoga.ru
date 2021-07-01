@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./framework.5e85cea8.js";const r='{"title":"Трика йога","description":"","frontmatter":{"title":"Трика йога","list":"main"},"relativePath":"index.md","lastUpdated":1624883469866}',a={};a.render=function(r,a,i,o,n,d){return t(),e("div")};export default a;export{r as __pageData};
