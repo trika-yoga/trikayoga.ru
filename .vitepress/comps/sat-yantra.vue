@@ -55,7 +55,7 @@ function click(item) {
   return (e) => {
     let el = state.svg.getElementById(item)
     if (state.active) {
-      el.classList.remove('active')
+      el?.classList?.remove('active')
       if (state.active == el) {
         state.active = null
         state.main.classList.remove('has-active')
@@ -71,7 +71,7 @@ function click(item) {
 
 function close() {
   if (state.active) {
-    state.active.classList.remove('active')
+    state.active?.classList?.remove('active')
   }
   state.active = null
   state.main.classList.remove('has-active')

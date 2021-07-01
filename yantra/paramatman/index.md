@@ -7,9 +7,4 @@ sans: परमात्मन्
 trans: paramatman
 ---
 
-
-![Параматман](/img/paramatman.png)
-
-![Схема](./paramatman-scheme.png)
-
-![Таттвы](./tattva-list.svg)
+<sat-yantra name="paramatman" />
