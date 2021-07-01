@@ -53,6 +53,7 @@ function setListeners() {
 
 function click(item) {
   return (e) => {
+
     let el = state.svg.getElementById(item)
     if (state.active) {
       el?.classList?.remove('active')
