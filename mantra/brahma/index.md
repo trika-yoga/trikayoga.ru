@@ -5,7 +5,7 @@ trans: 'brahma mantra'
 sans: 'ब्रह्म मंत्र'
 tags: mantra
 date: 2021-02-12
-langs: true
+
 ---
 
 ::: stanza

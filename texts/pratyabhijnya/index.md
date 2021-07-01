@@ -4,7 +4,7 @@ subtitle: Сущность узнавания
 sans: प्रत्यभिज्ञाहृदयम्
 trans: Pratyabhijñāhṛdayam
 tags: text
-langs: true
+
 date: 2021-06-07
 ---
 

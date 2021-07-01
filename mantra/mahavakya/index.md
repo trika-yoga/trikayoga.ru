@@ -5,7 +5,7 @@ sans: महावाक्य
 trans: Mahāvākya
 tags: mantra
 date: 2021-03-20
-langs: true
+
 ---
 
 ::: stanza

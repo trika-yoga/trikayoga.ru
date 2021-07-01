@@ -4,7 +4,7 @@ subtitle: Наставление о безопорном
 sans: निरालम्बोपनिषत्
 trans: nirālambopaniṣat
 tags: text
-langs: true
+
 date: 2021-01-01
 ---
 

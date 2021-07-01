@@ -1,9 +1,10 @@
 <template lang="pug">
 section.holder.max-w-60ch.mx-auto.my-16
-  .sans.big {{ info.sans }}
-  .trans {{ info.trans }}
-  .text-2xl.font-bold.mb-4 {{ info.title }}
-  .text-xl.my-8 {{ info.text }}
+  .p-2(v-if="info")
+    .sans.big {{ info.sans }}
+    .trans {{ info.trans }}
+    .text-2xl.font-bold.mb-4 {{ info.title }}
+    .text-xl.my-8 {{ info.text }}
   .relative
     object#object.shadow-2xl(
       ref="object", 
@@ -25,7 +26,7 @@ import vishva from '@composables/tattvas.js'
 const props = defineProps(['name', 'info']);
 
 const state = reactive({
-  active: true,
+  active: !!props.info,
   text: format(props.info),
   main: null,
   svg: null,
@@ -34,15 +35,17 @@ const state = reactive({
 const object = ref();
 
 function mount() {
+
   state.svg = object.value.contentDocument
   state.main = state.svg.getElementById('main')
+
   setListeners()
 }
 
 function setListeners() {
   for (let item in vishva) {
     let el = state.svg.getElementById(item)
-    if (el instanceof Element) {
+    if (el) {
       el.addEventListener('click', click(item))
     }
   }
@@ -51,23 +54,23 @@ function setListeners() {
 function click(item) {
   return (e) => {
     let el = state.svg.getElementById(item)
-    if (state.active instanceof Element) {
-      state.active.classList.remove('active')
+    if (state.active) {
+      el.classList.remove('active')
       if (state.active == el) {
         state.active = null
         state.main.classList.remove('has-active')
-        return
       }
+      return
     }
     state.active = el
     state.text = format(vishva[item])
-    state.active.classList.add('active')
+    el.classList.add('active')
     state.main.classList.add('has-active')
   }
 }
 
 function close() {
-  if (state.active instanceof Element) {
+  if (state.active) {
     state.active.classList.remove('active')
   }
   state.active = null
@@ -75,6 +78,7 @@ function close() {
 }
 
 function format(item) {
+  if (!item) return ''
   return /*html*/`
     <p class="sans big">${item.sans}</p>
     <p class="text-2xl">${item.trans}</p>
@@ -99,6 +103,19 @@ object svg {
   cursor: pointer;
 }
 
+* {
+  transition: opacity 300ms ease;
+  cursor: pointer;
+}
+.active,
+.active * {
+  opacity: 1 !important;
+}
+
+.has-active :not(.active):not(g) {
+  opacity: 0.05;
+}
+
 #yantra-app > section {
   position: relative;
   cursor: pointer;
@@ -116,7 +133,7 @@ object svg {
   transition: opacity 300ms ease;
   max-height: 100%;
   overflow-y: scroll;
-  background-color: hsla(0, 0%, 100%, 0.5);
+  background-color: hsla(0, 0%, 100%, 0.3);
 }
 
 .overlay .info {

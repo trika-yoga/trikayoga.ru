@@ -23,4 +23,4 @@ yantras:
     text: Блаженство самопознания Вселенной
 ---
 
-<sat-yantras v-for="yantra in $frontmatter.yantras" :key="yantra.name" :name="yantra.name" :info="yantra" />
+<sat-yantra v-for="yantra in $frontmatter.yantras" :key="yantra.name" :name="yantra.name" :info="yantra" />

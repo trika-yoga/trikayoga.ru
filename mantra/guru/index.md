@@ -5,7 +5,7 @@ sans: ॐ नमः शिवाय गुरवे
 trans: Om̐ namaḥ śivāya gurave  
 subtitle: Мантра Шиве как всепроникающему Гуру
 date: 2021-03-03
-langs: true
+
 ---
 
 ॐ नमः शिवाय गुरवे     

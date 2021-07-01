@@ -5,7 +5,7 @@ sans: पञ्चब्रह्मा मन्त्र
 trans: pañcabrahmā mantra
 tags: mantra
 date: 2021-04-30
-langs: true
+
 ---
 
 ::: stanza

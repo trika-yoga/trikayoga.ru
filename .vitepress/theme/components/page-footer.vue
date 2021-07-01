@@ -1,0 +1,22 @@
+<template lang="pug">
+footer
+  .flex.flex-wrap.justify-center
+    nav-links
+  state-dark
+  a.flex.flex-col.items-center.no-underline(:href="withBase('/')") 
+    .mt-4.font-bold.text-2xl.p-2 {{ site.title }}
+    img.w-6rem.my-4(:src="withBase('/img/sadvidya.svg')")
+</template>
+
+<script setup>
+import { defineProps } from 'vue'
+import { useData, withBase } from 'vitepress'
+
+const { site } = useData();
+</script>
+
+<style scoped>
+footer {
+  @apply transition-all duration-600 mt-8 bg-dark-100 text-light-300/80 py-16 px-4 sm:px-8 md:px-16 flex flex-col items-center dark:(bg-dark-900);
+}
+</style>

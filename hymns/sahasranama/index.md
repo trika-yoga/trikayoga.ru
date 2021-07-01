@@ -3377,9 +3377,9 @@ jagadekaprabhuḥsvāmī jagadvandyo jaganmayaḥ ॥51॥ {trans}
 खट्वाङ्गी नीतिमान् सत्यो देवतात्माऽऽत्मसम्भवः ॥५२॥ {sans}
 
 jagadānandado janmajarāmaraṇavarjitaḥ ।
-khaṭvāṅgī nītimān satyo devatātmā<i>tmasambhavaḥ ॥52॥ {trans}
+khaṭvāṅgī nītimān satyo devatātmātmasambhavaḥ ॥52॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>446</td>
@@ -3434,7 +3434,7 @@ khaṭvāṅgī nītimān satyo devatātmā<i>tmasambhavaḥ ॥52॥ {trans}
 kapālamālābharaṇaḥ kapālī viṣṇuvallabhaḥ ।
 kamalāsanakālāgniḥ kamalāsanapūjitaḥ ॥53॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>453</td>
@@ -3477,7 +3477,7 @@ kamalāsanakālāgniḥ kamalāsanapūjitaḥ ॥53॥ {trans}
 kālādhīśastrikālajño duṣṭavigrahavārakaḥ ।
 nāṭyakartā naṭaparo mahānāṭyaviśāradaḥ ॥54॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>458</td>
@@ -3526,7 +3526,7 @@ nāṭyakartā naṭaparo mahānāṭyaviśāradaḥ ॥54॥ {trans}
 virāṭrūpadharo dhīro vīro vṛṣabhavāhanaḥ ।
 vṛṣāṁko vṛṣabhādhīśo vṛṣātmā vṛṣabhadhvajaḥ ॥55॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>464</td>
@@ -3587,7 +3587,7 @@ vṛṣāṁko vṛṣabhādhīśo vṛṣātmā vṛṣabhadhvajaḥ ॥55॥ {
 mahonnato mahākāyo mahāvakṣā mahābhujaḥ ।
 mahāskandho mahāgrīvo mahāvaktro mahāśirāḥ ॥56॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>472</td>
@@ -3648,7 +3648,7 @@ mahāskandho mahāgrīvo mahāvaktro mahāśirāḥ ॥56॥ {trans}
 mahāhanurmahādaṁṣṭro mahadoṣṭho mahodaraḥ ।
 sundarabhrūḥ sunayanaḥ sulalāṭaḥ sukandaraḥ ॥57॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>480</td>
@@ -3709,7 +3709,7 @@ sundarabhrūḥ sunayanaḥ sulalāṭaḥ sukandaraḥ ॥57॥ {trans}
 satyavākyo dharmavettā satyajñaḥ satyavittamaḥ ।
 dharmavān dharmanipuṇo dharmo dharmapravartakaḥ ॥58॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>488</td>
@@ -3770,7 +3770,7 @@ dharmavān dharmanipuṇo dharmo dharmapravartakaḥ ॥58॥ {trans}
 kṛtajñaḥ kṛtakṛtyātmā kṛtakṛtyaḥ kṛtāgamaḥ ।
 kṛtyavit kṛtyavicchreṣṭhaḥ kṛtajñapriyakṛttamaḥ ॥59॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>496</td>
@@ -3825,7 +3825,7 @@ kṛtyavit kṛtyavicchreṣṭhaḥ kṛtajñapriyakṛttamaḥ ॥59॥ {trans
 vratakṛd vratavicchreṣṭho vratavidvān mahāvratī ।
 vratapriyo vratādhāro vratākāro vrateśvaraḥ ॥60॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>503</td>
@@ -3886,7 +3886,7 @@ vratapriyo vratādhāro vratākāro vrateśvaraḥ ॥60॥ {trans}
 atirāgī vītarāgī rāgaheturvirāgavit ।
 rāgaghno rāgaśamano rāgado rāgirāgavit ॥61॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>511</td>
@@ -3947,7 +3947,7 @@ rāgaghno rāgaśamano rāgado rāgirāgavit ॥61॥ {trans}
 vidvān vidvattamo vidvajjanamānasasaṁśrayaḥ ।
 vidvajjanāśrayo vidvajjanastavyaparākramaḥ ॥62॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>519</td>
@@ -3990,7 +3990,7 @@ vidvajjanāśrayo vidvajjanastavyaparākramaḥ ॥62॥ {trans}
 nītikṛnnītivinnītipradātā nītivitpriyaḥ ।
 vinītavatsalo nītisvarūpo nītisaṁśrayaḥ ॥63॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>524</td>
@@ -4045,7 +4045,7 @@ vinītavatsalo nītisvarūpo nītisaṁśrayaḥ ॥63॥ {trans}
 krodhavit krodhakṛt krodhijanakṛt krodharūpadhṛk ।
 sakrodhaḥ krodhahā krodhijanahā krodhakāraṇaḥ ॥64॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>531</td>
@@ -4106,7 +4106,7 @@ sakrodhaḥ krodhahā krodhijanahā krodhakāraṇaḥ ॥64॥ {trans}
 guṇavān guṇavicchreṣṭho nirguṇo guṇavitpriyaḥ ।
 guṇādhāro guṇākāro guṇakṛd guṇanāśakaḥ ॥65॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>539</td>
@@ -4167,7 +4167,7 @@ guṇādhāro guṇākāro guṇakṛd guṇanāśakaḥ ॥65॥ {trans}
 vīryavān vīryavicchreṣṭho vīryavidvīryasaṁśrayaḥ ।
 vīryākāro vīryakaro vīryahā vīryavardhakaḥ ॥66॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>547</td>
@@ -4228,7 +4228,7 @@ vīryākāro vīryakaro vīryahā vīryavardhakaḥ ॥66॥ {trans}
 kālavitkālakṛtkālo balakṛd balavidbalī ।
 manonmano manorūpo balapramathano balaḥ ॥67॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>555</td>
@@ -4301,7 +4301,7 @@ manonmano manorūpo balapramathano balaḥ ॥67॥ {trans}
 viśvapradātā viśveśo viśvamātraikasaṁśrayaḥ ।
 viśvakāro mahāviśvo viśvaviśvo viśāradaḥ ॥68॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>565</td>
@@ -4358,7 +4358,7 @@ viśvakāro mahāviśvo viśvaviśvo viśāradaḥ ॥68॥ {trans}
 vidyāpradātā vidyeśo vidyāmātraikasaṁśrayaḥ ।
 vidyākāro mahāvidyo vidyāvidyo viśāradaḥ ॥68॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>565</td>
@@ -4413,7 +4413,7 @@ vidyākāro mahāvidyo vidyāvidyo viśāradaḥ ॥68॥ {trans}
 vasantakṛdvasantātmā vasanteśo vasantadaḥ ।
 grīṣmātmā grīṣmakṛd grīṣmavardhako grīṣmanāśakaḥ ॥69॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>572</td>
@@ -4474,7 +4474,7 @@ grīṣmātmā grīṣmakṛd grīṣmavardhako grīṣmanāśakaḥ ॥69॥ {t
 prāvṛṭkṛt prāvṛḍākāraḥ prāvṛṭkālapravartakaḥ ।
 prāvṛṭpravardhakaḥ prāvṛṇṇāthaḥ prāvṛḍvināśakaḥ ॥70॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>581</td>
@@ -4517,7 +4517,7 @@ prāvṛṭpravardhakaḥ prāvṛṇṇāthaḥ prāvṛḍvināśakaḥ ॥70�
 śaradātmā śaraddhetuḥ śaratkālapravartakaḥ ।
 śarannāthaḥ śaratkālanāśakaḥ śaradāśrayaḥ ॥71॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>586</td>
@@ -4566,7 +4566,7 @@ prāvṛṭpravardhakaḥ prāvṛṇṇāthaḥ prāvṛḍvināśakaḥ ॥70�
 himasvarūpo himado himahā himanāyakaḥ ।
 śaiśirātmā śaiśireśaḥ śaiśirartupravartakaḥ ॥72॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>592</td>
@@ -4621,7 +4621,7 @@ himasvarūpo himado himahā himanāyakaḥ ।
 prācyātmā dakṣiṇākāraḥ pratīcyātmottarākṛtiḥ ।
 āgneyātmā nirṛtīśo vāyavyātmeśanāyakaḥ ॥73॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>599</td>
@@ -4676,7 +4676,7 @@ prācyātmā dakṣiṇākāraḥ pratīcyātmottarākṛtiḥ ।
 ūrdhvādhaḥsudigākāro nānādeśaikanāyakaḥ ।
 sarvapakṣimṛgākāraḥ sarvapakṣimṛgādhipaḥ ॥74॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>606</td>
@@ -4725,7 +4725,7 @@ sarvapakṣimṛgākāraḥ sarvapakṣimṛgādhipaḥ ॥74॥ {trans}
 sarvapakṣimṛgādhāro mṛgādyutpattikāraṇaḥ ।
 jīvādhyakṣo jīvavandyo jīvavijjīvarakṣakaḥ ॥75॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>612</td>
@@ -4768,7 +4768,7 @@ jīvādhyakṣo jīvavandyo jīvavijjīvarakṣakaḥ ॥75॥ {trans}
 jīvakṛjjīvahā jīvajīvano jīvasaṁśrayaḥ ।
 jyotiḥsvarūpo viśvātmā viśvanātho viyatpatiḥ ॥76॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>617</td>
@@ -4829,7 +4829,7 @@ jyotiḥsvarūpo viśvātmā viśvanātho viyatpatiḥ ॥76॥ {trans}
 vajrātmā vajrahastātmā vajreśo vajrabhūṣitaḥ ।
 kumāragururīśāno gaṇādhyakṣo gaṇādhipaḥ ॥77॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>625</td>
@@ -4884,7 +4884,7 @@ kumāragururīśāno gaṇādhyakṣo gaṇādhipaḥ ॥77॥ {trans}
 pinākapāṇiḥ sūryātmā somasūryāgnilocanaḥ ।
 apāyarahitaḥ śānto dānto damayitā damaḥ ॥78॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>632</td>
@@ -4945,7 +4945,7 @@ apāyarahitaḥ śānto dānto damayitā damaḥ ॥78॥ {trans}
 ṛṣiḥ purāṇapuruṣaḥ puruṣeśaḥ purandaraḥ ।
 kālāgnirudraḥ sarveśaḥ śamarūpaḥ śameśvaraḥ ॥79॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>640</td>
@@ -5006,7 +5006,7 @@ kālāgnirudraḥ sarveśaḥ śamarūpaḥ śameśvaraḥ ॥79॥ {trans}
 pralayānalakṛd divyaḥ pralayānalanāśakaḥ ।
 triyambako'riṣaḍvarganāśako dhanadapriyaḥ ॥80॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>648</td>
@@ -5055,7 +5055,7 @@ triyambako'riṣaḍvarganāśako dhanadapriyaḥ ॥80॥ {trans}
 akṣobhyaḥ kṣobharahitaḥ kṣobhadaḥ kṣobhanāśakaḥ ।
 sadambho dambharahito dambhado dambhanāśakaḥ ॥81॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>654</td>
@@ -5110,7 +5110,7 @@ sadambho dambharahito dambhado dambhanāśakaḥ ॥81॥ {trans}
 kundenduśaṁkhadhavalo bhasmoddhūlitavigrahaḥ ।
 bhasmadhāraṇahṛṣṭātmā tuṣṭiḥ puṣṭyarisūdanaḥ ॥82॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>661</td>
@@ -5165,7 +5165,7 @@ bhasmadhāraṇahṛṣṭātmā tuṣṭiḥ puṣṭyarisūdanaḥ ॥82॥ {t
 sthāṇurdigambaro bhargo bhaganetrabhidudyamaḥ ।
 trikāgniḥ kālakālāgniradvitīyo mahāyaśāḥ ॥83॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>668</td>
@@ -5232,7 +5232,7 @@ trikāgniḥ kālakālāgniradvitīyo mahāyaśāḥ ॥83॥ {trans}
 sāmapriyaḥ sāmavettā sāmagaḥ sāmagapriyaḥ ।
 dhīrodātto mahādhīro dhairyado dhairyavardhakaḥ ॥84॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>677</td>
@@ -5293,7 +5293,7 @@ dhīrodātto mahādhīro dhairyado dhairyavardhakaḥ ॥84॥ {trans}
 lāvaṇyarāśiḥ sarvajñaḥ subuddhirbuddhimānvaraḥ ।
 tumbavīṇaḥ kambukaṇṭhaḥ śambarārinikṛntanaḥ ॥85॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>685</td>
@@ -5342,7 +5342,7 @@ tumbavīṇaḥ kambukaṇṭhaḥ śambarārinikṛntanaḥ ॥85॥ {trans}
 śārdūlacarmavasanaḥ pūrṇānando jagatpriyaḥ ।
 jayaprado jayādhyakṣo jayātmā jayakāraṇaḥ ॥86॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>691</td>
@@ -5397,7 +5397,7 @@ jayaprado jayādhyakṣo jayātmā jayakāraṇaḥ ॥86॥ {trans}
 jaṅgamājaṅgamākāro jagadutpattikāraṇaḥ ।
 jagadrakṣākaro vaśyo jagatpralayakāraṇaḥ ॥87॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>698</td>
@@ -5440,7 +5440,7 @@ jagadrakṣākaro vaśyo jagatpralayakāraṇaḥ ॥87॥ {trans}
 pūṣadantabhidutkṛṣṭaḥ pañcayajñaḥ prabhañjakaḥ ।
 aṣṭamūrtirviśvamūrtiratimūrtiramūrtimān ॥88॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>703</td>
@@ -5501,7 +5501,7 @@ aṣṭamūrtirviśvamūrtiratimūrtiramūrtimān ॥88॥ {trans}
 kailāsaśikharāvāsaḥ kailāsaśikharapriyaḥ ।
 bhaktakailāsadaḥ sūkṣmo marmajñaḥ sarvaśikṣakaḥ ॥89॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>711</td>
@@ -5550,7 +5550,7 @@ bhaktakailāsadaḥ sūkṣmo marmajñaḥ sarvaśikṣakaḥ ॥89॥ {trans}
 somaḥ somakalākāro mahātejā mahātapāḥ ।
 hiraṇyaśmaśrurānandaḥ svarṇakeśaḥ suvarṇadṛk ॥90॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>717</td>
@@ -5605,7 +5605,7 @@ hiraṇyaśmaśrurānandaḥ svarṇakeśaḥ suvarṇadṛk ॥90॥ {trans}
 brahmā viśvasṛgurvīśo mocako bandhavarjitaḥ ।
 svatantraḥ sarvamantrātmā dyutimānamitaprabhaḥ ॥91॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>724</td>
@@ -5666,7 +5666,7 @@ svatantraḥ sarvamantrātmā dyutimānamitaprabhaḥ ॥91॥ {trans}
 puṣkarākṣaḥ puṇyakīrtiḥ puṇyaśravaṇakīrtanaḥ ।
 puṇyamūrtiḥ puṇyadātā puṇyāpuṇyaphalapradaḥ ॥92॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>732</td>
@@ -5715,7 +5715,7 @@ puṇyamūrtiḥ puṇyadātā puṇyāpuṇyaphalapradaḥ ॥92॥ {trans}
 sārabhūtaḥ svaramayo rasabhūto rasāśrayaḥ ।
 oṁkāraḥ praṇavo nādo praṇatārtiprabhañjanaḥ ॥93॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>738</td>
@@ -5776,7 +5776,7 @@ oṁkāraḥ praṇavo nādo praṇatārtiprabhañjanaḥ ॥93॥ {trans}
 nikaṭastho'tidūrastho vaśī brahmāṇḍanāyakaḥ ।
 mandāramūlanilayo mandārakusumāvṛtaḥ ॥94॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>746</td>
@@ -5825,7 +5825,7 @@ mandāramūlanilayo mandārakusumāvṛtaḥ ॥94॥ {trans}
 vṛndārakapriyatamo vṛndārakavarārcitaḥ ।
 śrīmānanantakalyāṇaparipūrṇo mahodayaḥ ॥95॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>752</td>
@@ -5868,7 +5868,7 @@ vṛndārakapriyatamo vṛndārakavarārcitaḥ ।
 mahotsāho viśvabhoktā viśvāśāparipūrakaḥ ।
 sulabho'sulabho labhyo'labhyo lābhapravardhakaḥ ॥96॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>757</td>
@@ -5929,7 +5929,7 @@ sulabho'sulabho labhyo'labhyo lābhapravardhakaḥ ॥96॥ {trans}
 lābhātmā lābhado vaktā dyutimānanasūyakaḥ ।
 brahmacārī dṛḍhācārī devasiṁho dhanapriyaḥ ॥97॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>765</td>
@@ -5996,7 +5996,7 @@ brahmacārī dṛḍhācārī devasiṁho dhanapriyaḥ ॥97॥ {trans}
 vedapo devadeveśo devadevottamottamaḥ ।
 bījarājo bījaheturbījado bījavṛddhidaḥ ॥98॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>774</td>
@@ -6057,7 +6057,7 @@ bījarājo bījaheturbījado bījavṛddhidaḥ ॥98॥ {trans}
 bījādhāro bījarūpo nirbījo bījanāśakaḥ ।
 parāpareśo varadaḥ piṅgalo'yugmalocanaḥ ॥99॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>782</td>
@@ -6118,7 +6118,7 @@ parāpareśo varadaḥ piṅgalo'yugmalocanaḥ ॥99॥ {trans}
 piṅgalākṣaḥ suraguruḥ guruḥ suragurupriyaḥ ।
 yugāvaho yugādhīśo yugakṛdyuganāśakaḥ ॥100॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>790</td>
@@ -6179,7 +6179,7 @@ yugāvaho yugādhīśo yugakṛdyuganāśakaḥ ॥100॥ {trans}
 karpūragauro gaurīśo gaurīguruguhāśrayaḥ ।
 dhūrjaṭiḥ piṅgalajaṭo jaṭāmaṇḍalamaṇḍitaḥ ॥101॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>798</td>
@@ -6228,7 +6228,7 @@ dhūrjaṭiḥ piṅgalajaṭo jaṭāmaṇḍalamaṇḍitaḥ ॥101॥ {trans
 manojavo jīvaheturandhakāsurasūdanaḥ ।
 lokabandhuḥ kalādhāraḥ pāṇḍuraḥ pramathādhipaḥ ॥102॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>804</td>
@@ -6283,7 +6283,7 @@ lokabandhuḥ kalādhāraḥ pāṇḍuraḥ pramathādhipaḥ ॥102॥ {trans}
 avyaktalakṣaṇo yogī yogīśo yogapuṁgavaḥ ।
 śritāvāso janāvāsaḥ suravāsaḥ sumaṇḍalaḥ ॥103॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>811</td>
@@ -6344,7 +6344,7 @@ avyaktalakṣaṇo yogī yogīśo yogapuṁgavaḥ ।
 bhavavaidyo yogivaidyo yogisiṁhahṛdāsanaḥ ।
 uttamo'nuttamo'śaktaḥ kālakaṇṭho viṣādanaḥ ॥104॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>819</td>
@@ -6405,7 +6405,7 @@ uttamo'nuttamo'śaktaḥ kālakaṇṭho viṣādanaḥ ॥104॥ {trans}
 āśāsyaḥ kamanīyātmā śubhaḥ sundaravigrahaḥ ।
 bhaktakalpataruḥ stotā stavyaḥ stotravarapriyaḥ ॥105॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>827</td>
@@ -6466,7 +6466,7 @@ bhaktakalpataruḥ stotā stavyaḥ stotravarapriyaḥ ॥105॥ {trans}
 aprameyaguṇādhāro vedakṛdvedavigrahaḥ ।
 kīrtyādhāraḥ kīrtikaraḥ kīrtiheturahetukaḥ ॥106॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>835</td>
@@ -6521,7 +6521,7 @@ kīrtyādhāraḥ kīrtikaraḥ kīrtiheturahetukaḥ ॥106॥ {trans}
 apradhṛṣyaḥ śāntabhadraḥ kīrtistambho manomayaḥ ।
 bhūśayo'nnamayo'bhoktā maheṣvāso mahītanuḥ ॥107॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>842</td>
@@ -6588,7 +6588,7 @@ bhūśayo'nnamayo'bhoktā maheṣvāso mahītanuḥ ॥107॥ {trans}
 vijñānamaya ānandamayaḥ prāṇamayo'nnadaḥ ।
 sarvalokamayo yaṣṭā dharmādharmapravartakaḥ ॥108॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>851</td>
@@ -6643,7 +6643,7 @@ sarvalokamayo yaṣṭā dharmādharmapravartakaḥ ॥108॥ {trans}
 anirviṇṇo guṇagrāhī sarvadharmaphalapradaḥ ।
 dayāsudhārdranayano nirāśīraparigrahaḥ ॥109॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>858</td>
@@ -6692,7 +6692,7 @@ dayāsudhārdranayano nirāśīraparigrahaḥ ॥109॥ {trans}
 parārthavṛttirmadhuro madhurapriyadarśanaḥ ।
 muktādāmaparītāṅgo niḥsaṅgo maṅgalākaraḥ ॥110॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>864</td>
@@ -6735,7 +6735,7 @@ muktādāmaparītāṅgo niḥsaṅgo maṅgalākaraḥ ॥110॥ {trans}
 sukhapradaḥ sukhākāraḥ sukhaduḥkhavivarjitaḥ ।
 viśṛṅkhalo jagatkartā jitasarvaḥ pitāmahaḥ ॥111॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>869</td>
@@ -6796,7 +6796,7 @@ viśṛṅkhalo jagatkartā jitasarvaḥ pitāmahaḥ ॥111॥ {trans}
 anapāyo'kṣayo muṇḍī surūpo rūpavarjitaḥ ।
 atīndriyo mahāmāyo māyāvī vigatajvaraḥ ॥112॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>877</td>
@@ -6863,7 +6863,7 @@ atīndriyo mahāmāyo māyāvī vigatajvaraḥ ॥112॥ {trans}
 amṛtaḥ śāśvataḥ śānto mṛtyuhā mūkanāśanaḥ ।
 mahāpretāsanāsīnaḥ piśācānucarāvṛtaḥ ॥113॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>886</td>
@@ -6912,7 +6912,7 @@ mahāpretāsanāsīnaḥ piśācānucarāvṛtaḥ ॥113॥ {trans}
 gaurīvilāsasadano nānāgānaviśāradaḥ ।
 vicitramālyavasano divyacandanacarcitaḥ ॥114॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>892</td>
@@ -6949,7 +6949,7 @@ vicitramālyavasano divyacandanacarcitaḥ ॥114॥ {trans}
 viṣṇubrahmādivandyāṁghriḥ surāsuranamaskṛtaḥ ।
 kirīṭaleḍhiphālendurmaṇikaṁkaṇabhūṣitaḥ ॥115॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>896</td>
@@ -6986,7 +6986,7 @@ kirīṭaleḍhiphālendurmaṇikaṁkaṇabhūṣitaḥ ॥115॥ {trans}
 ratnāṁgadāṁgo ratneśo ratnarañjitapādukaḥ ।
 navaratnagaṇopetakirīṭī ratnakañcukaḥ ॥116॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>900</td>
@@ -7029,7 +7029,7 @@ navaratnagaṇopetakirīṭī ratnakañcukaḥ ॥116॥ {trans}
 nānāvidhānekaratnalasatkuṇḍalamaṇḍitaḥ ।
 divyaratnagaṇākīrṇakaṇṭhābharaṇabhūṣitaḥ ॥117॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>905</td>
@@ -7058,7 +7058,7 @@ divyaratnagaṇākīrṇakaṇṭhābharaṇabhūṣitaḥ ॥117॥ {trans}
 galavyālamaṇirnāsāpuṭabhrājitamauktikaḥ ।
 ratnāṁgulīyavilasatkaraśākhānakhaprabhaḥ ॥118॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>907</td>
@@ -7083,7 +7083,7 @@ ratnāṁgulīyavilasatkaraśākhānakhaprabhaḥ ॥118॥ {trans}
 ratnabhrājaddhemasūtralasatkaṭitaṭaḥ paṭuḥ ।
 vāmāṅkabhāgavilasatpārvatīvīkṣaṇapriyaḥ ॥119॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>909</td>
@@ -7120,7 +7120,7 @@ vāmāṅkabhāgavilasatpārvatīvīkṣaṇapriyaḥ ॥119॥ {trans}
 līlāvalambitavapurbhaktamānasamandiraḥ ।
 mandamandārapuṣpaughalasadvāyuniṣevitaḥ ॥120॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>913</td>
@@ -7151,7 +7151,7 @@ mandamandārapuṣpaughalasadvāyuniṣevitaḥ ॥120॥ {trans}
 kastūrīvilasatphālo divyaveṣavirājitaḥ ।
 divyadehaprabhākūṭasandīpitadigantaraḥ ॥121॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>916</td>
@@ -7182,7 +7182,7 @@ divyadehaprabhākūṭasandīpitadigantaraḥ ॥121॥ {trans}
 devāsuragurustavyo devāsuranamaskṛtaḥ ।
 hastarājatpuṇḍarīkaḥ puṇḍarīkanibhekṣaṇaḥ ॥122॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>919</td>
@@ -7219,7 +7219,7 @@ hastarājatpuṇḍarīkaḥ puṇḍarīkanibhekṣaṇaḥ ॥122॥ {trans}
 sarvāśāsyaguṇo'meyaḥ sarvalokeṣṭabhūṣaṇaḥ ।
 sarveṣṭadātā sarveṣṭaḥ sphuranmaṁgalavigrahaḥ ॥123॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>923</td>
@@ -7268,7 +7268,7 @@ sarveṣṭadātā sarveṣṭaḥ sphuranmaṁgalavigrahaḥ ॥123॥ {trans}
 avidyāleśarahito nānāvidyaikasaṁśrayaḥ ।
 mūrtibhavaḥ kṛpāpūro bhakteṣṭaphalapūrakaḥ ॥124॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>929</td>
@@ -7311,7 +7311,7 @@ mūrtibhavaḥ kṛpāpūro bhakteṣṭaphalapūrakaḥ ॥124॥ {trans}
 sampūrṇakāmaḥ saubhāgyanidhiḥ saubhāgyadāyakaḥ ।
 hitaiṣī hitakṛtsaumyaḥ parārthaikaprayojanaḥ ॥125॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>934</td>
@@ -7366,7 +7366,7 @@ hitaiṣī hitakṛtsaumyaḥ parārthaikaprayojanaḥ ॥125॥ {trans}
 śaraṇāgatadīnārtaparitrāṇaparāyaṇaḥ ।
 jiṣṇurnetā vaṣaṭkāro bhrājiṣṇurbhojanaṁ haviḥ ॥126॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>941</td>
@@ -7421,7 +7421,7 @@ jiṣṇurnetā vaṣaṭkāro bhrājiṣṇurbhojanaṁ haviḥ ॥126॥ {tran
 bhoktā bhojayitā jetā jitārirjitamānasaḥ ।
 akṣaraḥ kāraṇaṁ kruddhasamaraḥ śāradaplavaḥ ॥127॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>948</td>
@@ -7488,7 +7488,7 @@ akṣaraḥ kāraṇaṁ kruddhasamaraḥ śāradaplavaḥ ॥127॥ {trans}
 ājñāpakeccho gambhīraḥ kavirduḥsvapnanāśakaḥ ।
 pañcabrahmasamutpattiḥ kṣetrajñaḥ kṣetrapālakaḥ ॥128॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>957</td>
@@ -7537,7 +7537,7 @@ pañcabrahmasamutpattiḥ kṣetrajñaḥ kṣetrapālakaḥ ॥128॥ {trans}
 vyomakeśo bhīmaveṣo gaurīpatiranāmayaḥ ।
 bhavābdhitaraṇopāyo bhagavān bhaktavatsalaḥ ॥129॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>963</td>
@@ -7598,7 +7598,7 @@ bhavābdhitaraṇopāyo bhagavān bhaktavatsalaḥ ॥129॥ {trans}
 varo variṣṭho nediṣṭhaḥ priyaḥ priyadavaḥ sudhīḥ ।
 yantā yaviṣṭhaḥ kṣodiṣṭho sthaviṣṭho yamaśāsakaḥ ॥130॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>971</td>
@@ -7677,7 +7677,7 @@ yantā yaviṣṭhaḥ kṣodiṣṭho sthaviṣṭho yamaśāsakaḥ ॥130॥ 
 hiraṇyagarbho hemāṁgo hemarūpo hiraṇyadaḥ ।
 brahmajyotiranāvekṣyaścāmuṇḍājanako raviḥ ॥131॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>982</td>
@@ -7738,7 +7738,7 @@ brahmajyotiranāvekṣyaścāmuṇḍājanako raviḥ ॥131॥ {trans}
 mokṣārthijanasaṁsevyo mokṣado mokṣanāyakaḥ ।
 mahāśmaśānanilayo vedāśvo bhūrathaḥ sthiraḥ ॥132॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>990</td>
@@ -7793,7 +7793,7 @@ mahāśmaśānanilayo vedāśvo bhūrathaḥ sthiraḥ ॥132॥ {trans}
 mṛgavyādho carmadhāmā pracchannaḥ sphaṭikaprabhaḥ ।
 sarvajñaḥ paramārthātmā brahmānandāśrayo vibhuḥ ॥133॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>997</td>
@@ -7852,7 +7852,7 @@ sarvajñaḥ paramārthātmā brahmānandāśrayo vibhuḥ ॥133॥ {trans}
 
 maheśvaro mahādevaḥ parabrahma sadāśivaḥ ॥134॥ {trans}
 
-{' '}
+
 <table class="names">
   <tr>
     <td>1005</td>

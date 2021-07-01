@@ -9,7 +9,7 @@
       v-if="page.data.cover"
       :src="withBase(page.data.cover)"
     )
-    .p-2
+    .p-2.my-auto
       .text-xl.font-bold {{ page.title }}
       .text-2xl.my-4.font-bold {{ page.data.sans }}
       .text-xl.my-4.opacity-70 {{ page.data.trans }}
@@ -23,7 +23,7 @@ const { site, frontmatter } = useData();
 
 <style scoped>
 .card {
-  @apply rounded-lg bg-light-400 dark:(bg-dark-100) transition-all duration-300 p-4 m-4 shadow-lg no-underline hover:shadow-2xl;
+  @apply flex flex-col rounded-lg bg-light-400 dark:(bg-dark-100) transition-all duration-300 p-4 m-4 shadow-lg no-underline hover:shadow-2xl items-center;
   flex: 1 1 45%;
 }
 </style>

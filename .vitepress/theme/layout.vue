@@ -15,11 +15,13 @@
   .max-w-xl.mx-auto.sans.font-bold.mb-4.text-center {{ frontmatter.sans }}
   .max-w-xl.mx-auto.text-2xl.mb-4.text-center {{ frontmatter.trans }}
   .max-w-xl.mx-auto.text-xl.text-center {{ frontmatter.subtitle }}
-  lang-toggle.mt-4(v-if="frontmatter.langs")
+  lang-toggle.mt-4(v-if="frontmatter.sans")
   content.content
   page-list(
     v-if="frontmatter.list"
   )
+  page-footer
+  scroll-top
 </template>
 
 <script setup>

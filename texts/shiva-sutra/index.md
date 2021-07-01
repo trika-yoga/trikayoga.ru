@@ -4,7 +4,7 @@ subtitle: Ключевое писание Васугупты
 sans: शिवसूत्रा
 trans: śivasūtrā
 tags: text
-langs: true
+
 date: 2021-07-01
 ---
 

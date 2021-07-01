@@ -4,7 +4,7 @@ subtitle: Суть Высшей Истины
 sans: परमार्थसार
 trans: Paramārthasāra
 tags: text
-langs: true
+
 eng: Paramarthasara
 date: 2021-05-05
 ---

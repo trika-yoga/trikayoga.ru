@@ -5,7 +5,7 @@ sans: स्पन्दकारिका
 trans: Spandakārikā
 toc: true
 tags: text
-langs: true
+
 date: 2021-06-20
 ---
 

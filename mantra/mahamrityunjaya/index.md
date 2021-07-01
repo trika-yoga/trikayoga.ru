@@ -5,7 +5,7 @@ sans: महामृत्युंजय मंत्र
 trans: mahāmṛtyuṃjaya mantra
 tags: mantra
 date: 2021-03-08
-langs: true
+
 ---
 
 ॐ त्र्यम्‍बकं यजामहे सुगन्धिं पुष्टिवर्धनम् ।     

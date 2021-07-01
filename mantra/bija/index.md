@@ -5,7 +5,7 @@ sans: बीजामन्त्
 trans: bīja-mantra
 tags: mantra
 date: 2021-02-03
-langs: true
+
 ---
 
 ::: stanza

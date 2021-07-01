@@ -8,8 +8,7 @@ date: 2021-09-30
 cover: /img/santana.svg
 ---
 
-<santana-yantra :vishva="{...$frontmatter.tattvas, ...$frontmatter.chakras,...$frontmatter.nadis}" />
+<sat-yantra name="santana" />
 
 
-Интерактивная янтра: при нажатии на каждую область изображения отображается её значение
-  
+> Интерактивная янтра: при нажатии на каждую область изображения отображается её значение
