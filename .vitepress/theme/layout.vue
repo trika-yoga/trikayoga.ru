@@ -11,11 +11,12 @@
   .header
     top-bar
     nav-bar
-  h1.text-4xl.font-bold.mb-8.text-center {{ frontmatter.title }}
-  .max-w-xl.mx-auto.sans.font-bold.mb-4.text-center {{ frontmatter.sans }}
-  .max-w-xl.mx-auto.text-2xl.mb-4.text-center {{ frontmatter.trans }}
-  .max-w-xl.mx-auto.text-xl.text-center {{ frontmatter.subtitle }}
-  lang-toggle.mt-4(v-if="frontmatter.sans")
+  transition-group(name="fade")
+    h1.text-4xl.font-bold.mb-8.text-center {{ frontmatter.title }}
+    .max-w-xl.mx-auto.sans.font-bold.mb-4.text-center {{ frontmatter.sans }}
+    .max-w-xl.mx-auto.text-2xl.mb-4.text-center {{ frontmatter.trans }}
+    .max-w-xl.mx-auto.text-xl.text-center {{ frontmatter.subtitle }}
+  lang-toggle.mt-4(v-if="frontmatter.sans && !frontmatter.nolangs")
   content.content
   page-list(
     v-if="frontmatter.list"

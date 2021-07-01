@@ -30,7 +30,7 @@ const previous = computed(() => {
 })
 const next = computed(() => {
   let index = findIndex()
-  if (index > 0 && index <= pages[frontmatter.value.tags].length) {
+  if (index >= 0 && index <= pages[frontmatter.value.tags].length) {
     return pages[frontmatter.value.tags][index + 1]
   }
   return null
