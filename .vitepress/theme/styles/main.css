@@ -55,6 +55,9 @@ body {
   img {
     @apply mx-auto rounded-lg shadow-xl my-16;
   }
+  img[alt='no-shadow'] {
+    @apply shadow-none;
+  }
   table {
     @apply border-collapse;
     td {

@@ -3,4 +3,4 @@ title: 'Диаграмма 36 таттв'
 tags: scheme
 ---
 
-![Diagram](./visva-01-1.svg)
+![no-shadow](./visva-01-1.svg)

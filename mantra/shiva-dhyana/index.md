@@ -37,6 +37,6 @@ _— Стихотворный перевод с санскрита: NN._
 
 ### Вариант аккомпанемента
 
-![Karpura gauram](./karpura-gauram.svg)
+![no-shadow](./karpura-gauram.svg)
 
 :::

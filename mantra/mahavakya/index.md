@@ -10,7 +10,7 @@ date: 2021-03-20
 
 ::: stanza
 
-प्रज्ञानम् ब्रह्म {sans}
+प्रज्ञानम् ब्रह्म {sans big}
 
 prajñānam brahma {trans}
 
@@ -20,7 +20,7 @@ prajñānam brahma {trans}
 :::
 ::: stanza
 
-अहं ब्रह्मास्मि {sans}
+अहं ब्रह्मास्मि {sans big}
 
 ahaṃ brahmāsmi {trans}
 
@@ -30,7 +30,7 @@ ahaṃ brahmāsmi {trans}
 :::
 ::: stanza
 
-तत् त्वम् असि / तत्त्वमसि {sans}
+तत् त्वम् असि / तत्त्वमसि {sans big}
 
 tat tvam asi {trans}
 
@@ -40,7 +40,7 @@ tat tvam asi {trans}
 :::
 ::: stanza
 
-अयम् आत्मा ब्रह्म {sans}
+अयम् आत्मा ब्रह्म {sans big}
 
 ayam ātmā brahma {trans}
 

@@ -20,6 +20,7 @@
   page-list(
     v-if="frontmatter.list"
   )
+  page-parents
   page-footer
   scroll-top
 </template>

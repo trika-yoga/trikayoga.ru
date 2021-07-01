@@ -8,8 +8,8 @@ trans: parabrahman
 ---
 
 
-![парабрахман](/img/parabrahman.png)
+![no-shadow](/img/parabrahman.png)
 
-![scheme](./parabrahman-scheme.png)
+![no-shadow](./parabrahman-scheme.png)
 
 ![tattvas](./tattva-list.svg)

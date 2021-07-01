@@ -7,4 +7,4 @@ sans: परमात्मन्
 trans: paramatman
 ---
 
-<sat-yantra name="paramatman" />
+<sat-yantra name="paramatman" :no-shadow="true" />

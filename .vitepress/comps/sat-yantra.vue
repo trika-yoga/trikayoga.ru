@@ -6,7 +6,8 @@ section.holder.max-w-60ch.mx-auto.my-16
     .text-2xl.font-bold.mb-4 {{ info.title }}
     .text-xl.my-8 {{ info.text }}
   .relative
-    object#object.shadow-2xl(
+    object#object(
+      :class="{ 'shadow-2xl': !noShadow }"
       ref="object", 
       :data="withBase('/img/' + name + '.svg')", 
       type="image/svg+xml", 
@@ -23,7 +24,7 @@ section.holder.max-w-60ch.mx-auto.my-16
 import { defineProps, ref, reactive } from 'vue'
 import { withBase } from 'vitepress'
 import vishva from '@composables/tattvas.js'
-const props = defineProps(['name', 'info']);
+const props = defineProps(['name', 'info', 'no-shadow']);
 
 const state = reactive({
   active: !!props.info,

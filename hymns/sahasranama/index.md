@@ -1,8 +1,9 @@
 ---
 title: Шива сахасранама стотра
-subtitle: 'श्री शिवसहस्रनामस्तोत्रम् रुद्रयामलतन्त्रन्तर्गत - śrī śivasahasranāmastotram rudrayāmalatantrantargata -
-«Тысяча восемь имён Шивы из Рудраямала-тантры»'
+subtitle: Тысяча восемь имён Шивы из Рудраямала-тантры
 tags: hymn
+sans: श्री शिवसहस्रनामस्तोत्रम् रुद्रयामलतन्त्रन्तर्गत
+trans: śrī śivasahasranāmastotram rudrayāmalatantrantargata
 ---
 
 <audio-player title="R.Thyagarajan-Shiva-Sahasranama-From-Rudra-Yaamala-Tantra"

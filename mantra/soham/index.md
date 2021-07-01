@@ -7,7 +7,7 @@ tags: mantra
 date: 2021-06-04
 ---
 
-::: stanza
+----
 
 सोऽहम् {sans big}
 
@@ -17,8 +17,7 @@ so'ham {trans}
 
 Аджапа джапа: so — вдох, ham – выдох. {eng}
 
-:::
-::: stanza
+-----
 
 हंस {sans big}
 
@@ -28,4 +27,5 @@ haṃsa {trans}
 
 Аджапа джапа: haṃ — вдох, sa – выдох. {eng}
 
-:::
+
+---

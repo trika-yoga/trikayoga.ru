@@ -1,18 +1,15 @@
 ---
 title: 'Вишвам унмилаяти'
-icon: compressed-universe-square-hand.svg
 tags: yantra
 date: 2021-01-02
 cover: /img/vishvam-unmilayati.svg
+sans: विश्वमुन्मीलयति 
+trans: viśvamunmīlayati
+subtitle: Раскрытие [глаз] Вселенной
 ---
 
-![](/img/vishvam-unmilayati.svg)
+![no-shadow](/img/vishvam-unmilayati.svg)
 
 
 
-विश्वमुन्मीलयति {sans big}
-
-viśvamunmīlayati {trans}
-
-Раскрытие [глаз] Вселенной
 

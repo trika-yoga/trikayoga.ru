@@ -30,4 +30,4 @@ puruṣottama paramātman ।
 
 ### Вариант аккомпанемента
 
-![Мула мантра](./mula.svg)
+![no-shadow](./mula.svg 'Ноты для пения мула мантры')
