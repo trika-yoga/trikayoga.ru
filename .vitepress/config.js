@@ -17,7 +17,6 @@ module.exports = {
   title: meta.title,
   description: meta.description,
   lang: 'ru',
-  base: '/trikayoga.ru',
   head: [
     ['meta', { name: 'author', content: meta.author }],
     ['meta', { name: 'keywords', content: meta.tags }],
