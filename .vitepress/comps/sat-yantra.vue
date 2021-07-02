@@ -1,10 +1,10 @@
 <template lang="pug">
 section.holder.max-w-60ch.mx-auto.my-16
   .p-2(v-if="info")
-    .sans.big {{ info.sans }}
-    .trans {{ info.trans }}
-    .text-2xl.font-bold.mb-4 {{ info.title }}
-    .text-xl.my-8 {{ info.text }}
+    .sans.big {{ info?.sans }}
+    .trans {{ info?.trans }}
+    .text-2xl.font-bold.mb-4 {{ info?.title }}
+    .text-xl.my-8 {{ info?.text }}
   .relative
     object#object(
       :class="{ 'shadow-2xl': !noShadow }"
@@ -17,7 +17,7 @@ section.holder.max-w-60ch.mx-auto.my-16
       @click="close()", 
       :class="{ 'open': state.active }"
       )
-      .info(ref="info", v-html="state.text")
+      .info(v-html="state.text")
 </template>
 
 <script setup>
@@ -28,7 +28,7 @@ const props = defineProps(['name', 'info', 'no-shadow']);
 
 const state = reactive({
   active: !!props.info,
-  text: format(props.info),
+  text: format(props?.info),
   main: null,
   svg: null,
 })
@@ -82,10 +82,10 @@ function close() {
 function format(item) {
   if (!item) return ''
   return /*html*/`
-    <p class="sans big">${item.sans}</p>
-    <p class="text-2xl">${item.trans}</p>
-    <h2>${item.title}</h2>
-    <p>${item.text}</p>
+    <p class="sans big">${item?.sans}</p>
+    <p class="text-2xl">${item?.trans}</p>
+    <h2>${item?.title}</h2>
+    <p>${item?.text}</p>
   `
 }
 
