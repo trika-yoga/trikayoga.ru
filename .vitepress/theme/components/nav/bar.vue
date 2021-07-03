@@ -1,6 +1,8 @@
 <template lang="pug">
 .flex.flex-wrap.items-center.justify-center
-  nav-links 
+  nav-links
+  a(href="/fav.html")
+    la-star-solid(color="yellow")
   state-dark
 </template>
 

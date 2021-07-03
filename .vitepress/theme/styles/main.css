@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   width: 100%;
   min-width: 320px;
@@ -15,7 +19,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   @apply transition-colors;
-  scroll-behavior: smooth;
 }
 
 .dark body {
@@ -94,8 +97,19 @@ body {
   &:hover {
     @apply shadow-xl;
   }
-  .num {
-    @apply transition-all bottom-3 right-3 sm:(bottom-3 right-6) duration-600 absolute font-bold text-2xl opacity-10;
+  & .num {
+    @apply flex items-center no-underline cursor-pointer transition-all top-3 right-3 sm:(top-3 right-3) duration-600 absolute font-bold text-2xl opacity-10;
+  }
+  & .num.fav {
+    @apply opacity-100;
+    &::before {
+      display: inline-block;
+      width: 30px;
+      height: 30px;
+      right: 2rem;
+      transform: scale(0.62);
+      content: url('/fav.svg');
+    }
   }
   &:hover .num {
     @apply opacity-70;
