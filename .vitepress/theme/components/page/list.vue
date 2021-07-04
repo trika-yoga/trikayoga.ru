@@ -13,7 +13,7 @@
       .text-xl.font-bold {{ page.title }}
       .text-2xl.my-4.font-bold {{ page.data.sans }}
       .text-xl.my-4.opacity-70 {{ page.data.trans }}
-      .text-lg {{ page.subtitle }}
+      .text-sm {{ page.subtitle }}
 </template>
 
 <script setup>

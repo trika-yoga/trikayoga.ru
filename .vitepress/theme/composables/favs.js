@@ -46,6 +46,7 @@ export function useFav() {
     let content = parent ? parent.innerHTML : ''
     let fav = {
       title: frontmatter.value.title,
+      subtitle: frontmatter.value.subtitle,
       stanza: event.target.innerText,
       link: route.path + '#' + event.target.id,
       content,

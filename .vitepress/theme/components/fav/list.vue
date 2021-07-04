@@ -1,14 +1,14 @@
 <template lang="pug">
 .flex.flex-col.items-stretch.max-w-50ch.mx-auto.mt-8(v-if="Object.keys(favs).length > 0")
-  transition-group(name="fade")
+  transition-group(name="fade" mode="out-in")
     .row(v-for="fav in favs" :key="fav") 
       .flex.flex-col.flex-1
         a.card.bg(:href="fav.link")
-          .opacity-80( )
-            fluent-star-24-filled.star
-          .p-4 {{ fav.title }} 
+          .p-4.text-left
+            .text-lg {{ fav.title }} 
+            .text-sm.mt-1 {{ fav.subtitle }}
           .flex-1
-          .p-2.font-bold {{ fav.stanza }}
+          .p-2.font-bold.min-w-4rem.border-l-1 {{ fav.stanza }}
       button.button.bg.pl-6(@click="removeFav(fav.link)" ref="star" )
         fluent-star-off-24-regular
 .p-8.text-2xl.opacity-50(v-else) Добавляйте строфы в избранное, нажимая на цифру в верхнем правом углу их карточек.
@@ -17,8 +17,6 @@
 <script setup>
 import { defineProps, ref } from 'vue'
 import { favs, removeFav } from '../../composables/favs.js'
-
-
 
 
 </script>

@@ -1,6 +1,8 @@
 ---
 title: Малини виджайоттара тантра
-subtitle: 'मालिनीविजयोत्तरतन्त्र - mālinīvijayottaratantra'
+subtitle: Фундаментальная тантра трики
+sans: मालिनीविजयोत्तरतन्त्र
+trans: mālinīvijayottaratantra
 tags: text
 list: malini
 date: 2020-12-30
