@@ -16,14 +16,10 @@
 
 <script setup>
 import { defineProps, ref } from 'vue'
-import favs from '../../composables/favs.js'
+import { favs, removeFav } from '../../composables/favs.js'
 
 
-function removeFav(link) {
-  if (favs.value[link]) {
-    delete favs.value[link]
-  }
-}
+
 
 </script>
 

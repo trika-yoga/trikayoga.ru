@@ -11,16 +11,20 @@
   .header
     top-bar
     nav-bar
-  transition-group(name="fade")
-    h1.text-4xl.font-bold.mb-8.text-center {{ frontmatter.title }}
-    .max-w-xl.mx-auto.sans.font-bold.mb-4.text-center {{ frontmatter.sans }}
-    .max-w-xl.mx-auto.text-2xl.mb-4.text-center {{ frontmatter.trans }}
-    .max-w-xl.mx-auto.text-xl.text-center {{ frontmatter.subtitle }}
-  content.content
-  page-list(
-    v-if="frontmatter.list"
-  )
-  page-parents
+
+
+  transition(name="fade" mode="out-in" @after-enter="mount()")
+    .content(:key="route.path")
+      header.mb-8
+        h1.text-4xl.font-bold.mb-8.text-center {{ frontmatter.title }}
+        .max-w-xl.mx-auto.sans.font-bold.mb-4.text-center {{ frontmatter.sans }}
+        .max-w-xl.mx-auto.text-2xl.mb-4.text-center {{ frontmatter.trans }}
+        .max-w-xl.mx-auto.text-xl.text-center {{ frontmatter.subtitle }}
+      content
+      page-list(
+        v-if="frontmatter.list"
+      )
+      page-parents
   page-footer
   panel-dock
 </template>
@@ -30,8 +34,11 @@ import { watch, nextTick, onMounted } from 'vue'
 import { useData, useRoute } from 'vitepress'
 const { site, frontmatter } = useData();
 import { langs } from './composables/langs.js'
+import { useFav } from './composables/favs.js'
 
+const { favs, mount } = useFav()
 
+const route = useRoute();
 </script>
 
 <style scoped>
