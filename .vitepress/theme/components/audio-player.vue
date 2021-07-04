@@ -4,13 +4,12 @@
     .text-xl.pb-4 {{ title }}
     audio.rounded-xl.mx-auto(
       controls
-      :src="withBase(file)"
+      :src="file"
     )
 </template>
 
 <script setup>
 import { defineProps } from 'vue'
-import { withBase } from 'vitepress'
 const props = defineProps({
   title: {
     type: String,

@@ -1,12 +1,12 @@
 <template lang="pug">
-a(:href="withBase('/fav.html')")
+a(href="/fav.html")
   la-star-solid.star
 </template>
 
 <script setup>
 
 import { watch, nextTick, onMounted } from 'vue'
-import { useData, useRoute, withBase } from 'vitepress'
+import { useData, useRoute } from 'vitepress'
 const { frontmatter } = useData();
 import favs from '../../composables/favs.js'
 

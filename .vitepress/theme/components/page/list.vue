@@ -3,11 +3,11 @@
   a.card(
     v-for="page in site.customData.pages[frontmatter.list]"
     :key= "page.link"
-    :href="withBase(page.link)"
+    :href="page.link"
   ) 
     img.mb-4.rounded(
       v-if="page.data.cover"
-      :src="withBase(page.data.cover)"
+      :src="page.data.cover"
     )
     .p-2.my-auto
       .text-xl.font-bold {{ page.title }}
@@ -17,7 +17,7 @@
 </template>
 
 <script setup>
-import { useData, withBase } from 'vitepress'
+import { useData } from 'vitepress'
 const { site, frontmatter } = useData();
 </script>
 

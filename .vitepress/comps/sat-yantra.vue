@@ -9,7 +9,7 @@ section.holder.max-w-60ch.mx-auto.my-16
     object#object(
       :class="{ 'shadow-2xl': !noShadow }"
       ref="object", 
-      :data="withBase('/img/' + name + '.svg')", 
+      :data="'/img/' + name + '.svg'", 
       type="image/svg+xml", 
       @load="mount()"
       )
@@ -22,7 +22,6 @@ section.holder.max-w-60ch.mx-auto.my-16
 
 <script setup>
 import { defineProps, ref, reactive } from 'vue'
-import { withBase } from 'vitepress'
 import vishva from '@composables/tattvas.js'
 const props = defineProps(['name', 'info', 'no-shadow']);
 

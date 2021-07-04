@@ -2,14 +2,14 @@
 footer
   .flex.flex-wrap.justify-center
     nav-links
-  a.flex.flex-col.items-center.no-underline(:href="withBase('/')") 
+  a.flex.flex-col.items-center.no-underline(href="/") 
     .mt-4.font-bold.text-2xl.p-2 {{ site.title }}
-    img.w-6rem.my-4(:src="withBase('/img/sadvidya.svg')")
+    img.w-6rem.my-4(src="/img/sadvidya.svg")
 </template>
 
 <script setup>
 import { defineProps } from 'vue'
-import { useData, withBase } from 'vitepress'
+import { useData } from 'vitepress'
 
 const { site } = useData();
 </script>

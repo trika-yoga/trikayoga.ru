@@ -2,7 +2,7 @@
 .flex.flex-col.max-w-60ch.mx-auto.relative.shadow-2xl.my-16
   article#santana-app
     object#santana-object(
-      :data="withBase('/img/santana.svg')", 
+      data="/img/santana.svg", 
       type="image/svg+xml", 
       @load="loaded()"
       height="100%"
@@ -14,7 +14,7 @@
 <script setup>
 import { defineProps, onMounted, ref } from 'vue'
 import vishva from '@composables/tattvas.js'
-import { withBase } from 'vitepress'
+
 
 let active = null
 function loaded() {

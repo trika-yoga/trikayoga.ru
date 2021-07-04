@@ -6,7 +6,6 @@ ul
 </template>
 
 <script setup>
-import { withBase } from 'vitepress'
 import { defineProps } from 'vue'
 const props = defineProps({
   links: {

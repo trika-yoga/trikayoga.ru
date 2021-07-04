@@ -16,7 +16,6 @@
     .max-w-xl.mx-auto.sans.font-bold.mb-4.text-center {{ frontmatter.sans }}
     .max-w-xl.mx-auto.text-2xl.mb-4.text-center {{ frontmatter.trans }}
     .max-w-xl.mx-auto.text-xl.text-center {{ frontmatter.subtitle }}
-  lang-toggle.mt-4(v-if="frontmatter.sans && !frontmatter.nolangs")
   content.content
   page-list(
     v-if="frontmatter.list"
@@ -28,7 +27,7 @@
 
 <script setup>
 import { watch, nextTick, onMounted } from 'vue'
-import { useData, useRoute, withBase } from 'vitepress'
+import { useData, useRoute } from 'vitepress'
 const { site, frontmatter } = useData();
 import { langs } from './composables/langs.js'
 

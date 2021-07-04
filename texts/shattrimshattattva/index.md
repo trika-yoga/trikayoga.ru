@@ -249,10 +249,6 @@ Uṣṇasparśamarūpasparśo vāyurambaraṁ saśabdam।
 ::: 
 
 
-- <a :href="withBase('/books/SHattrimshattattva-sandoha.pdf')" target="_blank">Перевод, исследование и комментарии к Шаттримшаттаттва-сандохе В.П. Иванова в составе «Розенберговского сборника»</a>
+- <a href="/books/SHattrimshattattva-sandoha.pdf" target="_blank">Перевод, исследование и комментарии к Шаттримшаттаттва-сандохе В.П. Иванова в составе «Розенберговского сборника»</a>
 
 - [Развернутый пословный перевод Ṣaṭtriṁśattattvasandoha на английский с комментарием Rājānakānanda (17 в.)](https://www.sanskrit-trikashaivism.com/ru/shattrimshattattvasandoha-1-trika-scriptures-non-dual-shaivism-of-kashmir-ru/544)
-
-<script setup>
-import {withBase} from 'vitepress'
-</script>

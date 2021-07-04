@@ -1,18 +1,18 @@
 <template lang="pug">
 .flex.flex-wrap.items-center.my-8.max-w-60ch.mx-auto.items-stretch
-  a.link(v-if="previous" :href="withBase(previous.link)") 
+  a.link(v-if="previous" :href="previous.link") 
     carbon-arrow-left.mr-1
     span {{ previous.title }}
-  a.link(v-for="page in parents", :key="page.title" :href="withBase(page.link)") 
+  a.link(v-for="page in parents", :key="page.title" :href="page.link") 
     carbon-arrow-up.mr-1
     span {{ page.title }}
-  a.link(v-if="next" :href="withBase(next.link)") 
+  a.link(v-if="next" :href="next.link") 
     carbon-arrow-right.mr-1
     span {{ next.title }}
 </template>
 
 <script setup>
-import { useData, withBase } from 'vitepress'
+import { useData } from 'vitepress'
 const { site, frontmatter, page } = useData()
 import { computed } from 'vue'
 

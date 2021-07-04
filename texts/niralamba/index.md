@@ -511,8 +511,5 @@ oṁ śāntiḥ śāntiḥ śāntiḥ ॥ {trans}
 Такова «Нираламба упанишада» Шукла-Яджурведы.
 
 
-<a :href="withBase('/books/niralamba.pdf')" target="_blank">Санскритский текст Нираламба Упанишады</a>
+<a href="/books/niralamba.pdf" target="_blank">Санскритский текст Нираламба Упанишады</a>
 
-<script setup>
-import {withBase} from 'vitepress'
-</script>

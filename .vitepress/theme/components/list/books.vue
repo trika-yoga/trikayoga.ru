@@ -2,7 +2,7 @@
 ul
   li(v-for="book in books", :key="book.title")
     a.font-bold(
-      :href="withBase(book.book)", 
+      :href="book.book", 
       target="_blank"
       ) {{ book.title }}
     span.px-2 {{ book.subtitle }} 
@@ -16,7 +16,6 @@ ul
 </template>
 
 <script setup>
-import { withBase } from 'vitepress'
 import { defineProps } from 'vue'
 const props = defineProps({
   books: {
