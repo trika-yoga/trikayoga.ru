@@ -2,7 +2,6 @@
 footer
   .flex.flex-wrap.justify-center
     nav-links
-  state-dark
   a.flex.flex-col.items-center.no-underline(:href="withBase('/')") 
     .mt-4.font-bold.text-2xl.p-2 {{ site.title }}
     img.w-6rem.my-4(:src="withBase('/img/sadvidya.svg')")

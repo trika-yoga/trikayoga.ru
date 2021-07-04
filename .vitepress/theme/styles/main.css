@@ -127,3 +127,7 @@ a {
 .no-text p:not([class]) {
   @apply hidden;
 }
+
+.star {
+  color: #ffce03;
+}

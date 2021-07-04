@@ -2,5 +2,6 @@
 title: Избранное
 subtitle: Самые важные строфы лично для вас
 ---
-
-<favourites />
+<client-only >
+  <fav-list />
+</client-only >
