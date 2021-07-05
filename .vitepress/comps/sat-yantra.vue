@@ -6,7 +6,7 @@ section.holder.max-w-60ch.mx-auto.my-16
     .text-2xl.font-bold.mb-4 {{ info?.title }}
     .text-xl.my-8 {{ info?.text }}
   .relative
-    object#object(
+    object.object(
       :class="{ 'shadow-2xl': !noShadow }"
       ref="object", 
       :data="'/img/' + name + '.svg'", 
@@ -98,6 +98,7 @@ function format(item) {
 object {
   max-width: var(--size);
   min-width: var(--size);
+  scroll-snap-align: start;
 }
 
 object svg {

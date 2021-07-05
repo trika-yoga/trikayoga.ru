@@ -5,7 +5,8 @@
     :key= "page.link"
     :href="page.link"
   ) 
-    img.mb-4.rounded(
+    img.rounded(
+      style="margin:  1rem 0"
       v-if="page.data.cover"
       :src="page.data.cover"
     )
@@ -23,6 +24,7 @@ const { site, frontmatter } = useData();
 
 <style scoped>
 .card {
+  scroll-snap-align: start;
   @apply flex flex-col rounded-lg bg-light-400 dark:(bg-dark-100) transition-all duration-300 p-4 m-4 shadow-lg no-underline hover:shadow-2xl items-center;
   flex: 1 1 45%;
 }
