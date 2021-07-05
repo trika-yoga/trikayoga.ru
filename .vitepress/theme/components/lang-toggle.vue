@@ -9,7 +9,6 @@
 </template>
 
 <script setup>
-import { defineProps } from 'vue'
 import { langs } from '../composables/langs.js'
 const props = defineProps({
 

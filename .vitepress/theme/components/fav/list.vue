@@ -15,7 +15,7 @@
 </template>
 
 <script setup>
-import { defineProps, ref } from 'vue'
+import { ref } from 'vue'
 import { favs, removeFav } from '../../composables/favs.js'
 
 

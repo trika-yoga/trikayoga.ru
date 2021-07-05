@@ -12,7 +12,6 @@ iframe.shadow-2xl.rounded-lg.mx-auto.py-4(
 </template>
   
 <script setup>
-import { defineProps } from 'vue'
 const props = defineProps({
   id: {
     type: String,

@@ -8,7 +8,6 @@ footer
 </template>
 
 <script setup>
-import { defineProps } from 'vue'
 import { useData } from 'vitepress'
 
 const { site } = useData();

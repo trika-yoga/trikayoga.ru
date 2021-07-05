@@ -12,7 +12,7 @@
 </template>
 
 <script setup>
-import { defineProps, onMounted, ref } from 'vue'
+import { onMounted, ref } from 'vue'
 import vishva from '@composables/tattvas.js'
 
 

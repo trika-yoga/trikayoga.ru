@@ -15,7 +15,7 @@
 
 <script setup>
 import santana from './santana.svg?component'
-import { defineProps, reactive, ref } from 'vue'
+import { reactive, ref } from 'vue'
 import vishva from '@composables/tattvas.js'
 
 const state = reactive({

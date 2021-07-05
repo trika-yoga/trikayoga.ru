@@ -4,11 +4,6 @@ button(@click="scroll()")
 </template>
 
 <script setup>
-import { defineProps } from 'vue'
-const props = defineProps({
-
-});
-
 function scroll() {
   window.scrollTo({
     top: 0,
