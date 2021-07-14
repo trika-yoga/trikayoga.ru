@@ -20,11 +20,13 @@ specifiers:
   vitepress: 0.15.6
   vitepress-tags: ^0.4.0
   vue: ^3.1.4
+  vue-global-api: ^0.1.3
   windicss: 3.1.5
 
 dependencies:
   '@vueuse/core': 5.1.3_vue@3.1.4
   vue: 3.1.4
+  vue-global-api: 0.1.3_vue@3.1.4
 
 devDependencies:
   '@iconify/json': 1.1.374
@@ -1894,6 +1896,20 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
+  /vue-demi/0.10.1_vue@3.1.4:
+    resolution: {integrity: sha512-L6Oi+BvmMv6YXvqv5rJNCFHEKSVu7llpWWJczqmAQYOdmPPw5PNYoz1KKS//Fxhi+4QP64dsPjtmvnYGo1jemA==}
+    hasBin: true
+    requiresBuild: true
+    peerDependencies:
+      '@vue/composition-api': ^1.0.0-rc.1
+      vue: ^2.6.0 || >=3.0.0
+    peerDependenciesMeta:
+      '@vue/composition-api':
+        optional: true
+    dependencies:
+      vue: 3.1.4
+    dev: false
+
   /vue-demi/0.9.1_vue@3.1.4:
     resolution: {integrity: sha512-7s1lufRD2l369eFWPjgLvhqCRk0XzGWJsQc7K4q+0mZtixyGIvsK1Cg88P4NcaRIEiBuuN4q1NN4SZKFKwQswA==}
     hasBin: true
@@ -1906,6 +1922,15 @@ packages:
         optional: true
     dependencies:
       vue: 3.1.4
+    dev: false
+
+  /vue-global-api/0.1.3_vue@3.1.4:
+    resolution: {integrity: sha512-6YNWo8SrL+/EkSa94JQ/fbQY7t5fH8ycxtIDOB1Lzjf4xh0EYgjj6D4pz00rh6X2uETjIt5mzyd+pibaekvdtA==}
+    dependencies:
+      vue-demi: 0.10.1_vue@3.1.4
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - vue
     dev: false
 
   /vue-template-es2015-compiler/1.9.1:

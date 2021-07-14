@@ -14,7 +14,6 @@
 <script setup>
 import { useData } from 'vitepress'
 const { site, frontmatter, page } = useData()
-import { computed } from 'vue'
 
 const tags = frontmatter.value.tags
 const pages = site.value.customData.pages

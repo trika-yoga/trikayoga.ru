@@ -39,7 +39,6 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
 import { langs } from '../../composables/langs.js'
 
 const show = ref(false);

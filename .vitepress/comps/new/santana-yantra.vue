@@ -12,7 +12,6 @@
 </template>
 
 <script setup>
-import { onMounted, ref } from 'vue'
 import vishva from '@composables/tattvas.js'
 
 

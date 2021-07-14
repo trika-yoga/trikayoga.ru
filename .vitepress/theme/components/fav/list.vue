@@ -15,7 +15,6 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
 import { favs, removeFav } from '../../composables/favs.js'
 
 

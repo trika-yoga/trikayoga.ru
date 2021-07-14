@@ -1,5 +1,4 @@
 import { useStorage } from '@vueuse/core'
-import { watch, nextTick, onMounted } from 'vue'
 import { useData, useRoute } from 'vitepress'
 
 export const favs = useStorage('stars', {})

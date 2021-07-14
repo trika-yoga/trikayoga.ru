@@ -30,7 +30,6 @@
 </template>
 
 <script setup>
-import { watch, nextTick, onMounted } from 'vue'
 import { useData, useRoute } from 'vitepress'
 const { site, frontmatter } = useData();
 import { langs } from './composables/langs.js'
