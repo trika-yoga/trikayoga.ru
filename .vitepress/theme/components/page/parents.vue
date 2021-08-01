@@ -1,8 +1,8 @@
 <template lang="pug">
 .flex.flex-wrap.items-center.my-8.max-w-60ch.mx-auto.items-stretch
-  a.link(v-if="previous" :href="previous.link") 
+  a.link(v-if="prev" :href="prev.link") 
     carbon-arrow-left.mr-1
-    span {{ previous.title }}
+    span {{ prev.title }}
   a.link(v-for="page in parents", :key="page.title" :href="page.link") 
     carbon-arrow-up.mr-1
     span {{ page.title }}
@@ -12,46 +12,10 @@
 </template>
 
 <script setup>
-import { useData } from 'vitepress'
-const { site, frontmatter, page } = useData()
+import { useSiblings, useParents } from '../../composables/links.js'
 
-const tags = frontmatter.value.tags
-const pages = site.value.customData.pages
-
-
-const parents = computed(() => getParents(frontmatter.value.tags, pages.all))
-const previous = computed(() => {
-  let index = findIndex()
-  if (index > 0) {
-    return pages[frontmatter.value.tags][index - 1]
-  }
-  return null
-})
-const next = computed(() => {
-  let index = findIndex()
-  if (index >= 0 && index <= pages[frontmatter.value.tags].length) {
-    return pages[frontmatter.value.tags][index + 1]
-  }
-  return null
-})
-
-function findIndex() {
-  let tags = frontmatter.value.tags
-  if (tags && typeof tags == 'string' && pages[tags]) {
-    return pages[tags].findIndex(el => el.title == page.value.title)
-  }
-  return -1
-}
-
-function getParents(tag, all) {
-  let parents = [];
-  all.forEach(page => {
-    if (tag && typeof tag == 'string' && tag == page.data?.list) {
-      parents.push(page)
-    }
-  })
-  return parents
-}
+const { next, prev } = useSiblings();
+const parents = useParents();
 </script>
 
 <style  scoped>
