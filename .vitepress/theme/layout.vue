@@ -16,6 +16,7 @@
   transition(name="fade" mode="out-in" @after-enter="mount()")
     .content(:key="route.path")
       header.mb-8
+        page-parents
         h1.text-4xl.font-bold.mb-8.text-center {{ frontmatter.title }}
         .max-w-xl.mx-auto.sans.font-bold.mb-4.text-center {{ frontmatter.sans }}
         .max-w-xl.mx-auto.text-2xl.mb-4.text-center {{ frontmatter.trans }}
@@ -24,7 +25,7 @@
       page-list(
         v-if="frontmatter.list"
       )
-      page-parents
+      page-siblings
   page-footer
   panel-dock
 </template>

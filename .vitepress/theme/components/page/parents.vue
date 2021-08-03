@@ -1,25 +1,19 @@
 <template lang="pug">
-.flex.flex-wrap.items-center.my-8.max-w-60ch.mx-auto.items-stretch
-  a.link(v-if="prev" :href="prev.link") 
-    carbon-arrow-left.mr-1
-    span {{ prev.title }}
+.inline-flex.flex-wrap.justify-start.items-stretch
   a.link(v-for="page in parents", :key="page.title" :href="page.link") 
-    carbon-arrow-up.mr-1
+    carbon-chevron-right.mr-1
     span {{ page.title }}
-  a.link(v-if="next" :href="next.link") 
-    carbon-arrow-right.mr-1
-    span {{ next.title }}
 </template>
 
 <script setup>
-import { useSiblings, useParents } from '../../composables/links.js'
+import { useParents } from '../../composables/links.js'
 
-const { next, prev } = useSiblings();
 const parents = useParents();
 </script>
 
 <style  scoped>
 .link {
-  @apply transition-all duration-500 no-underline text-sm flex-1 flex flex-col items-center p-4 m-2 bg-light-100/10 max-w-60ch mx-auto hover:(bg-light-100);
+  @apply transition-all duration-500 no-underline text-sm flex-1 flex items-center p-2 bg-light-100/10 max-w-60ch mx-auto hover:(bg-light-100);
+  flex: 1 1 auto;
 }
 </style>
