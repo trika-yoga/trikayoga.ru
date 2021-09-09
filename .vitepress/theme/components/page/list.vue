@@ -1,7 +1,7 @@
 <template lang="pug">
 .flex.flex-wrap.max-w-60ch.mx-auto
   a.card(
-    v-for="page in site.customData.pages[frontmatter.list]"
+    v-for="page in pages"
     :key= "page.link"
     :href="page.link"
   ) 
@@ -19,7 +19,8 @@
 
 <script setup>
 import { useData } from 'vitepress'
-const { site, frontmatter } = useData();
+const { frontmatter, theme } = useData();
+const pages = theme.value?.pages[frontmatter.value?.list];
 </script>
 
 <style scoped>

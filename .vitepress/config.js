@@ -51,6 +51,7 @@ module.exports = {
     nav: pages.main,
     repo: '',
     logo: '/img/sadvidya.svg',
+    pages,
   },
 
   markdown: {

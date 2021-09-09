@@ -1,6 +1,6 @@
 <template lang="pug">
 a.p-2.no-underline.transition-all.duration-300(
-  v-for="page in site.customData.pages.main"
+  v-for="page in theme?.pages?.main"
   :key= "page.link"
   :href="page.link"
   :class="{ active: route.path.includes(page.link) }"
@@ -9,7 +9,7 @@ a.p-2.no-underline.transition-all.duration-300(
 
 <script setup>
 import { useData, useRoute } from 'vitepress'
-const { site, frontmatter } = useData();
+const { theme, frontmatter } = useData();
 
 const route = useRoute();
 </script>

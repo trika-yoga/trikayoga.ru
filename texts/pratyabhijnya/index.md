@@ -49,7 +49,7 @@ Citiḥ svatantrā viśvasiddhihetuḥ ॥1॥ {trans}
 
 स्वेच्छया स्वभित्तौ विश्वमुन्मीलयति ॥२॥ {sans}
 
-Svecchayā svabhittau viśvamunmīlayati ॥2॥ {sans}
+Svecchayā svabhittau viśvamunmīlayati ॥2॥ {trans}
 
 По своей _(sva)_ воле _(icchayā)_, на собственной _(sva)_ поверхности _(bhittau)_, [Сила Сознания] разворачивает _(unmīlayati)_ вселенную _(viśvam)_.
 
