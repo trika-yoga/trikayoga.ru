@@ -74,6 +74,12 @@ en_books:
     ISBN: 978-0-19-979545-1
     link: http://www.academia.edu/4425359/_THE_UBIQUITOUS_%C5%9AIVA._John_Nemec_
     year: 2011
+  - title: Ishvara Pratyabhijna Karika of Utpaladeva. Verses on the Recognition of the Lord
+    subtitle: Translated by B.N. Pandit. 315 pages
+    book: /books/The_Isvara Pratyabhina Karika_Of_Utpaladeva_-_B.N._Pandit.pdf
+    ISBN: 81-208-1785-0
+    link: https://www.amazon.com/Isvara-Pratyabhijna-Karika-Utplaladeva-Recognition/dp/8120817850
+    year: 2004
   - title: Saints and sages of Kashmir. Ancient and modern ascetics of Kashmir
     subtitle: by Kashmir News Network. 370 pages
     book: /books/saints.pdf
