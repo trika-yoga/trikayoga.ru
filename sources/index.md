@@ -22,6 +22,8 @@ links:
     url: http://kevincarmody.com/software/deveditor.html
   - title: Набор инструментов для работы с санскритом и транслитерацией
     url: http://www.greenmesg.org/sanskrit_online_tools/sanskrit_writing_pad.php
+  - title: Электронная библиотека санскритских текстов Muktabodha
+    url: https://muktalib7.com/DL_CATALOG_ROOT/digital_library.htm
 
 ru_books:
   - title: Утпаладева. Узнавание Ишвары
