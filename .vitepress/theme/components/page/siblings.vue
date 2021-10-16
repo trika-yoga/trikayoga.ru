@@ -1,5 +1,5 @@
 <template lang="pug">
-.flex.flex-wrap.items-center.my-8.max-w-60ch.mx-auto.items-stretch
+.flex.flex-wrap.items-center.max-w-60ch.mx-auto.items-stretch
   a.link(v-if="prev" :href="prev.link") 
     carbon-arrow-left.mr-1
     span {{ prev.title }}
@@ -20,6 +20,6 @@ const parents = useParents();
 
 <style  scoped>
 .link {
-  @apply transition-all duration-500 no-underline text-sm flex-1 flex flex-col items-center p-4 m-2 bg-light-100/10 max-w-60ch mx-auto hover:(bg-light-100);
+  @apply transition-all duration-500 no-underline  flex-1 flex flex-col items-center p-6 m-2 bg-light-100/10 max-w-60ch mx-auto hover:(bg-light-100);
 }
 </style>

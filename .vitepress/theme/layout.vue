@@ -25,7 +25,7 @@
       page-list(
         v-if="frontmatter.list"
       )
-      page-siblings
+  page-siblings(:key="route.path")
   page-footer
   panel-dock
 </template>
