@@ -1,1 +1,1 @@
-var a="/img/trishula.svg";export{a as _};
+var r="/img/trishula.svg";export{r as _};
