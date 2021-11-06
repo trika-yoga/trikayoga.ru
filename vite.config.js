@@ -52,6 +52,7 @@ export default defineConfig({
     include: ['vue'],
   },
   build: {
+    chunkSizeWarningLimit: 800,
     rollupOptions: {
       output: {
         manualChunks: {},

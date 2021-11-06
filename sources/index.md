@@ -11,7 +11,11 @@ links:
   - title: Словарь традиции натхов
     url: https://nathas.org/dictionary/
   - title: Санскритско-английский разговорный словарь 
-    url: http://www.spokensanskrit.de/
+    url: http://www.spokensanskrit
+  - title: Санскритско-английский словарь 
+    url: https://sanskritdictionary.com/
+  - title: Словарь Монье-Вильямса онлайн
+    url: https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc2/index.php
   - title: Интерактивный словарь санскрита
     url: http://www.andhrabharati.com/dictionary/sanskrit/index.php
   - title: Коллекция ресурсов по санскриту
