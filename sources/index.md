@@ -11,13 +11,15 @@ links:
   - title: Словарь традиции натхов
     url: https://nathas.org/dictionary/
   - title: Санскритско-английский разговорный словарь 
-    url: http://www.spokensanskrit
+    url: https://www.learnsanskrit.cc/
   - title: Санскритско-английский словарь 
     url: https://sanskritdictionary.com/
   - title: Словарь Монье-Вильямса онлайн
     url: https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc2/index.php
   - title: Интерактивный словарь санскрита
     url: http://www.andhrabharati.com/dictionary/sanskrit/index.php
+  - title: Практический санскрит-английский словарь
+    url: https://dsal.uchicago.edu/dictionaries/apte/
   - title: Коллекция ресурсов по санскриту
     url: http://sanskritdocuments.org/dict/
   - title: Санскритско-русский словарь
@@ -28,6 +30,10 @@ links:
     url: http://www.greenmesg.org/sanskrit_online_tools/sanskrit_writing_pad.php
   - title: Электронная библиотека санскритских текстов Muktabodha
     url: https://muktalib7.com/DL_CATALOG_ROOT/digital_library.htm
+  - title: Инструменты санскритской грамматики
+    url: https://sanskrit.inria.fr/
+  - title: Портал санскритского наследия
+    url: https://sanskrit.inria.fr/portal.html
 
 ru_books:
   - title: Утпаладева. Узнавание Ишвары
