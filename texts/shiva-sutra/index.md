@@ -10,39 +10,38 @@ date: 2021-07-01
 
 <style scoped>
 .short {
+  display:none;
   font-size: 0.5em;
 }
 </style>
 
-
 ## Часть первая
 
-शाम्भवोपाय  {sans}
+शाम्भवोपाय {sans}
 
-Śāmbhavopāya  {trans}
+Śāmbhavopāya {trans}
 
 Метод, основанный на точке зрения Шамбху (Шивы)
 
-
 ::: stanza 1.1
- 
+
 चैतन्यमात्मा ॥१॥ {sans}
 
 Caitanyamātmā ॥1॥ {trans}
 
-Всезнающее и всемогущее Сознание _(caitanyam)_ [есть] Высшее Я, истинная природа Реальности _(ātmā)_ 
+Всезнающее и всемогущее Сознание _(caitanyam)_ [есть] Высшее Я, истинная природа Реальности _(ātmā)_
 
 Сознание — Я. {short}
 
 :::
 
 ::: stanza 1.2
- 
+
 ज्ञानं बन्धः ॥२॥ {sans}
 
 Jñānaṁ bandhaḥ ॥2॥ {trans}
 
-[Ограниченное] знание _(jñānam)_ — рабство _(bandhaḥ)_ 
+[Ограниченное] знание _(jñānam)_ — рабство _(bandhaḥ)_
 
 Знание — окова. {short}
 
@@ -61,60 +60,60 @@ Yonivargaḥ kalāśarīram ॥3॥ {trans}
 :::
 
 ::: stanza 1.4
- 
+
 ज्ञानाधिष्ठानं मातृका ॥४॥ {sans}
 
 Jñānādhiṣṭhānaṁ mātṛkā ॥4॥ {trans}
 
-Основа _(adhiṣṭhānam)_ [ограниченного] знания _(jñāna)_ — непонятая Мать _(mātṛkā)_ 
+Основа _(adhiṣṭhānam)_ [ограниченного] знания _(jñāna)_ — непонятая Мать _(mātṛkā)_
 
 Обитель знания — Матушка. {short}
 
 :::
 
 ::: stanza 1.5
- 
+
 उद्यमो भैरवः ॥५॥ {sans}
 
 Udyamo bhairavaḥ ॥5॥ {trans}
 
-Бхайрава --Всевышний-- _(bhairavaḥ)_ — [это] внезапная вспышка, или возвышение, божественного Сознания _(udyamaḥ)_ 
+Бхайрава --Всевышний-- _(bhairavaḥ)_ — [это] внезапная вспышка, или возвышение, божественного Сознания _(udyamaḥ)_
 
 Возвышается бесстрашный. {short}
 
 :::
 
 ::: stanza 1.6
-  
+
 शक्तिचक्रसन्धाने विश्वसंहारः ॥६॥ {sans}
 
 Śakticakrasandhāne viśvasaṁhāraḥ ॥6॥ {trans}
 
-При единении _(sandhāne)_ с группой _(cakra)_ сил _(śakti)_ _(происходит)_ исчезновение _(saṁhāraḥ)_ вселенной _(viśva)_ 
+При единении _(sandhāne)_ с группой _(cakra)_ сил _(śakti)_ _(происходит)_ исчезновение _(saṁhāraḥ)_ вселенной _(viśva)_
 
 С кругом сил соединяясь, вселенная поглощается. {short}
 
 :::
 
 ::: stanza 1.7
- 
+
 जाग्रत्स्वप्नसुषुप्तभेदे तुर्याभोगसम्भवः ॥७॥ {sans}
 
 Jāgratsvapnasuṣuptabhede turyābhogasambhavaḥ ॥7॥ {trans}
 
-[Даже] во время разных [состояний сознания, таких как] _(bhede)_ бодрствование _(jāgrat)_, сон _(svapna)_ и глубокий сон _(suṣupta)_, присутствуют _(sambhavaḥ)_ восторг и наслаждение _(ābhoga)_ Четвёртым Состоянием _(turya)_ 
+[Даже] во время разных [состояний сознания, таких как] _(bhede)_ бодрствование _(jāgrat)_, сон _(svapna)_ и глубокий сон _(suṣupta)_, присутствуют _(sambhavaḥ)_ восторг и наслаждение _(ābhoga)_ Четвёртым Состоянием _(turya)_
 
 В бодрости, грезах, сне четвертого блаженство течет. {short}
 
 :::
 
 ::: stanza 1.8
- 
+
 ज्ञानं जाग्रत् ॥८॥ {sans}
 
 Jñānaṁ jāgrat ॥8॥ {trans}
 
-Знание _(jñānam)_ [есть] бодрствование _(jāgrat)_ 
+Знание _(jñānam)_ [есть] бодрствование _(jāgrat)_
 
 Знание — бодрость. {short}
 
@@ -126,7 +125,7 @@ Jñānaṁ jāgrat ॥8॥ {trans}
 
 Svapno vikalpāḥ ॥9॥ {trans}
 
-Сон _(svapnaḥ)_ [состоит из] мыслей и идей _(vikalpāḥ)_ 
+Сон _(svapnaḥ)_ [состоит из] мыслей и идей _(vikalpāḥ)_
 
 Сон из мыслей. {short}
 
@@ -138,7 +137,7 @@ Svapno vikalpāḥ ॥9॥ {trans}
 
 Aviveko māyāsauṣuptam ॥10॥ {trans}
 
-Неразличение, или бессознательность _(avivekaḥ)_, [является] глубоким сном _(sauṣuptam)_ майи --невежества-- _(māyā)_ 
+Неразличение, или бессознательность _(avivekaḥ)_, [является] глубоким сном _(sauṣuptam)_ майи --невежества-- _(māyā)_
 
 Бессознательность — невежества глубокий сон. {short}
 
@@ -150,31 +149,31 @@ Aviveko māyāsauṣuptam ॥10॥ {trans}
 
 Tritayabhoktā vīreśaḥ ॥11॥ {trans}
 
-Тот хозяин _(īśaḥ)_ _(своих)_ чувств _(vīra)_, кто является наслаждающимся [вышеупомянутым _(ābhoga)_, божественным восторгом,] _(bhoktā)_ во время триады [бодрствование, сон и глубокий сон] _(tritaya)_ 
+Тот хозяин _(īśaḥ)_ _(своих)_ чувств _(vīra)_, кто является наслаждающимся [вышеупомянутым _(ābhoga)_, божественным восторгом,] _(bhoktā)_ во время триады [бодрствование, сон и глубокий сон] _(tritaya)_
 
 Тройкой наслаждающийся — владыка чувств. {short}
 
 :::
 
 ::: stanza 1.12
- 
+
 विस्मयो योगभूमिकाः ॥१२॥ {sans}
 
 Vismayo yogabhūmikāḥ ॥12॥ {trans}
 
-Стадии _(bhūmikāḥ)_ Йоги _(yoga)_ [являют собой] восхитительное чудо _(vismayaḥ)_ 
+Стадии _(bhūmikāḥ)_ Йоги _(yoga)_ [являют собой] восхитительное чудо _(vismayaḥ)_
 
 Ступени йоги усмиряют. {short}
 
 :::
 
 ::: stanza 1.13
- 
+
 इच्छाशक्तिरुमा कुमारी ॥१३॥ {sans}
 
 Icchāśaktirumā kumārī ॥13॥ {trans}
 
-Сила воли _(icchā śaktiḥ)_ [просветлённого Йога] — «Великолепие Шивы» _(umā)_, [то есть] Кумари _(kumārī)_ 
+Сила воли _(icchā śaktiḥ)_ [просветлённого Йога] — «Великолепие Шивы» _(umā)_, [то есть] Кумари _(kumārī)_
 
 Невинно сияние силы воли. {short}
 
@@ -205,7 +204,7 @@ Hṛdaye cittasaṅghaṭṭāddṛśyasvāpadarśanam ॥15॥ {trans}
 :::
 
 ::: stanza 1.16
- 
+
 शुद्धतत्त्वसन्धानाद्वापशुशक्तिः ॥१६॥ {sans}
 
 Śuddhatattvasandhānādvāpaśuśaktiḥ ॥16॥ {trans}
@@ -253,7 +252,7 @@ Lokānandaḥ samādhisukham ॥18॥ {trans}
 :::
 
 ::: stanza 1.20
- 
+
 भूतसन्धानभूतपृथक्त्वविश्वसङ्घट्टाः ॥२०॥ {sans}
 
 Bhūtasandhānabhūtapṛthaktvaviśvasaṅghaṭṭāḥ ॥20॥ {trans}
@@ -265,7 +264,7 @@ Bhūtasandhānabhūtapṛthaktvaviśvasaṅghaṭṭāḥ ॥20॥ {trans}
 :::
 
 ::: stanza 1.21
- 
+
 शुद्धविद्योदयाच्चक्रेशत्वसिद्धिः ॥२१॥ {sans}
 
 Śuddhavidyodayāccakreśatvasiddhiḥ ॥21॥ {trans}
@@ -277,7 +276,7 @@ Bhūtasandhānabhūtapṛthaktvaviśvasaṅghaṭṭāḥ ॥20॥ {trans}
 :::
 
 ::: stanza 1.22
- 
+
 महाह्रदानुसन्धानान्मन्त्रवीर्यानुभवः ॥२२॥ {sans}
 
 Mahāhradānusandhānānmantravīryānubhavaḥ ॥22॥ {trans}
@@ -288,15 +287,13 @@ Mahāhradānusandhānānmantravīryānubhavaḥ ॥22॥ {trans}
 
 :::
 
-
 ## Часть вторая
 
-शाक्तोपाय  {sans}
+शाक्तोपाय {sans}
 
-Śāktopāya  {trans}
+Śāktopāya {trans}
 
 Метод, основанный на точке зрения Шакти
-
 
 ::: stanza 2.1
 
@@ -311,7 +308,7 @@ Cittaṁ mantraḥ ॥1॥ {trans}
 :::
 
 ::: stanza 2.2
- 
+
 प्रयत्नः साधकः ॥२॥ {sans}
 
 Prayatnaḥ sādhakaḥ ॥2॥ {trans}
@@ -323,7 +320,7 @@ Prayatnaḥ sādhakaḥ ॥2॥ {trans}
 :::
 
 ::: stanza 2.3
- 
+
 विद्याशरीरसत्ता मन्त्ररहस्यम् ॥३॥ {sans}
 
 Vidyāśarīrasattā mantrarahasyam ॥3॥ {trans}
@@ -335,7 +332,7 @@ Vidyāśarīrasattā mantrarahasyam ॥3॥ {trans}
 :::
 
 ::: stanza 2.4
- 
+
 गर्भे चित्तविकासोऽविशिष्टविद्यास्वप्नः ॥४॥ {sans}
 
 Garbhe cittavikāso'viśiṣṭavidyāsvapnaḥ ॥4॥ {trans}
@@ -347,7 +344,7 @@ Garbhe cittavikāso'viśiṣṭavidyāsvapnaḥ ॥4॥ {trans}
 :::
 
 ::: stanza 2.5
- 
+
 विद्यासमुत्थाने स्वाभाविके खेचरी शिवावस्था ॥५॥ {sans}
 
 Vidyāsamutthāne svābhāvike khecarī śivāvasthā ॥5॥ {trans}
@@ -359,7 +356,7 @@ Vidyāsamutthāne svābhāvike khecarī śivāvasthā ॥5॥ {trans}
 :::
 
 ::: stanza 2.6
- 
+
 गुरुरुपायः ॥६॥ {sans}
 
 Gururupāyaḥ ॥6॥ {trans}
@@ -371,7 +368,7 @@ Gururupāyaḥ ॥6॥ {trans}
 :::
 
 ::: stanza 2.7
- 
+
 मातृकाचक्रसम्बोधः ॥७॥ {sans}
 
 Mātṛkācakrasambodhaḥ ॥7॥ {trans}
@@ -383,7 +380,7 @@ Mātṛkācakrasambodhaḥ ॥7॥ {trans}
 :::
 
 ::: stanza 2.8
- 
+
 शरीरं हविः ॥८॥ {sans}
 
 Śarīraṁ haviḥ ॥8॥ {trans}
@@ -395,7 +392,7 @@ Mātṛkācakrasambodhaḥ ॥7॥ {trans}
 :::
 
 ::: stanza 2.9
- 
+
 ज्ञानमन्नम् ॥९॥ {sans}
 
 Jñānamannam ॥9॥ {trans}
@@ -407,7 +404,7 @@ Jñānamannam ॥9॥ {trans}
 :::
 
 ::: stanza 2.10
- 
+
 विद्यासंहारे तदुत्थस्वप्नदर्शनम् ॥१०॥ {sans}
 
 Vidyāsaṁhāre tadutthasvapnadarśanam ॥10॥ {trans}
@@ -418,18 +415,16 @@ Vidyāsaṁhāre tadutthasvapnadarśanam ॥10॥ {trans}
 
 :::
 
-
 ## Часть третья
 
-आणवोपाय  {sans}
+आणवोपाय {sans}
 
-Āṇavopāya  {trans}
+Āṇavopāya {trans}
 
 Метод, основанный на точке зрения аṇu, ограниченного существа
 
-
 ::: stanza 3.1
- 
+
 आत्मा चित्तम् ॥१॥ {sans}
 
 Ātmā cittam ॥1॥ {trans}
@@ -441,7 +436,7 @@ Vidyāsaṁhāre tadutthasvapnadarśanam ॥10॥ {trans}
 :::
 
 ::: stanza 3.2
- 
+
 ज्ञानं बन्धः ॥२॥ {sans}
 
 Jñānaṁ bandhaḥ ॥2॥ {trans}
@@ -453,7 +448,7 @@ Jñānaṁ bandhaḥ ॥2॥ {trans}
 :::
 
 ::: stanza 3.3
- 
+
 कलादीनां तत्त्वानामविवेको माया ॥३॥ {sans}
 
 Kalādīnāṁ tattvānāmaviveko māyā ॥3॥ {trans}
@@ -465,7 +460,7 @@ Kalādīnāṁ tattvānāmaviveko māyā ॥3॥ {trans}
 :::
 
 ::: stanza 3.4
- 
+
 शरीरे संहारः कलानाम् ॥४॥ {sans}
 
 Śarīre saṁhāraḥ kalānām ॥4॥ {trans}
@@ -477,7 +472,7 @@ Kalādīnāṁ tattvānāmaviveko māyā ॥3॥ {trans}
 :::
 
 ::: stanza 3.5
- 
+
 नाडीसंहारभूतजयभूतकैवल्यभूतपृथक्त्वानि ॥५॥ {sans}
 
 Nāḍīsaṁhārabhūtajayabhūtakaivalyabhūtapṛthaktvāni ॥5॥ {trans}
@@ -489,7 +484,7 @@ Nāḍīsaṁhārabhūtajayabhūtakaivalyabhūtapṛthaktvāni ॥5॥ {trans}
 :::
 
 ::: stanza 3.6
- 
+
 मोहावरणात्सिद्धिः ॥६॥ {sans}
 
 Mohāvaraṇātsiddhiḥ ॥6॥ {trans}
@@ -501,7 +496,7 @@ Mohāvaraṇātsiddhiḥ ॥6॥ {trans}
 :::
 
 ::: stanza 3.7
- 
+
 मोहजयादनन्ताभोगात्सहजविद्याजयः ॥७॥ {sans}
 
 Mohajayādanantābhogātsahajavidyājayaḥ ॥7॥ {trans}
@@ -513,7 +508,7 @@ Mohajayādanantābhogātsahajavidyājayaḥ ॥7॥ {trans}
 :::
 
 ::: stanza 3.8
- 
+
 जाग्रद्द्वितीयकरः ॥८॥ {sans}
 
 Jāgraddvitīyakaraḥ ॥8॥ {trans}
@@ -525,7 +520,7 @@ Jāgraddvitīyakaraḥ ॥8॥ {trans}
 :::
 
 ::: stanza 3.9
- 
+
 नर्तक आत्मा ॥९॥ {sans}
 
 Nartaka ātmā ॥9॥ {trans}
@@ -537,7 +532,7 @@ Nartaka ātmā ॥9॥ {trans}
 :::
 
 ::: stanza 3.10
- 
+
 रङ्गोऽन्तरात्मा ॥१०॥ {sans}
 
 Raṅgo'ntarātmā ॥10॥ {trans}
@@ -549,7 +544,7 @@ Raṅgo'ntarātmā ॥10॥ {trans}
 :::
 
 ::: stanza 3.11
- 
+
 प्रेक्षकाणीन्द्रियाणि ॥११॥ {sans}
 
 Prekṣakāṇīndriyāṇi ॥11॥ {trans}
@@ -561,7 +556,7 @@ Prekṣakāṇīndriyāṇi ॥11॥ {trans}
 :::
 
 ::: stanza 3.12
- 
+
 धीवशात्सत्त्वसिद्धिः ॥१२॥ {sans}
 
 Dhīvaśātsattvasiddhiḥ ॥12॥ {trans}
@@ -573,7 +568,7 @@ Dhīvaśātsattvasiddhiḥ ॥12॥ {trans}
 :::
 
 ::: stanza 3.13
- 
+
 सिद्धः स्वतन्त्रभावः ॥१३॥ {sans}
 
 Siddhaḥ svatantrabhāvaḥ ॥13॥ {trans}
@@ -585,7 +580,7 @@ Siddhaḥ svatantrabhāvaḥ ॥13॥ {trans}
 :::
 
 ::: stanza 3.14
- 
+
 यथा तत्र तथान्यत्र ॥१४॥ {sans}
 
 Yathā tatra tathānyatra ॥14॥ {trans}
@@ -597,7 +592,7 @@ Yathā tatra tathānyatra ॥14॥ {trans}
 :::
 
 ::: stanza 3.15
- 
+
 बीजावधानम् ॥१५॥ {sans}
 
 Bījāvadhānam ॥15॥ {trans}
@@ -609,7 +604,7 @@ Bījāvadhānam ॥15॥ {trans}
 :::
 
 ::: stanza 3.16
- 
+
 आसनस्थः सुखं ह्रदे निमज्जति ॥१६॥ {sans}
 
 Āsanasthaḥ sukhaṁ hrade nimajjati ॥16॥ {trans}
@@ -621,7 +616,7 @@ Bījāvadhānam ॥15॥ {trans}
 :::
 
 ::: stanza 3.17
- 
+
 स्वमात्रानिर्माणमापादयति ॥१७॥ {sans}
 
 Svamātrānirmāṇamāpādayati ॥17॥ {trans}
@@ -633,7 +628,7 @@ Svamātrānirmāṇamāpādayati ॥17॥ {trans}
 :::
 
 ::: stanza 3.18
- 
+
 विद्याविनाशे जन्मविनाशः ॥१८॥ {sans}
 
 Vidyāvināśe janmavināśaḥ ॥18॥ {trans}
@@ -645,7 +640,7 @@ Vidyāvināśe janmavināśaḥ ॥18॥ {trans}
 :::
 
 ::: stanza 3.19
- 
+
 कवर्गादिषु माहेश्वर्याद्याः पशुमातरः ॥१९॥ {sans}
 
 Kavargādiṣu māheśvaryādyāḥ paśumātaraḥ ॥19॥ {trans}
@@ -657,7 +652,7 @@ Kavargādiṣu māheśvaryādyāḥ paśumātaraḥ ॥19॥ {trans}
 :::
 
 ::: stanza 3.20
- 
+
 त्रिषु चतुर्थं तैलवदासेच्यम् ॥२०॥ {sans}
 
 Triṣu caturthaṁ tailavadāsecyam ॥20॥ {trans}
@@ -669,7 +664,7 @@ Triṣu caturthaṁ tailavadāsecyam ॥20॥ {trans}
 :::
 
 ::: stanza 3.21
- 
+
 मग्नः स्वचित्तेन प्रविशेत् ॥२१॥ {sans}
 
 Magnaḥ svacittena praviśet ॥21॥ {trans}
@@ -681,7 +676,7 @@ Magnaḥ svacittena praviśet ॥21॥ {trans}
 :::
 
 ::: stanza 3.22
- 
+
 प्राणसमाचारे समदर्शनम् ॥२२॥ {sans}
 
 Prāṇasamācāre samadarśanam ॥22॥ {trans}
@@ -693,7 +688,7 @@ Prāṇasamācāre samadarśanam ॥22॥ {trans}
 :::
 
 ::: stanza 3.23
- 
+
 मध्येऽवरप्रसवः ॥२३॥ {sans}
 
 Madhye'varaprasavaḥ ॥23॥ {trans}
@@ -705,7 +700,7 @@ Madhye'varaprasavaḥ ॥23॥ {trans}
 :::
 
 ::: stanza 3.24
- 
+
 मात्रास्वप्रत्ययसन्धाने नष्टस्य पुनरुत्थानम् ॥२४॥ {sans}
 
 Mātrāsvapratyayasandhāne naṣṭasya punarutthānam ॥24॥ {trans}
@@ -717,7 +712,7 @@ Mātrāsvapratyayasandhāne naṣṭasya punarutthānam ॥24॥ {trans}
 :::
 
 ::: stanza 3.25
- 
+
 शिवतुल्यो जायते ॥२५॥ {sans}
 
 Śivatulyo jāyate ॥25॥ {trans}
@@ -729,7 +724,7 @@ Mātrāsvapratyayasandhāne naṣṭasya punarutthānam ॥24॥ {trans}
 :::
 
 ::: stanza 3.26
- 
+
 शरीरवृत्तिर्व्रतम् ॥२६॥ {sans}
 
 Śarīravṛttirvratam ॥26॥ {trans}
@@ -741,7 +736,7 @@ Mātrāsvapratyayasandhāne naṣṭasya punarutthānam ॥24॥ {trans}
 :::
 
 ::: stanza 3.27
- 
+
 कथा जपः ॥२७॥ {sans}
 
 Kathā japaḥ ॥27॥ {trans}
@@ -753,7 +748,7 @@ Kathā japaḥ ॥27॥ {trans}
 :::
 
 ::: stanza 3.28
- 
+
 दानमात्मज्ञानम् ॥२८॥ {sans}
 
 Dānamātmajñānam ॥28॥ {trans}
@@ -765,7 +760,7 @@ Dānamātmajñānam ॥28॥ {trans}
 :::
 
 ::: stanza 3.29
- 
+
 योऽविपस्थो ज्ञाहेतुश्च ॥२९॥ {sans}
 
 Yo'vipastho jñāhetuśca ॥29॥ {trans}
@@ -777,7 +772,7 @@ Yo'vipastho jñāhetuśca ॥29॥ {trans}
 :::
 
 ::: stanza 3.30
- 
+
 स्वशक्तिप्रचयोऽस्य विश्वम् ॥३०॥ {sans}
 
 Svaśaktipracayo'sya viśvam ॥30॥ {trans}
@@ -789,7 +784,7 @@ Svaśaktipracayo'sya viśvam ॥30॥ {trans}
 :::
 
 ::: stanza 3.31
- 
+
 स्थितिलयौ ॥३१॥ {sans}
 
 Sthitilayau ॥31॥ {trans}
@@ -801,7 +796,7 @@ Sthitilayau ॥31॥ {trans}
 :::
 
 ::: stanza 3.32
- 
+
 तत्प्रवृत्तावप्यनिरासः संवेत्तृभावात् ॥३२॥ {sans}
 
 Tatpravṛttāvapyanirāsaḥ saṁvettṛbhāvāt ॥32॥ {trans}
@@ -813,7 +808,7 @@ Tatpravṛttāvapyanirāsaḥ saṁvettṛbhāvāt ॥32॥ {trans}
 :::
 
 ::: stanza 3.33
- 
+
 सुखदुःखयोर्बहिर्मननम् ॥३३॥ {sans}
 
 Sukhaduḥkhayorbahirmananam ॥33॥ {trans}
@@ -825,7 +820,7 @@ Sukhaduḥkhayorbahirmananam ॥33॥ {trans}
 :::
 
 ::: stanza 3.34
- 
+
 तद्विमुक्तस्तु केवली ॥३४॥ {sans}
 
 Tadvimuktastu kevalī ॥34॥ {trans}
@@ -837,7 +832,7 @@ Tadvimuktastu kevalī ॥34॥ {trans}
 :::
 
 ::: stanza 3.35
- 
+
 मोहप्रतिसंहतस्तु कर्मात्मा ॥३५॥ {sans}
 
 Mohapratisaṁhatastu karmātmā ॥35॥ {trans}
@@ -849,7 +844,7 @@ Mohapratisaṁhatastu karmātmā ॥35॥ {trans}
 :::
 
 ::: stanza 3.36
- 
+
 भेदतिरस्कारे सर्गान्तरकर्मत्वम् ॥३६॥ {sans}
 
 Bhedatiraskāre sargāntarakarmatvam ॥36॥ {trans}
@@ -861,7 +856,7 @@ Bhedatiraskāre sargāntarakarmatvam ॥36॥ {trans}
 :::
 
 ::: stanza 3.37
- 
+
 करणशक्तिः स्वतोऽनुभवात् ॥३७॥ {sans}
 
 Karaṇaśaktiḥ svato'nubhavāt ॥37॥ {trans}
@@ -873,7 +868,7 @@ Karaṇaśaktiḥ svato'nubhavāt ॥37॥ {trans}
 :::
 
 ::: stanza 3.38
- 
+
 त्रिपदाद्यनुप्राणनम् ॥३८॥ {sans}
 
 Tripadādyanuprāṇanam ॥38॥ {trans}
@@ -885,7 +880,7 @@ Tripadādyanuprāṇanam ॥38॥ {trans}
 :::
 
 ::: stanza 3.39
- 
+
 चित्तस्थितिवच्छरीरकरणबाह्येषु ॥३९॥ {sans}
 
 Cittasthitivaccharīrakaraṇabāhyeṣu ॥39॥ {trans}
@@ -897,7 +892,7 @@ Cittasthitivaccharīrakaraṇabāhyeṣu ॥39॥ {trans}
 :::
 
 ::: stanza 3.40
- 
+
 अभिलाषाद्बहिर्गतिः संवाह्यस्य ॥४०॥ {sans}
 
 Abhilāṣādbahirgatiḥ saṁvāhyasya ॥40॥ {trans}
@@ -909,7 +904,7 @@ Abhilāṣādbahirgatiḥ saṁvāhyasya ॥40॥ {trans}
 :::
 
 ::: stanza 3.41
- 
+
 तदारूढप्रमितेस्तत्क्षयाज्जीवसङ्क्षयः ॥४१॥ {sans}
 
 Tadārūḍhapramitestatkṣayājjīvasaṅkṣayaḥ ॥41॥ {trans}
@@ -922,7 +917,7 @@ Tadārūḍhapramitestatkṣayājjīvasaṅkṣayaḥ ॥41॥ {trans}
 
 ::: stanza 3.42
 
- भूतकञ्चुकी तदा विमुक्तो भूयः पतिसमः परः ॥४२॥ {sans}
+भूतकञ्चुकी तदा विमुक्तो भूयः पतिसमः परः ॥४२॥ {sans}
 
 Bhūtakañcukī tadā vimukto bhūyaḥ patisamaḥ paraḥ ॥42॥ {trans}
 
@@ -933,7 +928,7 @@ Bhūtakañcukī tadā vimukto bhūyaḥ patisamaḥ paraḥ ॥42॥ {trans}
 :::
 
 ::: stanza 3.43
- 
+
 नैसर्गिकः प्राणसम्बन्धः ॥४३॥ {sans}
 
 Naisargikaḥ prāṇasambandhaḥ ॥43॥ {trans}
@@ -942,27 +937,26 @@ Naisargikaḥ prāṇasambandhaḥ ॥43॥ {trans}
 
 Связь с жизненной энергией естественна. {short}
 
-
 :::
 
 ::: stanza 3.44
- 
+
 नासिकान्तर्मध्यसंयमात् किमत्र सव्यापसव्यसौषुम्नेषु ॥४४॥ {sans}
 
 Nāsikāntarmadhyasaṁyamāt kimatra savyāpasavyasauṣumneṣu ॥44॥ {trans}
 
-[Жизненная энергия --prāṇaśakti, или prāṇa--] [находится] в левом тонком канале --iḍā-- _(apasavya)_, в правом тонком канале --piṅgalā-- _(savya)_ [и] в suṣumnā --среднем тонком канале-- _(sauṣumneṣu)_.     
+[Жизненная энергия --prāṇaśakti, или prāṇa--] [находится] в левом тонком канале --iḍā-- _(apasavya)_, в правом тонком канале --piṅgalā-- _(savya)_ [и] в suṣumnā --среднем тонком канале-- _(sauṣumneṣu)_.
 
 Посредством непрерывного и интенсивного осознания _(saṁyamāt)_ центра --совершенного Сознания Я-- _(madhya)_ внутреннего аспекта _(antar)_ [вышеупомянутой] prāṇaśakti _(nāsikā)_, [Йог навсегда укореняется в восприятии высшего и совершенного Сознания Я].
 
 Что ещё [можно сказать] _(kim)_ об этом _(atra)_?
 
-В левый, правый и средний каналы соединяются внутри центра носа. Что еще сказать? {short} 
+В левый, правый и средний каналы соединяются внутри центра носа. Что еще сказать? {short}
 
 :::
 
 ::: stanza 3.45
- 
+
 भूयः स्यात्प्रतिमीलनम् ॥४५॥ {sans}
 
 Bhūyaḥ syātpratimīlanam ॥45॥ {trans}
