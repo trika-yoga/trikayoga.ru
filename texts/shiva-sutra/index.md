@@ -10,8 +10,8 @@ date: 2021-07-01
 
 <style scoped>
 .short {
-  display:none;
   font-size: 0.5em;
+  display: none;
 }
 </style>
 
