@@ -1,6 +1,6 @@
 ---
 title: Спанда карика
-subtitle: Развитие идей Шива сутры в учении о Спанде - изначальной вибрации
+subtitle: Строфы о Спанде
 sans: स्पन्दकारिका
 trans: Spandakārikā
 toc: true
@@ -9,17 +9,17 @@ tags: text
 date: 2021-06-20
 ---
 
-[Перевод на английский Габриэля Прадиипаки, перевод на русский Ирины Валлабхи](http://sanskrit-sanscrito.com.ar/ru/spanda-karikas-normal-translation-trika-scriptures-non-dual-shaivism-of-kashmir-ru/564#spkI21to25)
+[Бхатта Каллатта, 9 век н.э.](https://anavrita.com/ponyatie-spanda-problema-avtorstva-spanda-karik/)
 
-
-
+[Перевод на английский: Габриэль Прадиипака, перевод на русский: Ирина Валлабха](http://sanskrit-sanscrito.com.ar/ru/spanda-karikas-normal-translation-trika-scriptures-non-dual-shaivism-of-kashmir-ru/564#spkI21to25)
 
 ## Часть I: Svarūpaspanda
+
 Спанда как своя собственная природа
 
 ::: stanza 1.1
 
-यस्योन्मेषनिमेषाभ्यां जगतः प्रलयोदयौ ।       
+यस्योन्मेषनिमेषाभ्यां जगतः प्रलयोदयौ ।  
 तं शक्तिचक्रविभवप्रभवं शङ्करं स्तुमः ॥१॥ {sans}
 
 Yasyonmeṣanimeṣābhyāṁ jagataḥ pralayodayau।  
@@ -30,7 +30,7 @@ Taṁ śakticakravibhavaprabhavaṁ śaṅkaraṁ stumaḥ ॥1॥ {trans}
 :::
 ::: stanza 1.2
 
-यत्र स्थितमिदं सर्वं कार्यं यस्माच्च निर्गतम् ।       
+यत्र स्थितमिदं सर्वं कार्यं यस्माच्च निर्गतम् ।  
 तस्यानावृतरूपत्वान्न निरोधोऽस्ति कुत्रचित् ॥२॥ {sans}
 
 Yatra sthitamidaṁ sarvaṁ kāryaṁ yasmācca nirgatam।  
@@ -43,45 +43,43 @@ Tasyānāvṛtarūpatvānna nirodho'sti kutracit ॥2॥ {trans}
 :::
 ::: stanza 1.3
 
-जाग्रदादिविभेदेऽपि तदभिन्ने प्रसर्पति ।       
+जाग्रदादिविभेदेऽपि तदभिन्ने प्रसर्पति ।  
 निवर्तते निजान्नैव स्वभावादुपलब्धृतः ॥३॥ {sans}
 
 Jāgradādivibhede'pi tadabhinne prasarpati।  
 Nivartate nijānnaiva svabhāvādupalabdhṛtaḥ ॥3॥ {trans}
 
-Даже _(api)_ в разнообразии [состояний сознания] _(vibhede)_, [таких как] бодрствование _(jāgrat)_ и т.д. _(ādi)_, которые  неотделимы _(abhinne)_ от того [Спанды] _(tad)_, [принцип Спанды] продолжает течь _(prasarpati)_. [Спанда никогда] не _(na eva)_ отступает _(nivartate)_ от Своей _(nijāt)_ сущностной природы _(sva-bhāvāt)_ Воспринимающего _(upalabdhṛtaḥ)_.
+Даже _(api)_ в разнообразии [состояний сознания] _(vibhede)_, [таких как] бодрствование _(jāgrat)_ и т.д. _(ādi)_, которые неотделимы _(abhinne)_ от того [Спанды] _(tad)_, [принцип Спанды] продолжает течь _(prasarpati)_. [Спанда никогда] не _(na eva)_ отступает _(nivartate)_ от Своей _(nijāt)_ сущностной природы _(sva-bhāvāt)_ Воспринимающего _(upalabdhṛtaḥ)_.
 
 :::
 ::: stanza 1.4
 
-अहं सुखी च दुःखी च रक्तश्चेत्यादिसंविदः ।       
+अहं सुखी च दुःखी च रक्तश्चेत्यादिसंविदः ।  
 सुखाद्यवस्थानुस्यूते वर्तन्तेऽन्यत्र ताः स्फुटम् ॥४॥ {sans}
 
 Ahaṁ sukhī ca duḥkhī ca raktaścetyādisaṁvidaḥ।  
 Sukhādyavasthānusyūte vartante'nyatra tāḥ sphuṭam ॥4॥ {trans}
 
-«Я _(aham)_ счастлив _(sukhī ca)_», «я _(aham)_ огорчён _(duḥkhī ca)_», «я _(aham)_ привязан _(raktaḥ ca)_» и т.д. _(iti-ādi)_. Эти _(tāḥ)_ мысли_(saṁvidaḥ)_ явно _(sphuṭam)_ остаются _(vartante)_ в другом _(anyatra)_, [в том,] в ком состояния _(avasthā)_ счастья _(sukha)_ и т.д _(ādi)_ связаны вместе [подобно бусинкам ожерелья] _(anusyūte)_.
+«Я _(aham)_ счастлив _(sukhī ca)_», «я _(aham)_ огорчён _(duḥkhī ca)_», «я _(aham)_ привязан _(raktaḥ ca)_» и т.д. _(iti-ādi)_. Эти _(tāḥ)_ мысли*(saṁvidaḥ)* явно _(sphuṭam)_ остаются _(vartante)_ в другом _(anyatra)_, [в том,] в ком состояния _(avasthā)_ счастья _(sukha)_ и т.д _(ādi)_ связаны вместе [подобно бусинкам ожерелья] _(anusyūte)_.
 
 :::
 ::: stanza 1.5
 
-न दुःखं न सुखं यत्र न ग्राह्यं ग्राहकं न च ।       
+न दुःखं न सुखं यत्र न ग्राह्यं ग्राहकं न च ।  
 न चास्ति मूढभावोऽपि तदस्ति परमार्थतः ॥५॥ {sans}
 
 Na duḥkhaṁ na sukhaṁ yatra na grāhyaṁ grāhakaṁ na ca।  
 Na cāsti mūḍhabhāvo'pi tadasti paramārthataḥ ॥5॥ {trans}
 
-Там, где _(yatra)_ [нет] ни _(na)_ боли _(duḥkham)_, ни _(na)_ наслаждения _(sukham)_, ни _(na)_ объекта _(grāhyam)_, ни _(na ca)_ субъекта _(grāhakam)_,  и _(ca)_ даже _(api)_ не _(na)_ существует _(asti)_ состояния _(bhāvaḥ)_ бессознательности _(mūḍha)_  , то _(tad)_, в высшем смысле _(paramārthatas)_, есть _(asti)_ [принцип Спанды].
+Там, где _(yatra)_ [нет] ни _(na)_ боли _(duḥkham)_, ни _(na)_ наслаждения _(sukham)_, ни _(na)_ объекта _(grāhyam)_, ни _(na ca)_ субъекта _(grāhakam)_, и _(ca)_ даже _(api)_ не _(na)_ существует _(asti)_ состояния _(bhāvaḥ)_ бессознательности _(mūḍha)_ , то _(tad)_, в высшем смысле _(paramārthatas)_, есть _(asti)_ [принцип Спанды].
 
 :::
 ::: stanza 1.6-1.7
 
+यतः करणवर्गोऽयं विमूढोऽमूढवत्स्वयम् ।  
+सहान्तरेण चक्रेण प्रवृत्तिस्थितिसंहृतीः ॥६ ॥ {sans}
 
-यतः करणवर्गोऽयं विमूढोऽमूढवत्स्वयम् ।        
-सहान्तरेण चक्रेण प्रवृत्तिस्थितिसंहृतीः ॥६ ॥    {sans}
-
-
-लभते तत्प्रयत्नेन परीक्ष्यं तत्त्वमादरात् ।       
+लभते तत्प्रयत्नेन परीक्ष्यं तत्त्वमादरात् ।  
 यतः स्वतन्त्रता तस्य सर्वत्रेयमकृत्रिमा ॥७ ॥ {sans}
 
 Yataḥ karaṇavargo'yaṁ vimūḍho'mūḍhavatsvayam।  
@@ -90,14 +88,14 @@ Sahāntareṇa cakreṇa pravṛttisthitisaṁhṛtīḥ ॥6॥ {trans}
 Labhate tatprayatnena parīkṣyaṁ tattvamādarāt।  
 Yataḥ svatantratā tasya sarvatreyamakṛtrimā ॥7॥ {trans}
 
-Тот _(tad)_ принцип [Спанды] _(tattvam)_ должен быть внимательно изучен _(parīkṣyam... prayatnena)_ [и] уважаем _(ādarāt)_, с помощью которого _(yatas)_ эта _(ayam)_ группа _(vargaḥ)_ органов --интеллект, эго, ум, силы восприятия и действия-- _(karaṇa)_^ 1^ [будучи] неодушевлённой _(vimūḍhaḥ)_, [ведёт себя] как _(vat)_ самостоятельно _(svayam)_ одушевлённая _(amūḍha)_, [и] вместе _(saha)_ с внутренней _(āntareṇa)_ группой [из Karaṇeśvarī, богинь чувств] _(cakreṇa)_ входит _(labhate)_ в состояния pravṛtti --устремления к внешним объектам-- _(pravṛtti)_, sthiti --поддержания этих внешних объектов какое-то время-- _(sthiti)_ [и] saṁhṛti --растворения этих объектов в своём Высшем Я-- _(saṁhṛtīḥ)_, поскольку _(yatas)_ такая _(iyam)_ Его _(tasya)_ естественная _(akṛtrimā)_ Свобода _(svatantratā)_ [существует] повсеместно _(sarvatra)_. 
+Тот _(tad)_ принцип [Спанды] _(tattvam)_ должен быть внимательно изучен _(parīkṣyam... prayatnena)_ [и] уважаем _(ādarāt)_, с помощью которого _(yatas)_ эта _(ayam)_ группа _(vargaḥ)_ органов --интеллект, эго, ум, силы восприятия и действия-- _(karaṇa)_^ 1^ [будучи] неодушевлённой _(vimūḍhaḥ)_, [ведёт себя] как _(vat)_ самостоятельно _(svayam)_ одушевлённая _(amūḍha)_, [и] вместе _(saha)_ с внутренней _(āntareṇa)_ группой [из Karaṇeśvarī, богинь чувств] _(cakreṇa)_ входит _(labhate)_ в состояния pravṛtti --устремления к внешним объектам-- _(pravṛtti)_, sthiti --поддержания этих внешних объектов какое-то время-- _(sthiti)_ [и] saṁhṛti --растворения этих объектов в своём Высшем Я-- _(saṁhṛtīḥ)_, поскольку _(yatas)_ такая _(iyam)_ Его _(tasya)_ естественная _(akṛtrimā)_ Свобода _(svatantratā)_ [существует] повсеместно _(sarvatra)_.
 
 1. То есть пять jñānendriya _(сил восприятия)_, пять karmendriya _(сил действия)_, ум, эго и интеллект.
 
 :::
 ::: stanza 1.8
 
-न हीच्छानोदनस्यायं प्रेरकत्वेन वर्तते ।       
+न हीच्छानोदनस्यायं प्रेरकत्वेन वर्तते ।  
 अपि त्वात्मबलस्पर्शात्पुरुषस्तत्समो भवेत् ॥८॥ {sans}
 
 Na hīcchānodanasyāyaṁ prerakatvena vartate।  
@@ -108,18 +106,18 @@ Api tvātmabalasparśātpuruṣastatsamo bhavet ॥8॥ {trans}
 :::
 ::: stanza 1.9
 
-निजाशुद्ध्यासमर्थस्य कर्तव्येष्वभिलाषिणः ।       
+निजाशुद्ध्यासमर्थस्य कर्तव्येष्वभिलाषिणः ।  
 यदा क्षोभः प्रलीयेत तदा स्यात्परमं पदम् ॥९॥ {sans}
 
 Nijāśuddhyāsamarthasya kartavyeṣvabhilāṣiṇaḥ।  
 Yadā kṣobhaḥ pralīyeta tadā syātparamaṁ padam ॥9॥ {trans}
 
-Когда _(yadā)_ возбуждение _(kṣobhaḥ)_ того [ограниченного существа], немощного _(asamarthasya)_ из-за его собственной _(nija)_ нечистоты --aśuddhi-- _(aśuddhyā)_, [и] желающего --abhilāṣī-- _(abhilāṣiṇaḥ)_ действовать _(kartavyeṣu)_, полностью растворяется _(pralīyeta)_, тогда _(tadā)_ наступает _(syāt)_ Высшее _(paramam)_ Состояние _(padam)_. 
+Когда _(yadā)_ возбуждение _(kṣobhaḥ)_ того [ограниченного существа], немощного _(asamarthasya)_ из-за его собственной _(nija)_ нечистоты --aśuddhi-- _(aśuddhyā)_, [и] желающего --abhilāṣī-- _(abhilāṣiṇaḥ)_ действовать _(kartavyeṣu)_, полностью растворяется _(pralīyeta)_, тогда _(tadā)_ наступает _(syāt)_ Высшее _(paramam)_ Состояние _(padam)_.
 
 :::
 ::: stanza 1.10
 
-तदास्याकृत्रिमो धर्मो ज्ञत्वकर्तृत्वलक्षणः ।       
+तदास्याकृत्रिमो धर्मो ज्ञत्वकर्तृत्वलक्षणः ।  
 यतस्तदेप्सितं सर्वं जानाति च करोति च ॥१०॥ {sans}
 
 Tadāsyākṛtrimo dharmo jñatvakartṛtvalakṣaṇaḥ।  
@@ -130,7 +128,7 @@ Yatastadepsitaṁ sarvaṁ jānāti ca karoti ca ॥10॥ {trans}
 :::
 ::: stanza 1.11
 
-तमधिष्ठातृभावेन स्वभावमवलोकयन् ।       
+तमधिष्ठातृभावेन स्वभावमवलोकयन् ।  
 स्मयमान इवास्ते यस्तस्येयं कुसृतिः कुतः ॥११ ॥ {sans}
 
 Tamadhiṣṭhātṛbhāvena svabhāvamavalokayan।  
@@ -141,7 +139,7 @@ Smayamāna ivāste yastasyeyaṁ kusṛtiḥ kutaḥ ॥11॥ {trans}
 :::
 ::: stanza 1.12
 
-नाभावो भाव्यतामेति न च तत्रास्त्यमूढता ।       
+नाभावो भाव्यतामेति न च तत्रास्त्यमूढता ।  
 यतोऽभियोगसंस्पर्शात्तदासीदिति निश्चयः ॥१२॥ {sans}
 
 Nābhāvo bhāvyatāmeti na ca tatrāstyamūḍhatā।  
@@ -154,7 +152,7 @@ Yato'bhiyogasaṁsparśāttadāsīditi niścayaḥ ॥12॥ {trans}
 :::
 ::: stanza 1.13
 
-अतस्तत्कृत्रिमं ज्ञेयं सौषुप्तपदवत्सदा ।       
+अतस्तत्कृत्रिमं ज्ञेयं सौषुप्तपदवत्सदा ।  
 न त्वेवं स्मर्यमाणत्वं तत्तत्त्वं प्रतिपद्यते ॥१३॥ {sans}
 
 Atastatkṛtrimaṁ jñeyaṁ sauṣuptapadavatsadā।  
@@ -167,7 +165,7 @@ Na tvevaṁ smaryamāṇatvaṁ tattattvaṁ pratipadyate ॥13॥ {trans}
 :::
 ::: stanza 1.14
 
-अवस्थायुगलं चात्र कार्यकर्तृत्वशब्दितम् ।       
+अवस्थायुगलं चात्र कार्यकर्तृत्वशब्दितम् ।  
 कार्यता क्षयिणी तत्र कर्तृत्वं पुनरक्षयम् ॥१४॥ {sans}
 
 Avasthāyugalaṁ cātra kāryakartṛtvaśabditam।  
@@ -178,7 +176,7 @@ Kāryatā kṣayiṇī tatra kartṛtvaṁ punarakṣayam ॥14॥ {trans}
 :::
 ::: stanza 1.15
 
-कार्योन्मुखः प्रयत्नो यः केवलं सोऽत्र लुप्यते ।       
+कार्योन्मुखः प्रयत्नो यः केवलं सोऽत्र लुप्यते ।  
 तस्मिँल्लुप्ते विलुप्तोऽस्मीत्यबुधः प्रतिपद्यते ॥१५॥ {sans}
 
 Kāryonmukhaḥ prayatno yaḥ kevalaṁ so'tra lupyate।  
@@ -191,7 +189,7 @@ Tasmim̐llupte vilupto'smītyabudhaḥ pratipadyate ॥15॥ {trans}
 :::
 ::: stanza 1.16
 
-न तु योऽन्तर्मुखो भावः सर्वज्ञत्वगुणास्पदम् ।       
+न तु योऽन्तर्मुखो भावः सर्वज्ञत्वगुणास्पदम् ।  
 तस्य लोपः कदाचित्स्यादन्यस्यानुपलम्भनात् ॥१६ ॥ {sans}
 
 Na tu yo'ntarmukho bhāvaḥ sarvajñatvaguṇāspadam।  
@@ -204,7 +202,7 @@ Tasya lopaḥ kadācitsyādanyasyānupalambhanāt ॥16॥ {trans}
 :::
 ::: stanza 1.17
 
-तस्योपलब्धिः सततं त्रिपदाव्यभिचारिणी ।       
+तस्योपलब्धिः सततं त्रिपदाव्यभिचारिणी ।  
 नित्यं स्यात्सुप्रबुद्धस्य तदाद्यन्ते परस्य तु ॥१७॥ {sans}
 
 Tasyopalabdhiḥ satataṁ tripadāvyabhicāriṇī।  
@@ -215,7 +213,7 @@ Nityaṁ syātsuprabuddhasya tadādyante parasya tu ॥17॥ {trans}
 :::
 ::: stanza 1.18
 
-ज्ञानज्ञेयस्वरूपिण्या शक्त्या परमया युतः ।       
+ज्ञानज्ञेयस्वरूपिण्या शक्त्या परमया युतः ।  
 पदद्वये विभुर्भाति तदन्यत्र तु चिन्मयः ॥१८॥ {sans}
 
 Jñānajñeyasvarūpiṇyā śaktyā paramayā yutaḥ।  
@@ -228,7 +226,7 @@ Padadvaye vibhurbhāti tadanyatra tu cinmayaḥ ॥18॥ {trans}
 :::
 ::: stanza 1.19
 
-गुणादिस्पन्दनिष्यन्दाः सामान्यस्पन्दसंश्रयात् ।       
+गुणादिस्पन्दनिष्यन्दाः सामान्यस्पन्दसंश्रयात् ।  
 लब्धात्मलाभाः सततं स्युर्ज्ञस्यापरिपन्थिनः ॥१९॥ {sans}
 
 Guṇādispandaniṣyandāḥ sāmānyaspandasaṁśrayāt।  
@@ -239,7 +237,7 @@ Labdhātmalābhāḥ satataṁ syurjñasyāparipanthinaḥ ॥19॥ {trans}
 :::
 ::: stanza 1.20
 
-अप्रबुद्धधियस्त्वेते स्वस्थितिस्थगनोद्यताः ।       
+अप्रबुद्धधियस्त्वेते स्वस्थितिस्थगनोद्यताः ।  
 पातयन्ति दुरुत्तारे घोरे संसारवर्त्मनि ॥२०॥ {sans}
 
 Aprabuddhadhiyastvete svasthitisthaganodyatāḥ।  
@@ -250,7 +248,7 @@ Pātayanti duruttāre ghore saṁsāravartmani ॥20॥ {trans}
 :::
 ::: stanza 1.21
 
-अतः सततमुद्युक्तः स्पन्दतत्त्वविविक्तये ।       
+अतः सततमुद्युक्तः स्पन्दतत्त्वविविक्तये ।  
 जाग्रदेव निजं भावमचिरेणाधिगच्छति ॥२१ ॥ {sans}
 
 Ataḥ satatamudyuktaḥ spandatattvaviviktaye।  
@@ -261,7 +259,7 @@ Jāgradeva nijaṁ bhāvamacireṇādhigacchati ॥21॥ {trans}
 :::
 ::: stanza 1.22
 
-अतिक्रुद्धः प्रहृष्टो वा किं करोमीति वा मृशन् ।       
+अतिक्रुद्धः प्रहृष्टो वा किं करोमीति वा मृशन् ।  
 धावन्वा यत्पदं गच्छेत्तत्र स्पन्दः प्रतिष्ठितः ॥२२॥ {sans}
 
 Atikruddhaḥ prahṛṣṭo vā kiṁ karomīti vā mṛśan।  
@@ -272,24 +270,24 @@ Dhāvanvā yatpadaṁ gacchettatra spandaḥ pratiṣṭhitaḥ ॥22॥ {trans}
 :::
 ::: stanza 1.23
 
-यामवस्थां समालम्ब्य यदयं मम वक्ष्यति ।       
+यामवस्थां समालम्ब्य यदयं मम वक्ष्यति ।  
 तदवश्यं करिष्येऽहमिति सङ्कल्प्य तिष्ठति ॥२३॥ {sans}
 
 Yāmavasthāṁ samālambya yadayaṁ mama vakṣyati।  
 Tadavaśyaṁ kariṣye'hamiti saṅkalpya tiṣṭhati ॥23॥ {trans}
 
-Ухватившись _(samālambya)_ за то _(yām)_ [высшее] состояние [Спанды] _(avasthām)_, [великий Йог] остаётся непреклонным _(tiṣṭhati)_, размышляя [так:] _(saṅkalpya)_ «Что бы _(yad)_ это [Высшее Я] _(ayam)_ мне _(mama)_ ни сказало _(vakṣyati)_, то _(tad)_ я _(aham)_ обязательно _(avaśyam... iti)_  сделаю _(kariṣye)_».
+Ухватившись _(samālambya)_ за то _(yām)_ [высшее] состояние [Спанды] _(avasthām)_, [великий Йог] остаётся непреклонным _(tiṣṭhati)_, размышляя [так:] _(saṅkalpya)_ «Что бы _(yad)_ это [Высшее Я] _(ayam)_ мне _(mama)_ ни сказало _(vakṣyati)_, то _(tad)_ я _(aham)_ обязательно _(avaśyam... iti)_ сделаю _(kariṣye)_».
 
 :::
 ::: stanza 1.24
 
-तामाश्रित्योर्ध्वमार्गेण चन्द्रसूर्यावुभावपि ।       
+तामाश्रित्योर्ध्वमार्गेण चन्द्रसूर्यावुभावपि ।  
 सौषुम्नेऽध्वन्यस्तमितो हित्वा ब्रह्माण्डगोचरम् ॥२४॥ {sans}
 
 Tāmāśrityordhvamārgeṇa candrasūryāvubhāvapi।  
 Sauṣumne'dhvanyastamito hitvā brahmāṇḍagocaram ॥24॥ {trans}
 
-Находя убежище _(āśritya)_ в том [высшем состоянии Спанды] _(tām)_, оба _(ubhau)_ луна --apāna-- _(candra)_^1^ [и] солнце --prāṇa--_(sūryau api)_^2^, [поднимаясь] по восходящему _(ūrdhva)_ пути _(mārgeṇa)_, растворяются _(astam itaḥ)_ в канале _(adhvani)_ suṣumnā _(sauṣumne)_ [и затем] покидают _(hitvā)_ сферу _(gocaram)_ яйца Брахмы _(brahmāṇḍa)_^3^. 
+Находя убежище _(āśritya)_ в том [высшем состоянии Спанды] _(tām)_, оба _(ubhau)_ луна --apāna-- _(candra)_^1^ [и] солнце --prāṇa--_(sūryau api)_^2^, [поднимаясь] по восходящему _(ūrdhva)_ пути _(mārgeṇa)_, растворяются _(astam itaḥ)_ в канале _(adhvani)_ suṣumnā _(sauṣumne)_ [и затем] покидают _(hitvā)_ сферу _(gocaram)_ яйца Брахмы _(brahmāṇḍa)_^3^.
 
 1. Apāna — это та жизненная энергия, которая входит в тело через вдох.
 
@@ -300,24 +298,23 @@ Sauṣumne'dhvanyastamito hitvā brahmāṇḍagocaram ॥24॥ {trans}
 :::
 ::: stanza 1.25
 
-तदा तस्मिन्महाव्योम्नि प्रलीनशशिभास्करे ।       
+तदा तस्मिन्महाव्योम्नि प्रलीनशशिभास्करे ।  
 सौषुप्तपदवन्मूढः प्रबुद्धः स्यादनावृतः ॥२५॥ {sans}
 
 Tadā tasminmahāvyomni pralīnaśaśibhāskare।  
 Sauṣuptapadavanmūḍhaḥ prabuddhaḥ syādanāvṛtaḥ ॥25॥ {trans}
 
-Затем _(tadā)_, луна --apāna-- _(śaśi)_ [и] солнце --prāṇa-- _(bhāskare)_ вновь растворяются _(pralīna)_ в том _(tasmin)_ Великом _(mahā)_ Эфире _(vyomni)_. [Для частично пробуждённого это] подобно _(vat)_ состоянию _(pada)_ глубокого сна _(sauṣupta)_, [поэтому] он находится _(syāt)_ в оцепенении _(mūḍhaḥ)_. [Тем не менее, Йог,] не покрытый [тьмой невежества] _(anāvṛtaḥ)_, остаётся _(syāt)_ пробуждённым  _(prabuddhaḥ)_ [в этом состоянии].
+Затем _(tadā)_, луна --apāna-- _(śaśi)_ [и] солнце --prāṇa-- _(bhāskare)_ вновь растворяются _(pralīna)_ в том _(tasmin)_ Великом _(mahā)_ Эфире _(vyomni)_. [Для частично пробуждённого это] подобно _(vat)_ состоянию _(pada)_ глубокого сна _(sauṣupta)_, [поэтому] он находится _(syāt)_ в оцепенении _(mūḍhaḥ)_. [Тем не менее, Йог,] не покрытый [тьмой невежества] _(anāvṛtaḥ)_, остаётся _(syāt)_ пробуждённым _(prabuddhaḥ)_ [в этом состоянии].
 
 :::
 
-
-
 ## Часть II: Sahajavidyodaya
+
 **Появление естественного знания**
 
 ::: stanza 2.1
 
-तदाक्रम्य बलं मन्त्राः सर्वज्ञबलशालिनः ।       
+तदाक्रम्य बलं मन्त्राः सर्वज्ञबलशालिनः ।  
 प्रवर्तन्तेऽधिकाराय करणानीव देहिनाम् ॥१॥ {sans}
 
 Tadākramya balaṁ mantrāḥ sarvajñabalaśālinaḥ।  
@@ -328,7 +325,7 @@ Pravartante'dhikārāya karaṇānīva dehinām ॥1॥ {trans}
 :::
 ::: stanza 2.2
 
-तत्रैव सम्प्रलीयन्ते शान्तरूपा निरञ्जनाः ।       
+तत्रैव सम्प्रलीयन्ते शान्तरूपा निरञ्जनाः ।  
 सहाराधकचित्तेन तेनैते शिवधर्मिणः ॥२॥ {sans}
 
 Tatraiva sampralīyante śāntarūpā nirañjanāḥ।  
@@ -339,11 +336,10 @@ Sahārādhakacittena tenaite śivadharmiṇaḥ ॥2॥ {trans}
 :::
 ::: stanza 2.3-4
 
-यस्मात्सर्वमयो जीवः सर्वभावसमुद्भवात् ।       
+यस्मात्सर्वमयो जीवः सर्वभावसमुद्भवात् ।  
 तत्संवेदनरूपेण तादात्म्यप्रतिपत्तितः ॥३ ॥ {sans}
 
-
-तस्माच्छब्दार्थचिन्तासु न सावस्था न या शिवः ।       
+तस्माच्छब्दार्थचिन्तासु न सावस्था न या शिवः ।  
 भोक्तैव भोग्यभावेन सदा सर्वत्र संस्थितः ॥४॥ {sans}
 
 Yasmātsarvamayo jīvaḥ sarvabhāvasamudbhavāt।  
@@ -359,7 +355,7 @@ Bhoktaiva bhogyabhāvena sadā sarvatra saṁsthitaḥ ॥4॥ {trans}
 :::
 ::: stanza 2.5
 
-इति वा यस्य संवित्तिः क्रीडात्वेनाखिलं जगत् ।       
+इति वा यस्य संवित्तिः क्रीडात्वेनाखिलं जगत् ।  
 स पश्यन्सततं युक्तो जीवन्मुक्तो न संशयः ॥५॥ {sans}
 
 Iti vā yasya saṁvittiḥ krīḍātvenākhilaṁ jagat।  
@@ -370,7 +366,7 @@ Sa paśyansatataṁ yukto jīvanmukto na saṁśayaḥ ॥5॥ {trans}
 :::
 ::: stanza 2.6
 
-अयमेवोदयस्तस्य ध्येयस्य ध्यायिचेतसि ।       
+अयमेवोदयस्तस्य ध्येयस्य ध्यायिचेतसि ।  
 तदात्मतासमापत्तिरिच्छतः साधकस्य या ॥६॥ {sans}
 
 Ayamevodayastasya dhyeyasya dhyāyicetasi।  
@@ -381,7 +377,7 @@ Tadātmatāsamāpattiricchataḥ sādhakasya yā ॥6॥ {trans}
 :::
 ::: stanza 2.7
 
-इयमेवामृतप्राप्तिरयमेवात्मनो ग्रहः ।       
+इयमेवामृतप्राप्तिरयमेवात्मनो ग्रहः ।  
 इयं निर्वाणदीक्षा च शिवसद्भावदायिनी ॥७॥ {sans}
 
 Iyamevāmṛtaprāptirayamevātmano grahaḥ।  
@@ -391,17 +387,16 @@ Iyaṁ nirvāṇadīkṣā ca śivasadbhāvadāyinī ॥7॥ {trans}
 
 :::
 
-
 ## Часть III: Vibhūtispanda
-**Сверхъестественные силы происходящие из Спанды**   
+
+**Сверхъестественные силы происходящие из Спанды**
 
 ::: stanza 3.1-2
 
-यथेच्छाभ्यर्थितो धाता जाग्रतोऽर्थान् हृदि स्थितान् ।       
+यथेच्छाभ्यर्थितो धाता जाग्रतोऽर्थान् हृदि स्थितान् ।  
 सोमसूर्योदयं कृत्वा सम्पादयति देहिनः ॥१ ॥ {sans}
 
-
-तथा स्वप्नेऽप्यभीष्टार्थान्प्रणयस्यानतिक्रमात् ।       
+तथा स्वप्नेऽप्यभीष्टार्थान्प्रणयस्यानतिक्रमात् ।  
 नित्यं स्फुटतरं मध्ये स्थितोऽवश्यं प्रकाशयेत् ॥२॥ {sans}
 
 Yathecchābhyarthito dhātā jāgrato'rthān hṛdi sthitān।  
@@ -410,12 +405,12 @@ Somasūryodayaṁ kṛtvā sampādayati dehinaḥ ॥1॥ {trans}
 Tathā svapne'pyabhīṣṭārthānpraṇayasyānatikramāt।  
 Nityaṁ sphuṭataraṁ madhye sthito'vaśyaṁ prakāśayet ॥2॥ {trans}
 
-Подобно тому как _(yathā)_ Поддерживающий [этот мир] _(dhātā)_, когда его просят _(abhyarthitaḥ)_ с желанием _(icchā)_, создаёт _(sampādayati)_ [все] объекты _(arthān)_, находящиеся _(sthitān)_ в сердце _(hṛdi)_ той воплощённой души _(dehinaḥ)_, которая бодрствует _(jāgrataḥ)_, вызвав _(kṛtvā)_ появление _(udayam)_ луны _(soma)_ [и] солнца _(sūrya)_, так _(tathā)_ и _(api)_ во сне _(svapne)_, пребывая_(sthitah)_ в центральном канале _(madhye)_, [Он] определённо _(avaśyam)_ всегда _(nityam)_ ясно _(sphuṭataram)_ проявляет _(prakāśayet)_ желаемые _(abhīṣṭa)_ объекты _(arthān)_ тому, кто не пренебрегает _(anatikramāt)_ его мольбой _(praṇayasya)_.
+Подобно тому как _(yathā)_ Поддерживающий [этот мир] _(dhātā)_, когда его просят _(abhyarthitaḥ)_ с желанием _(icchā)_, создаёт _(sampādayati)_ [все] объекты _(arthān)_, находящиеся _(sthitān)_ в сердце _(hṛdi)_ той воплощённой души _(dehinaḥ)_, которая бодрствует _(jāgrataḥ)_, вызвав _(kṛtvā)_ появление _(udayam)_ луны _(soma)_ [и] солнца _(sūrya)_, так _(tathā)_ и _(api)_ во сне _(svapne)_, пребывая*(sthitah)* в центральном канале _(madhye)_, [Он] определённо _(avaśyam)_ всегда _(nityam)_ ясно _(sphuṭataram)_ проявляет _(prakāśayet)_ желаемые _(abhīṣṭa)_ объекты _(arthān)_ тому, кто не пренебрегает _(anatikramāt)_ его мольбой _(praṇayasya)_.
 
 :::
 ::: stanza 3.3
 
-अन्यथा तु स्वतन्त्रा स्यात्सृष्टिस्तद्धर्मकत्वतः ।       
+अन्यथा तु स्वतन्त्रा स्यात्सृष्टिस्तद्धर्मकत्वतः ।  
 सततं लौकिकस्येव जाग्रत्स्वप्नपदद्वये ॥३॥ {sans}
 
 Anyathā tu svatantrā syātsṛṣṭistaddharmakatvataḥ।  
@@ -426,11 +421,10 @@ Satataṁ laukikasyeva jāgratsvapnapadadvaye ॥3॥ {trans}
 :::
 ::: stanza 3.4-5
 
-यथा ह्यर्थोऽस्फुटो दृष्टः सावधानेऽपि चेतसि ।       
+यथा ह्यर्थोऽस्फुटो दृष्टः सावधानेऽपि चेतसि ।  
 भूयः स्फुटतरो भाति स्वबलोद्योगभावितः ॥४ ॥ {sans}
 
-
-तथा यत्परमार्थेन येन यत्र यथा स्थितम् ।       
+तथा यत्परमार्थेन येन यत्र यथा स्थितम् ।  
 तत्तथा बलमाक्रम्य न चिरात्सम्प्रवर्तते ॥५॥ {sans}
 
 Yathā hyartho'sphuṭo dṛṣṭaḥ sāvadhāne'pi cetasi।  
@@ -446,20 +440,20 @@ Tattathā balamākramya na cirātsampravartate ॥5॥ {trans}
 :::
 ::: stanza 3.6
 
-दुर्बलोऽपि तदाक्रम्य यतः कार्ये प्रवर्तते ।       
+दुर्बलोऽपि तदाक्रम्य यतः कार्ये प्रवर्तते ।  
 आच्छादयेद्बुभुक्षां च तथा योऽतिबुभुक्षितः ॥६॥ {sans}
 
 Durbalo'pi tadākramya yataḥ kārye pravartate।  
 Ācchādayedbubhukṣāṁ ca tathā yo'tibubhukṣitaḥ ॥6॥ {trans}
 
-Даже _(api)_ слабое существо _(durbalaḥ)_, ухватываясь _(ākramya)_ за то [Спанду] _(tad)_, занимается _(pravartate)_ тем, что нужно сделать _(kārye)_ [и преуспевает] за счёт этого самого Принципа _(yatas)_. Подобным образом, _(ca tathā)_ тот, кто _(yaḥ)_ крайне голоден _(ati-bubhukṣitaḥ)_, скрывает _(āchādayet)_^1^ [свое] желание поесть _(bubhukṣām)_. 
+Даже _(api)_ слабое существо _(durbalaḥ)_, ухватываясь _(ākramya)_ за то [Спанду] _(tad)_, занимается _(pravartate)_ тем, что нужно сделать _(kārye)_ [и преуспевает] за счёт этого самого Принципа _(yatas)_. Подобным образом, _(ca tathā)_ тот, кто _(yaḥ)_ крайне голоден _(ati-bubhukṣitaḥ)_, скрывает _(āchādayet)_^1^ [свое] желание поесть _(bubhukṣām)_.
 
 1. Имеется в виду «преодолевает».
 
 :::
 ::: stanza 3.7
 
-अनेनाधिष्ठिते देहे यथा सर्वज्ञतादयः ।       
+अनेनाधिष्ठिते देहे यथा सर्वज्ञतादयः ।  
 तथा स्वात्मन्यधिष्ठानात्सर्वत्रैवं भविष्यति ॥७॥ {sans}
 
 Anenādhiṣṭhite dehe yathā sarvajñatādayaḥ।  
@@ -470,7 +464,7 @@ Tathā svātmanyadhiṣṭhānātsarvatraivaṁ bhaviṣyati ॥7॥ {trans}
 :::
 ::: stanza 3.18
 
-ग्लानिर्विलुण्ठिका देहे तस्याश्चाज्ञानतः सृतिः ।       
+ग्लानिर्विलुण्ठिका देहे तस्याश्चाज्ञानतः सृतिः ।  
 तदुन्मेषविलुप्तं चेत्कुतः सा स्यादहेतुका ॥८॥ {sans}
 
 Glānirviluṇṭhikā dehe tasyāścājñānataḥ sṛtiḥ।  
@@ -483,7 +477,7 @@ Tadunmeṣaviluptaṁ cetkutaḥ sā syādahetukā ॥8॥ {trans}
 :::
 ::: stanza 3.9
 
-एकचिन्ताप्रसक्तस्य यतः स्यादपरोदयः ।       
+एकचिन्ताप्रसक्तस्य यतः स्यादपरोदयः ।  
 उन्मेषः स तु विज्ञेयः स्वयं तमुपलक्षयेत् ॥९॥ {sans}
 
 Ekacintāprasaktasya yataḥ syādaparodayaḥ।  
@@ -494,20 +488,20 @@ Unmeṣaḥ sa tu vijñeyaḥ svayaṁ tamupalakṣayet ॥9॥ {trans}
 :::
 ::: stanza 3.10
 
-अतो विन्दुरतो नादो रूपमस्मादतो रसः ।       
+अतो विन्दुरतो नादो रूपमस्मादतो रसः ।  
 प्रवर्तन्तेऽचिरेणैव क्षोभकत्वेन देहिनः ॥१०॥ {sans}
 
 Ato vindurato nādo rūpamasmādato rasaḥ।  
 Pravartante'cireṇaiva kṣobhakatvena dehinaḥ ॥10॥ {trans}
 
-Из этого [Unmeṣa] _(atas... atas... asmāt atas)_ вскоре _(acireṇa eva)_ появляются _(pravartante)_ Винду --божественный свет--_(vinduḥ)_^1^, Нада --божественный звук-- _(nādaḥ)_, Рупа --божественная форма-- _(rūpam)_ [и] Раса --божественный вкус-- _(rasaḥ)_ как факторы, нарушающие покой _(kṣobhakatvena)_ воплощённой души _(dehinaḥ)_. 
+Из этого [Unmeṣa] _(atas... atas... asmāt atas)_ вскоре _(acireṇa eva)_ появляются _(pravartante)_ Винду --божественный свет--_(vinduḥ)_^1^, Нада --божественный звук-- _(nādaḥ)_, Рупа --божественная форма-- _(rūpam)_ [и] Раса --божественный вкус-- _(rasaḥ)_ как факторы, нарушающие покой _(kṣobhakatvena)_ воплощённой души _(dehinaḥ)_.
 
 1. Или «Бинду» в другом написании.
 
 :::
 ::: stanza 3.11
 
-दिदृक्षयेव सर्वार्थान्यदा व्याप्यावतिष्ठते ।        
+दिदृक्षयेव सर्वार्थान्यदा व्याप्यावतिष्ठते ।  
 तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते ॥११ ॥ {sans}
 
 Didṛkṣayeva sarvārthānyadā vyāpyāvatiṣṭhate।  
@@ -518,7 +512,7 @@ Tadā kiṁ bahunoktena svayamevāvabhotsyate ॥11॥ {trans}
 :::
 ::: stanza 3.12
 
-प्रबुद्धः सर्वदा तिष्ठेज्ज्ञानेनालोक्य गोचरम् ।       
+प्रबुद्धः सर्वदा तिष्ठेज्ज्ञानेनालोक्य गोचरम् ।  
 एकत्रारोपयेत्सर्वं ततोऽन्येन न पीड्यते ॥१२॥ {sans}
 
 Prabuddhaḥ sarvadā tiṣṭhejjñānenālokya gocaram।  
@@ -529,7 +523,7 @@ Ekatrāropayetsarvaṁ tato'nyena na pīḍyate ॥12॥ {trans}
 :::
 ::: stanza 3.13
 
-शब्दराशिसमुत्थस्य शक्तिवर्गस्य भोग्यताम् ।       
+शब्दराशिसमुत्थस्य शक्तिवर्गस्य भोग्यताम् ।  
 कलाविलुप्तविभवो गतः सन्स पशुः स्मृतः ॥१३॥ {sans}
 
 Śabdarāśisamutthasya śaktivargasya bhogyatām।  
@@ -540,7 +534,7 @@ Kalāviluptavibhavo gataḥ sansa paśuḥ smṛtaḥ ॥13॥ {trans}
 :::
 ::: stanza 3.14
 
-परामृतरसापायस्तस्य यः प्रत्ययोद्भवः ।       
+परामृतरसापायस्तस्य यः प्रत्ययोद्भवः ।  
 तेनास्वतन्त्रतामेति स च तन्मात्रगोचरः ॥१४॥ {sans}
 
 Parāmṛtarasāpāyastasya yaḥ pratyayodbhavaḥ।  
@@ -551,7 +545,7 @@ Tenāsvatantratāmeti sa ca tanmātragocaraḥ ॥14॥ {trans}
 :::
 ::: stanza 3.15
 
-स्वरूपावरणे चास्य शक्तयः सततोत्थिताः ।       
+स्वरूपावरणे चास्य शक्तयः सततोत्थिताः ।  
 यतः शब्दानुवेधेन न विना प्रत्ययोद्भवः ॥१५॥ {sans}
 
 Svarūpāvaraṇe cāsya śaktayaḥ satatotthitāḥ।  
@@ -564,7 +558,7 @@ Yataḥ śabdānuvedhena na vinā pratyayodbhavaḥ ॥15॥ {trans}
 :::
 ::: stanza 3.16
 
-सेयं क्रियात्मिका शक्तिः शिवस्य पशुवर्तिनी ।       
+सेयं क्रियात्मिका शक्तिः शिवस्य पशुवर्तिनी ।  
 बन्धयित्री स्वमार्गस्था ज्ञाता सिद्ध्युपपादिका ॥१६॥ {sans}
 
 Seyaṁ kriyātmikā śaktiḥ śivasya paśuvartinī।  
@@ -575,10 +569,10 @@ Bandhayitrī svamārgasthā jñātā siddhyupapādikā ॥16॥ {trans}
 :::
 ::: stanza 3.17-18
 
-तन्मात्रोदयरूपेण मनोऽहम्बुद्धिवर्तिना ।       
+तन्मात्रोदयरूपेण मनोऽहम्बुद्धिवर्तिना ।  
 पुर्यष्टकेन संरुद्धस्तदुत्थं प्रत्ययोद्भवम् ॥१७॥ {sans}
 
-भुङ्क्ते परवशो भोगं तद्भावात्संसरेदतः ।       
+भुङ्क्ते परवशो भोगं तद्भावात्संसरेदतः ।  
 संसृतिप्रलयस्यास्य कारणं सम्प्रचक्ष्महे ॥१८ ॥ {sans}
 
 Tanmātrodayarūpeṇa mano'hambuddhivartinā।  
@@ -587,14 +581,14 @@ Puryaṣṭakena saṁruddhastadutthaṁ pratyayodbhavam ॥17॥ {trans}
 Bhuṅkte paravaśo bhogaṁ tadbhāvātsaṁsaredataḥ।  
 Saṁsṛtipralayasyāsya kāraṇaṁ sampracakṣmahe ॥18॥ {trans}
 
-Полностью заблокированный и осаждённый _(saṁruddhaḥ)_ Пурьяштакой --Puryaṣṭaka-- _(puryaṣṭakena)_^1^, который происходит _(udaya-rūpeṇa)_ из [пяти] Tanmātra --тонких элементов-- _(tanmātra)_ [и] обитает _(vartinā)_ в уме _(manas)_, эго _(aham)_ [и] интеллекте_(buddhi)_, покорный [paśu, ограниченное существо,] _(paravaśaḥ)_ испытывает _(bhuṅkte)_ возникновение _(udbhavam)_ идей _(pratyaya)_, происходящих _(uttham)_ из того [Puryaṣṭaka] _(tad)_ [и сопровождаемое] наслаждением [удовольствием и болью, порождёнными этими самыми идеями] _(bhogam)_. [Такое существо] трансмигрирует _(saṁsaret)_ из-за присутствия _(bhāvāt)_ того [Puryaṣṭaka] _(tad)_. Итак _(atas)_, мы объясним _(sampracakṣmahe)_ причину _(kāraṇam)_ этого _(asya)_ растворения _(pralayasya)_ трансмиграции _(saṁsṛti)_.
+Полностью заблокированный и осаждённый _(saṁruddhaḥ)_ Пурьяштакой --Puryaṣṭaka-- _(puryaṣṭakena)_^1^, который происходит _(udaya-rūpeṇa)_ из [пяти] Tanmātra --тонких элементов-- _(tanmātra)_ [и] обитает _(vartinā)_ в уме _(manas)_, эго _(aham)_ [и] интеллекте*(buddhi)*, покорный [paśu, ограниченное существо,] _(paravaśaḥ)_ испытывает _(bhuṅkte)_ возникновение _(udbhavam)_ идей _(pratyaya)_, происходящих _(uttham)_ из того [Puryaṣṭaka] _(tad)_ [и сопровождаемое] наслаждением [удовольствием и болью, порождёнными этими самыми идеями] _(bhogam)_. [Такое существо] трансмигрирует _(saṁsaret)_ из-за присутствия _(bhāvāt)_ того [Puryaṣṭaka] _(tad)_. Итак _(atas)_, мы объясним _(sampracakṣmahe)_ причину _(kāraṇam)_ этого _(asya)_ растворения _(pralayasya)_ трансмиграции _(saṁsṛti)_.
 
 1. Досл. «город восьми», Puryaṣṭaka — эпитет тонкого тела _(sūkṣmaśarīra, также liṅgaśarīra)_, поскольку оно состоит из buddhi _(интеллекта)_, ahaṅkāra _(эго)_, manas _(ума)_ и пяти Tanmātra, тонких элементов. Это поясняется самими автором далее.
 
 :::
 ::: stanza 3.19
 
-यदा त्वेकत्र संरूढस्तदा तस्य लयोदयौ ।       
+यदा त्वेकत्र संरूढस्तदा तस्य लयोदयौ ।  
 नियच्छन्भोक्तृतामेति ततश्चक्रेश्वरो भवेत् ॥१९॥ {sans}
 
 Yadā tvekatra saṁrūḍhastadā tasya layodayau।  
@@ -605,11 +599,12 @@ Niyacchanbhoktṛtāmeti tataścakreśvaro bhavet ॥19॥ {trans}
 :::
 
 ## Часть IV: Эпилог
+
 **Две заключительные строфы**
 
-::: stanza  4.1
+::: stanza 4.1
 
-अगाधसंशयाम्भोधिसमुत्तरणतारिणीम् ।       
+अगाधसंशयाम्भोधिसमुत्तरणतारिणीम् ।  
 वन्दे विचित्रार्थपदां चित्रां तां गुरुभारतीम् ॥१॥ {sans}
 
 Agādhasaṁśayāmbhodhisamuttaraṇatāriṇīm।  
@@ -620,7 +615,7 @@ Vande vicitrārthapadāṁ citrāṁ tāṁ gurubhāratīm ॥1॥ {trans}
 :::
 ::: stanza 4.2
 
-लब्ध्वाप्यलभ्यमेतज्ज्ञानधनं हृद्गुहान्तकृतनिहितेः ।       
+लब्ध्वाप्यलभ्यमेतज्ज्ञानधनं हृद्गुहान्तकृतनिहितेः ।  
 वसुगुप्तवच्छिवाय हि भवति सदा सर्वलोकस्य ॥२॥ {sans}
 
 Labdhvāpyalabhyametajjñānadhanaṁ hṛdguhāntakṛtanihiteḥ।  
@@ -628,5 +623,3 @@ Vasuguptavacchivāya hi bhavati sadā sarvalokasya ॥2॥ {trans}
 
 Кроме того _(api)_, обретение _(labdhvā)_ этого _(etad)_ сокровища _(dhanam)_ знаний _(jñāna)_, которое сложно обрести _(alabhyam)_, [и его] добросовестное _(kṛta)_ сохранение _(nihiteḥ)_ в _(anta)_ пещере _(guha)_ сердца _(hṛd)_, несомненно _(hi)_, всегда _(sadā)_ служит _(bhavati)_ во благо _(śivāya)_ всего _(sarva)_ мира _(lokasya)_, подобно тому как _(vat)_ [оно послужило во благо] Васугупты _(vasugupta)_.
 :::
-
-

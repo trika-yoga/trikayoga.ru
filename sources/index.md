@@ -1,6 +1,6 @@
 ---
 title: Источники
-subtitle: 'Ссылки на ресурсы для дополнительного изучения, а также писания и исследования в формате электронных книг'
+subtitle: "Ссылки на ресурсы для дополнительного изучения, а также писания и исследования в формате электронных книг"
 tags: main
 date: 2021-04-01
 links:
@@ -10,9 +10,9 @@ links:
     url: https://www.sanskrit-trikashaivism.com/
   - title: Словарь традиции натхов
     url: https://nathas.org/dictionary/
-  - title: Санскритско-английский разговорный словарь 
+  - title: Санскритско-английский разговорный словарь
     url: https://www.learnsanskrit.cc/
-  - title: Санскритско-английский словарь 
+  - title: Санскритско-английский словарь
     url: https://sanskritdictionary.com/
   - title: Словарь Монье-Вильямса онлайн
     url: https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc2/index.php
@@ -67,7 +67,7 @@ ru_books:
   - title: Паратришика-виварана Абхинавагупты. Тайны тантрического мистицизма.
     subtitle: Джайдева Сингх при содействии Свами Лакшманджу.
     book: /books/paratsrisika.pdf
-  - title: Спанда карика. 
+  - title: Спанда карика.
     subtitle: Перевод с санскрита Ерченкова О.Н.
     book: /books/spanda-karika.pdf
 
@@ -90,14 +90,18 @@ en_books:
     ISBN: 81-208-1785-0
     link: https://www.amazon.com/Isvara-Pratyabhijna-Karika-Utplaladeva-Recognition/dp/8120817850
     year: 2004
-  - title: Saints and sages of Kashmir. Ancient and modern ascetics of Kashmir
-    subtitle: by Kashmir News Network. 370 pages
-    book: /books/saints.pdf
-    year: 2007
+  - title: Specific Principles Of Kashmir Saivism
+    subtitle: Dr. B.N. Pandit
+    book: /books/Specific Principles of Kashmir Saivism - B N Pandit.pdf
+    year: 1997
   - title: History of Kashmir Shaivism
     subtitle: Dr. B.N. Pandit
     book: /books/B.N._Pandit_History_of_Kashmir_Saivism.pdf
     year: 1990
+  - title: Saints and sages of Kashmir. Ancient and modern ascetics of Kashmir
+    subtitle: by Kashmir News Network. 370 pages
+    book: /books/saints.pdf
+    year: 2007
 
 video:
   - title: Гуру Габриэль Прадиипака. Лекции и сатсанги
@@ -140,4 +144,3 @@ video:
 :::
 
 सत्यम शिवम सुन्दरम {sans}
-

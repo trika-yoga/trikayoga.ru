@@ -1,6 +1,6 @@
 ---
 title: Шива сутра
-subtitle: Ключевое писание Васугупты
+subtitle: Сутры о Благом
 sans: शिवसूत्रा
 trans: śivasūtrā
 tags: text
@@ -14,6 +14,8 @@ date: 2021-07-01
   display: none;
 }
 </style>
+
+_Васугупта, 9 век н.э._
 
 ## Часть первая
 
