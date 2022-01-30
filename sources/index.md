@@ -34,6 +34,12 @@ links:
     url: https://sanskrit.inria.fr/
   - title: Портал санскритского наследия
     url: https://sanskrit.inria.fr/portal.html
+  - title: Санскритские словари для Mac OS
+    url: https://github.com/lalitaalaalitah/Sanskrit_Dictionary_For_MacOs
+  - title: Сообщество санскристких кодеров
+    url: https://sanskrit-coders.github.io/
+  - title: Онлайн-словарь Аштадхьяи
+    url: https://ashtadhyayi.com/kosha/
 
 ru_books:
   - title: Утпаладева. Узнавание Ишвары
