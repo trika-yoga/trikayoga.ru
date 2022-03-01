@@ -9,7 +9,6 @@ tags: hymn
 
 Стихотворный перевод с санскрита: NN.
 
-
 ::: stanza 1
 
 शिवो महेश्वरश्शम्भुः पिनाकी शशिशेखरः ।       
@@ -18,9 +17,9 @@ tags: hymn
 śivo maheśvaraśśambhuḥ pinākī śaśiśekharaḥ ।        
 vāmadevo virūpākṣaḥ kapardī nīlalohitaḥ ॥1॥ {trans}
 
-Дарящий счастье царь, благой;
-Кто лучник, убранный луной;
-Прекрасен, необычноок,
+Дарящий счастье царь, благой; 
+Кто лучник, убранный луной; 
+Прекрасен, необычноок, 
 Кроваво-красен, власья в клок.
 
 :::
@@ -32,9 +31,9 @@ vāmadevo virūpākṣaḥ kapardī nīlalohitaḥ ॥1॥ {trans}
 śaṅkaraśśūlapāṇiśca khaṭvāṅgī viṣṇuvallabhaḥ ।        
 śipiviṣṭo'mbikānāthaḥ śrīkaṇṭho bhaktavatsalaḥ ॥2॥ {trans}
 
-Владелец жезла и копья;
-Богини муж, исток бытья,
-Прекрасношеий, чистый свет,
+Владелец жезла и копья; 
+Богини муж, исток бытья, 
+Прекрасношеий, чистый свет, 
 Услады преданных предмет.
 
 :::
@@ -46,9 +45,9 @@ vāmadevo virūpākṣaḥ kapardī nīlalohitaḥ ॥1॥ {trans}
 bhavaśśarvastrilokeśaśśitikaṇṭhaśśivapriyaḥ ।        
 ugraḥ kapālī kāmārī andhakāsurasūdanaḥ ॥3॥ {trans}
 
-Стрелой разящий; капалин;
+Стрелой разящий; капалин; 
 Бытье; трехмирья властелин.
-Желаний враг, Андхаки мор;
+Желаний враг, Андхаки мор; 
 Сам ужас, любый дщери гор.
 
 :::
@@ -60,7 +59,7 @@ ugraḥ kapālī kāmārī andhakāsurasūdanaḥ ॥3॥ {trans}
 gaṅgādharo lalāṭākṣaḥ kālakālaḥ kṛpānidhiḥ ।        
 bhīmaḥ paraśuhastaśca mṛgapāṇirjaṭādharaḥ ॥4॥ {trans}
 
-Держащий Гангу, смерти мор,
+Держащий Гангу, смерти мор, 
 Во лбу чьем глаз, в руке топор.
 Огромен, милости колосс.
 Лань держит, спутанноволос.
@@ -74,9 +73,9 @@ bhīmaḥ paraśuhastaśca mṛgapāṇirjaṭādharaḥ ॥4॥ {trans}
 kailāsavāsī kavacī kaṭhorastripurāntakaḥ ।        
 vṛṣāṅko vṛṣabhārūḍho bhasmoddhūlitavigrahaḥ ॥5॥ {trans}
 
-Живущий на горе святой,
+Живущий на горе святой, 
 Муж в пепле, на быке, густой.
-Три града ввергнувший в конец;
+Три града ввергнувший в конец; 
 В броню одетый и венец.
 
 :::
@@ -90,7 +89,7 @@ sarvajñaḥ paramātmā ca somasūryāgnilocanaḥ ॥6॥ {trans}
 
 Трехлик, любящий рифмы слог.
 Звучанье, неподвластный Бог.
-Дух высший и знаток всего;
+Дух высший и знаток всего; 
 Светила все - глаза Его.
 
 :::
@@ -102,7 +101,7 @@ sarvajñaḥ paramātmā ca somasūryāgnilocanaḥ ॥6॥ {trans}
 haviryajñamayassomaḥ pañcavaktrassadāśivaḥ ।        
 viśveśvaro vīrabhadro gaṇanāthaḥ prajāpatiḥ ॥7॥ {trans}
 
-Огонь, что с Умою един,
+Огонь, что с Умою един, 
 Приемлет жертвы, господин.
 Кто пятилик, всегда благой.
 Царь духам; предок и герой.
@@ -116,8 +115,8 @@ viśveśvaro vīrabhadro gaṇanāthaḥ prajāpatiḥ ॥7॥ {trans}
 hiraṇyaretaḥ durdharṣaḥ girīśo giriśonaghaḥ ।        
 bhujaṅgabhūṣaṇo bhargo giridhanvā giripriyaḥ ॥8॥ {trans}
 
-Златое семя у Кого,
-Непросто оскорбить Его,
+Златое семя у Кого, 
+Непросто оскорбить Его, 
 Змеей украшен, славен; гор
 Владыка, житель и убор.
 
@@ -130,9 +129,9 @@ bhujaṅgabhūṣaṇo bhargo giridhanvā giripriyaḥ ॥8॥ {trans}
 kṛttivāsaḥ purātanarbhagavān pramathādhipaḥ ।        
 mṛtyuñjayassūkṣmatanurjagadvyāpī jagadguruḥ ॥9॥ {trans}
 
-Бог древний, смерть что победил,
+Бог древний, смерть что победил, 
 Собою всё заполонил.
-Миров учитель, духов царь;
+Миров учитель, духов царь; 
 Кто тоньше, чем любая тварь.
 
 :::
@@ -144,7 +143,7 @@ mṛtyuñjayassūkṣmatanurjagadvyāpī jagadguruḥ ॥9॥ {trans}
 vyomakeśo mahāsenajanakaścāruvikramaḥ ।        
 rudro bhūtapatiḥ sthāṇurahirbhudhno digambaraḥ ॥10॥ {trans}
 
-Небесновласый, милый путь;
+Небесновласый, милый путь; 
 Отец воителя и Суть.
 Владыка всех, чей рёв суров.
 Одетый в небо, ось миров.
@@ -158,9 +157,9 @@ rudro bhūtapatiḥ sthāṇurahirbhudhno digambaraḥ ॥10॥ {trans}
 aṣṭamūrtiranekātmā sāttvikaśśuddhavigrahaḥ ।        
 śāśvataḥ khaṇḍaparaśurajaḥ pāśavimocakaḥ ॥11॥ {trans}
 
-Восьмиобразен, многочтим,
+Восьмиобразен, многочтим, 
 Реален, чист, неоскверним.
-Рубящий узы, как топор,
+Рубящий узы, как топор, 
 Непобеждённый до сих пор.
 
 :::
@@ -172,14 +171,13 @@ aṣṭamūrtiranekātmā sāttvikaśśuddhavigrahaḥ ।
 mṛḍaḥ paśupatirdevo mahādevo'vyayo hariḥ ।        
 bhaganetrabhidavyakto dakṣādhvaraharo haraḥ ॥12॥ {trans}
 
-Добрейший пастырь душам всем,
+Добрейший пастырь душам всем, 
 Неизменяемый совсем.
-Великий бог, в оленя цвет,
+Великий бог, в оленя цвет, 
 Обряд что Дакши свёл на нет.
 
 :::
 ::: stanza 13
-
 
 पूषदन्तभिदव्यग्रो सहस्राक्षस्सहस्रपात् ।       
 अपवर्गप्रदोऽनन्तस्तारकः परमेश्वरः ॥१३॥ {sans}
@@ -187,11 +185,12 @@ bhaganetrabhidavyakto dakṣādhvaraharo haraḥ ॥12॥ {trans}
 pūṣadantabhidavyagro sahasrākṣassahasrapāt ।        
 apavargaprado'nantastārakaḥ parameśvaraḥ ॥13॥ {trans}
 
-Тысяченог, тысячеглаз,
+Тысяченог, тысячеглаз, 
 у Пуши зуб, у Бхаги глаз
 Он выбил, сам хотя - покой...
 Спаситель, Бог Всевышний мой.
 
+:::
 
 ::: stanza 14
 
