@@ -1,15 +1,15 @@
 <template lang="pug">
 a.p-2.no-underline.transition-all.duration-300(
-  v-for="page in theme?.pages?.main"
-  :key= "page.link"
-  :href="page.link"
-  :class="{ active: route.path.includes(page.link) }"
+  v-for="page in pages['/']"
+  :key="page.path"
+  :href="page.path"
+  :class="{ active: route.path.includes(page.path) }"
 ) {{ page.title }} 
 </template>
 
 <script setup>
-import { useData, useRoute } from 'vitepress'
-const { theme, frontmatter } = useData();
+import { useRoute } from 'vitepress'
+import { pages } from '@theme/composables/pages'
 
 const route = useRoute();
 </script>

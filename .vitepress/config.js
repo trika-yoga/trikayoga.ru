@@ -1,11 +1,7 @@
-import getTags from "vitepress-tags";
-
 import mdLinks from "markdown-it-external-links";
 import mdClass from "markdown-it-classy";
 import mdSup from "markdown-it-sup";
 import mdContainer from "markdown-it-container";
-
-const pages = getTags("./");
 
 const meta = {
   title: "Трика йога",
@@ -52,10 +48,8 @@ export default {
     ["meta", { property: "og:description", content: meta.description }],
   ],
   themeConfig: {
-    nav: pages.main,
     repo: "",
     logo: "/img/sadvidya.svg",
-    pages,
   },
 
   markdown: {
@@ -90,8 +84,5 @@ export default {
         internalDomains: ["localhost", "trikayoga.ru"],
       });
     },
-  },
-  customData: {
-    pages,
   },
 };

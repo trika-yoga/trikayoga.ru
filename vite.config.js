@@ -6,6 +6,10 @@ import WindiCSS from "vite-plugin-windicss";
 import { ViteAliases } from "vite-aliases";
 import AutoImport from "unplugin-auto-import/vite";
 
+import Pages from "vite-plugin-pages";
+import { extendRoutes } from "vitepress-pages";
+import generateSitemap from 'vite-plugin-pages-sitemap'
+
 export default defineConfig({
   server: {
     port: 3333,
@@ -25,6 +29,17 @@ export default defineConfig({
       dir: ".vitepress/theme",
       deep: true,
       adjustDuplicates: true,
+    }),
+    Pages({
+      dirs: [
+        { dir: ".", baseRoute: "." },
+      ],
+      exclude: ['**/node_modules/**/*.*', '**/!(index).md'],
+      extensions: ['md'],
+      ...extendRoutes({
+        mediaTypes: {}
+      }),
+      onRoutesGenerated: routes => (generateSitemap({ routes, hostname: 'https://trikayoga.ru' })),
     }),
     Components({
       dirs: [".vitepress/theme/components", ".vitepress/comps"],

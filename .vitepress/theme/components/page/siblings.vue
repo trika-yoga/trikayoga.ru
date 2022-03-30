@@ -1,22 +1,26 @@
+<script setup>
+import { useSiblings, useParents } from '@theme/composables/pages'
+import { useRoute } from 'vitepress'
+
+const route = useRoute()
+
+const siblings = computed(() => useSiblings(route.path))
+const parents = computed(() => useParents(route.path))
+</script>
+
 <template lang="pug">
 .flex.flex-wrap.items-center.max-w-60ch.mx-auto.items-stretch
-  a.link(v-if="prev" :href="prev.link") 
+  a.link(v-if="siblings.prev" :href="siblings.prev.path") 
     carbon-arrow-left.mr-1
-    span {{ prev.title }}
-  a.link(v-if="parents[0]" :href="parents[0].link") 
+    span {{ siblings.prev.title }}
+  a.link(v-if="parents[0]" :href="parents[0].path") 
     carbon-arrow-up.mr-1
     span {{ parents[0].title }}
-  a.link(v-if="next" :href="next.link") 
+  a.link(v-if="siblings.next" :href="siblings.next.path") 
     carbon-arrow-right.mr-1
-    span {{ next.title }}
+    span {{ siblings.next.title }}
 </template>
 
-<script setup>
-import { useSiblings, useParents } from '../../composables/links.js'
-
-const { next, prev } = useSiblings();
-const parents = useParents();
-</script>
 
 <style  scoped>
 .link {

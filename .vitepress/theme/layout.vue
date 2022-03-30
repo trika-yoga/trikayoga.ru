@@ -1,3 +1,15 @@
+<script setup>
+import { useData, useRoute } from 'vitepress'
+const { site, frontmatter } = useData();
+import { langs } from './composables/langs.js'
+import { useFav } from './composables/favs.js'
+
+const { favs, mount } = useFav()
+
+const route = useRoute();
+</script>
+
+
 <template lang="pug">
 .page(
   :class=`{
@@ -22,24 +34,13 @@
         .max-w-xl.mx-auto.text-2xl.mb-4.text-center {{ frontmatter.trans }}
         .max-w-xl.mx-auto.text-xl.text-center {{ frontmatter.subtitle }}
       content
-      page-list(
-        v-if="frontmatter.list"
-      )
+      page-list(v-if="frontmatter.list")
   page-siblings(:key="route.path")
   page-footer
   panel-dock
 </template>
 
-<script setup>
-import { useData, useRoute } from 'vitepress'
-const { site, frontmatter } = useData();
-import { langs } from './composables/langs.js'
-import { useFav } from './composables/favs.js'
 
-const { favs, mount } = useFav()
-
-const route = useRoute();
-</script>
 
 <style scoped>
 .page {

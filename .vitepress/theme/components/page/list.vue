@@ -1,27 +1,29 @@
+<script setup>
+import { useRoute } from 'vitepress'
+import { pages } from '@theme/composables/pages'
+const route = useRoute()
+const list = computed(() => pages[route.path]);
+</script>
+
 <template lang="pug">
 .flex.flex-wrap.max-w-60ch.mx-auto
   a.card(
-    v-for="page in pages"
-    :key= "page.link"
-    :href="page.link"
+    v-for="page in list"
+    :key="page.path"
+    :href="page.path"
   ) 
     img.rounded(
       style="margin:  1rem 0"
-      v-if="page.data.cover"
-      :src="page.data.cover"
+      v-if="page.cover"
+      :src="page.cover"
     )
     .p-2.my-auto
       .text-xl.font-bold {{ page.title }}
-      .text-2xl.my-4.font-bold {{ page.data.sans }}
-      .text-xl.my-4.opacity-70 {{ page.data.trans }}
+      .text-2xl.my-4.font-bold {{ page.sans }}
+      .text-xl.my-4.opacity-70 {{ page.trans }}
       .text-sm {{ page.subtitle }}
 </template>
 
-<script setup>
-import { useData } from 'vitepress'
-const { frontmatter, theme } = useData();
-const pages = theme.value?.pages[frontmatter.value?.list];
-</script>
 
 <style scoped>
 .card {

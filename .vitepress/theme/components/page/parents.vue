@@ -1,15 +1,20 @@
+<script setup>
+import { useRoute } from 'vitepress'
+import { useParents } from '@theme/composables/pages'
+
+const route = useRoute()
+
+const parents = computed(() => useParents(route.path))
+</script>
+
 <template lang="pug">
 .inline-flex.flex-wrap.justify-start.items-stretch
-  a.link(v-for="page in parents", :key="page.title" :href="page.link") 
+  a.link(v-for="page in parents", :key="page.title" :href="page.path") 
     carbon-chevron-right.mr-1
     span {{ page.title }}
 </template>
 
-<script setup>
-import { useParents } from '../../composables/links.js'
 
-const parents = useParents();
-</script>
 
 <style  scoped>
 .link {
