@@ -96,6 +96,13 @@ en_books:
     ISBN: 81-208-1785-0
     link: https://www.amazon.com/Isvara-Pratyabhijna-Karika-Utplaladeva-Recognition/dp/8120817850
     year: 2004
+  - title: The Triadic Heart Of Siva
+    subtitle: Paul Eduardo Muller-Ortega
+    book: /books/Paul-Eduardo-Muller-Ortega-The-Triadic-Heart-of-Siva.pdf
+    author: Paul Eduardo Muller-Ortega
+    ISBN:  0887067875
+    link: https://www.amazon.com/Triadic-Heart-Siva-Tantricism-Abhinavagupta/dp/0887067875
+    year: 1988
   - title: Specific Principles Of Kashmir Saivism
     subtitle: Dr. B.N. Pandit
     book: /books/Specific Principles of Kashmir Saivism - B N Pandit.pdf
