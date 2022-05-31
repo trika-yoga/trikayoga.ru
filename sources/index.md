@@ -111,6 +111,11 @@ en_books:
     subtitle: Dr. B.N. Pandit
     book: /books/B.N._Pandit_History_of_Kashmir_Saivism.pdf
     year: 1990
+  - title: Body and Cosmology in Kashmir Saivism
+    subtitle: by Gavin D. Flood
+    book: /books/Body-and-Cosmology-in-Kashmir-Shaivism-Gavin-Fl.pdf
+    author: Gavin D. Flood
+    year: 1993
   - title: Saints and sages of Kashmir. Ancient and modern ascetics of Kashmir
     subtitle: by Kashmir News Network. 370 pages
     book: /books/saints.pdf
