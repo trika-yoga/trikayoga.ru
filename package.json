@@ -26,12 +26,12 @@
     "deploy": "sh deploy.sh"
   },
   "dependencies": {
-    "@vueuse/core": "8.5.0",
+    "@vueuse/core": "8.6.0",
     "vitepress-pages": "^0.8.5",
-    "vue": "^3.2.33"
+    "vue": "^3.2.36"
   },
   "devDependencies": {
-    "@iconify/json": "^2.1.44",
+    "@iconify/json": "^2.1.54",
     "markdown-it-classy": "^0.2.0",
     "markdown-it-container": "^3.0.0",
     "markdown-it-custom-short-codes": "^1.0.1",
@@ -39,16 +39,16 @@
     "markdown-it-sup": "^1.0.0",
     "patch-vue-directive-ssr": "^0.0.1",
     "pug": "3.0.2",
-    "unplugin-auto-import": "^0.7.1",
+    "unplugin-auto-import": "^0.8.6",
     "unplugin-icons": "^0.14.3",
-    "unplugin-vue-components": "^0.19.5",
+    "unplugin-vue-components": "^0.19.6",
     "vite": "^2.9.9",
     "vite-aliases": "0.9.2",
     "vite-plugin-pages": "^0.23.0",
     "vite-plugin-pages-sitemap": "^1.2.2",
     "vite-plugin-windicss": "^1.8.4",
     "vite-svg-loader": "^3.3.0",
-    "vitepress": "0.22.4",
-    "windicss": "3.5.3"
+    "vitepress": "^1.0.0-draft.8",
+    "windicss": "3.5.4"
   }
 }
