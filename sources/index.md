@@ -96,6 +96,12 @@ en_books:
     ISBN: 81-208-1785-0
     link: https://www.amazon.com/Isvara-Pratyabhijna-Karika-Utplaladeva-Recognition/dp/8120817850
     year: 2004
+  - title: The Doctrine of Vibration
+    subtitle: An analysis of the Doctrines and Practices of Kashmir Shaivism
+    book: /books/Mark_S_G_Dyczkowski_The_Doctrine_of_Vibration_b-ok_org.pdf
+    author: Mark S.G. Dyczkowski
+    ISBN: 81-208-0596-8
+    year: 1987
   - title: The Triadic Heart Of Siva
     subtitle: Paul Eduardo Muller-Ortega
     book: /books/Paul-Eduardo-Muller-Ortega-The-Triadic-Heart-of-Siva.pdf
