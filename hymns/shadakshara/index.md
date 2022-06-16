@@ -127,3 +127,6 @@ Yo guruḥ sarvadevānāṁ Yakaraya namo namaḥ ॥6॥ {trans}
 ## Вариант аккомпанемента
 Размер — ануштубх.
 ![Ануштубх](./Atma-shatakam-04.svg)
+
+
+<youtube-embed id="zOGMhh1rsvs" />

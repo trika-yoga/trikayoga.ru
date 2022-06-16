@@ -28,10 +28,10 @@
   "dependencies": {
     "@vueuse/core": "8.6.0",
     "vitepress-pages": "^0.8.5",
-    "vue": "^3.2.36"
+    "vue": "^3.2.37"
   },
   "devDependencies": {
-    "@iconify/json": "^2.1.54",
+    "@iconify/json": "^2.1.62",
     "markdown-it-classy": "^0.2.0",
     "markdown-it-container": "^3.0.0",
     "markdown-it-custom-short-codes": "^1.0.1",
@@ -39,16 +39,16 @@
     "markdown-it-sup": "^1.0.0",
     "patch-vue-directive-ssr": "^0.0.1",
     "pug": "3.0.2",
-    "unplugin-auto-import": "^0.8.6",
-    "unplugin-icons": "^0.14.3",
+    "unplugin-auto-import": "^0.8.8",
+    "unplugin-icons": "^0.14.4",
     "unplugin-vue-components": "^0.19.6",
-    "vite": "^2.9.9",
+    "vite": "^2.9.12",
     "vite-aliases": "0.9.2",
-    "vite-plugin-pages": "^0.23.0",
+    "vite-plugin-pages": "^0.24.1",
     "vite-plugin-pages-sitemap": "^1.2.2",
     "vite-plugin-windicss": "^1.8.4",
     "vite-svg-loader": "^3.3.0",
-    "vitepress": "^1.0.0-draft.8",
+    "vitepress": "^1.0.0-alpha.2",
     "windicss": "3.5.4"
   }
 }
