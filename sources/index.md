@@ -78,6 +78,12 @@ ru_books:
     book: /books/spanda-karika.pdf
 
 en_books:
+  - title: The Shiva Sutra of Vasugupta
+    subtitle: Sanskrit with Transliteration and English Translation
+    book: /books/eng-sk-shiva-sutra-gerard.pdf
+    ISBN: 978-90-78623-07-6
+    link: https://www.researchgate.net/publication/332494763_The_Shiva_Sutra_of_Vasugupta_Sanskrit_and_English_Translation
+    year: 2019
   - title: Tantrasara of Abhinavagupta.
     subtitle: H.N. Chakravarty, Boris Marjanovic. 283 pages
     book: /books/Tantrasara-of-Abhinavagupta.pdf
