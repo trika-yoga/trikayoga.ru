@@ -2,11 +2,6 @@
   "name": "trikayoga.ru",
   "version": "1.0.3",
   "description": "trika yoga resource base",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:trika-yoga/trikayoga.ru.git"
-  },
-  "main": "index.js",
   "keywords": [
     "trika",
     "yoga",
@@ -17,13 +12,18 @@
     "tantra",
     "yantra"
   ],
-  "author": "davay",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:trika-yoga/trikayoga.ru.git"
+  },
   "license": "ISC",
+  "author": "davay",
+  "main": "index.js",
   "scripts": {
-    "dev": "vitepress dev ",
     "build": "vitepress build ",
-    "serve": "vitepress serve --port 5050",
-    "deploy": "sh deploy.sh"
+    "deploy": "sh deploy.sh",
+    "dev": "vitepress dev ",
+    "serve": "vitepress serve --port 5050"
   },
   "dependencies": {
     "@vueuse/core": "8.6.0",
