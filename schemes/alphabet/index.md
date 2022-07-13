@@ -227,7 +227,7 @@ table td, table th {
 <td><i lang="sa-Latn">ha</i><br>[ɦ]
 </td></tr>
 <tr>
-<th>Нёбные <i>tālavya</i>
+<th>Нёбные <i lang="sa-Latn">tālavya</i>
 </th>
 <td ><span lang="und-Deva">च</span></td>
 <td><i lang="sa-Latn">ca</i><br>[t͜ɕ]
@@ -251,7 +251,7 @@ table td, table th {
 <td><i lang="sa-Latn">śa</i><br>[ɕ]
 </td></tr>
 <tr>
-<th>Головные <i>mūrdhanya</i> 
+<th>Головные <i lang="sa-Latn">mūrdhanya</i> 
 </th>
 <td ><span lang="und-Deva">ट</span></td>
 <td><i lang="sa-Latn">ṭa</i><br>[ʈ]
@@ -275,7 +275,7 @@ table td, table th {
 <td><i lang="sa-Latn">ṣa</i><br>[ʂ]
 </td></tr>
 <tr>
-<th>Зубные <i>dantya</i>
+<th>Зубные <i lang="sa-Latn">dantya</i>
 </th>
 <td ><span lang="und-Deva">त</span></td>
 <td><i lang="sa-Latn">ta</i><br>[t]
