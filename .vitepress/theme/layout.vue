@@ -26,16 +26,16 @@ const route = useRoute();
 
 
   transition(name="fade" mode="out-in" @after-enter="mount()")
-    .content(:key="route.path")
+    .content(:key="route?.path")
       header.mb-8
         page-parents
-        h1.text-4xl.font-bold.mb-8.text-center {{ frontmatter.title }}
-        .max-w-xl.mx-auto.sans.font-bold.mb-4.text-center {{ frontmatter.sans }}
-        .max-w-xl.mx-auto.text-2xl.mb-4.text-center {{ frontmatter.trans }}
-        .max-w-xl.mx-auto.text-xl.text-center {{ frontmatter.subtitle }}
+        h1.text-4xl.font-bold.mb-8.text-center {{ frontmatter?.title }}
+        .max-w-xl.mx-auto.sans.font-bold.mb-4.text-center {{ frontmatter?.sans }}
+        .max-w-xl.mx-auto.text-2xl.mb-4.text-center {{ frontmatter?.trans }}
+        .max-w-xl.mx-auto.text-xl.text-center {{ frontmatter?.subtitle }}
       content
-      page-list(v-if="frontmatter.list")
-  page-siblings(:key="route.path")
+      page-list(v-if="frontmatter?.list")
+  page-siblings(:key="route?.path")
   page-footer
   panel-dock
 </template>
@@ -46,10 +46,12 @@ const route = useRoute();
 .page {
   @apply text-center;
 }
+
 .header {
-  @apply bg-light-100 dark:bg-dark-600 pt-8 pb-4 mb-12 shadow-xl;
+  @apply bg-light-100 dark: bg-dark-600 pt-8 pb-4 mb-12 shadow-xl;
 }
+
 .content {
-  @apply px-3 sm:px-4 pb-16;
+  @apply px-3 sm: px-4 pb-16;
 }
 </style>

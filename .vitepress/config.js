@@ -54,7 +54,7 @@ export default {
 
   markdown: {
     config: (md) => {
-      md.use(mdClass);
+      // md.use(mdClass);
       md.use(mdSup);
       md.use(mdContainer, "sans", {
         marker: ";",

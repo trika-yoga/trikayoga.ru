@@ -1,6 +1,6 @@
 ---
 title: Свами Муктананда Парамахамса
-subtitle: 16 мая 1908 – 2 октября 1982
+subtitle: 16 мая 1908 – 2 октября 1982, Ганешпури
 sans: स्वामि मुक्तानन्द​
 trans: svāmi muktānanda
 tags: teachers
