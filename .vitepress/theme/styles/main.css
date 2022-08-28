@@ -35,7 +35,7 @@ body {
   h4,
   h5,
   h6,
-  p {
+  p, ul {
     @apply max-w-2xl mx-auto leading-relaxed my-4;
   }
   em {
@@ -52,7 +52,7 @@ body {
     @apply p-4;
   }
   li {
-    @apply leading-relaxed py-2;
+    @apply leading-relaxed py-2 list-inside text-left list-disc;
   }
   hr {
     @apply my-16 bg-dark-100/50 h-1px dark:bg-light-100/50 max-w-xl;
@@ -77,20 +77,20 @@ body {
 
 .sans,
 .sanskrt,
-.sanskrit {
+.sanskrit, [sans] {
   @apply text-4xl;
   font-family: 'Mukta';
 }
 
-.sans.big {
+.sans.big, [sans].big {
   @apply text-6xl font-bold mt-4;
 }
 
-.trans {
+.trans, [trans] {
   @apply text-dark-200/40 dark:text-light-300/40 text-2xl  leading-loose mb-2;
 }
 
-.eng {
+.eng, [eng] {
   @apply opacity-90 text-base;
 }
 
