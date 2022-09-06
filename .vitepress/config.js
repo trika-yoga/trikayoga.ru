@@ -18,6 +18,8 @@ export default {
   description: meta.description,
   lang: "ru",
   head: [
+    ["script", { async: true, defer: true, "data-website-id": "78d67b86-8879-4563-9052-6369f93c872c", src: "https://stats.defucc.me/umami.js" }],
+
     ["meta", { name: "author", content: meta.author }],
     ["meta", { name: "keywords", content: meta.tags }],
     ["link", { rel: "icon", type: "image/svg+xml", href: meta.icon }],
