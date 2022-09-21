@@ -126,6 +126,14 @@ en_books:
     ISBN: 81-208-1785-0
     link: https://www.amazon.com/Isvara-Pratyabhijna-Karika-Utplaladeva-Recognition/dp/8120817850
     year: 2004
+  - title: Kashmir Shaivism 
+    subtitle: The Secret Supreme
+    book: /books/en/Kashmir_Shaivism_Lakshman_Joo.pdf
+    author: Swami Lakshmanjoo
+  - title: The Aphorisms of Siva The Sivasutra
+    subtitle: With Bhaskara's Commentary, the Varttika
+    book: /books/en/The_Aphorisms_of_Siva_The_Sivasutra_With_Bhaskara_Commentary,_the_Varttika.pdf
+    author: Mark S.G. Dyczkowski
   - title: The Doctrine of Vibration
     subtitle: An analysis of the Doctrines and Practices of Kashmir Shaivism
     book: /books/Mark_S_G_Dyczkowski_The_Doctrine_of_Vibration_b-ok_org.pdf
@@ -139,16 +147,20 @@ en_books:
     ISBN:  0887067875
     link: https://www.amazon.com/Triadic-Heart-Siva-Tantricism-Abhinavagupta/dp/0887067875
     year: 1988
+  - title: Yoga of Kashmir Shaivism
+    subtitle: Consciousness is everything
+    book: /books/en/Yoga_of_Kashmir_Shaivism.pdf
+    author: Swami Shankarananda
+    year: 20063
   - title: Specific Principles Of Kashmir Saivism
-    subtitle: Dr. B.N. Pandit
+    author: Dr. B.N. Pandit
     book: /books/Specific Principles of Kashmir Saivism - B N Pandit.pdf
     year: 1997
   - title: History of Kashmir Shaivism
-    subtitle: Dr. B.N. Pandit
+    author: Dr. B.N. Pandit
     book: /books/B.N._Pandit_History_of_Kashmir_Saivism.pdf
     year: 1990
   - title: Body and Cosmology in Kashmir Saivism
-    subtitle: by Gavin D. Flood
     book: /books/Body-and-Cosmology-in-Kashmir-Shaivism-Gavin-Fl.pdf
     author: Gavin D. Flood
     year: 1993
