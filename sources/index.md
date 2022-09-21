@@ -76,6 +76,30 @@ ru_books:
   - title: Спанда карика.
     subtitle: Перевод с санскрита Ерченкова О.Н.
     book: /books/spanda-karika.pdf
+  - title: Древние тантрические техники йоги и крийи
+    subtitle: "Том 1. Вводный курс"
+    author: Свами Сатьянанда Сарасвати
+    book: /books/drevnie_tantricheskie_vvodniy.pdf
+    ISBN: 978-5-89533-283-2 
+    year: 2013
+  - title: Древние тантрические техники йоги и крийи
+    subtitle: "Том 2. Продвинутый курс"
+    author: Свами Сатьянанда Сарасвати
+    book: /books/drevnie_tantricheskie_prodvinutiy.pdf
+    ISBN: 978-5-89533-288-7
+    year: 2013
+  - title: Древние тантрические техники йоги и крийи
+    subtitle: "Том 3. Мастер-курс"
+    author: Свами Сатьянанда Сарасвати
+    book: /books/drevnie_tantricheskie_master.pdf
+    ISBN: 978-5-89533-289-4 
+    year: 2013
+  - title: Йога нидра
+    subtitle: Бихарская школа йоги, Мунгер
+    author: Свами Сатьянанда Сарасвати
+    book: /books/yoga_nidra.pdf
+    ISBN: 5-89395-145-X
+    year: 2001
 
 en_books:
   - title: The Shiva Sutra of Vasugupta
