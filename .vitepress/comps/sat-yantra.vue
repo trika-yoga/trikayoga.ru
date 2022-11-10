@@ -21,7 +21,7 @@ section.holder.max-w-60ch.mx-auto.my-16
 </template>
 
 <script setup>
-import vishva from '@composables/tattvas.js'
+import vishva from '#/composables/tattvas.js'
 const props = defineProps(['name', 'info', 'no-shadow']);
 
 const state = reactive({
@@ -108,6 +108,7 @@ object svg {
   transition: opacity 300ms ease;
   cursor: pointer;
 }
+
 .active,
 .active * {
   opacity: 1 !important;
@@ -117,7 +118,7 @@ object svg {
   opacity: 0.05;
 }
 
-#yantra-app > section {
+#yantra-app>section {
   position: relative;
   cursor: pointer;
 }

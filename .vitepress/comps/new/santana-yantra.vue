@@ -12,7 +12,7 @@
 </template>
 
 <script setup>
-import vishva from '@composables/tattvas.js'
+import vishva from '#/composables/tattvas.js'
 
 
 let active = null
@@ -80,7 +80,7 @@ function loaded() {
   --height: 90vh;
 }
 
-#santana > article {
+#santana>article {
   padding: 0;
 }
 

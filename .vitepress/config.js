@@ -58,12 +58,6 @@ export default {
     config: (md) => {
       // md.use(mdClass);
       md.use(mdSup);
-      md.use(mdContainer, "sans", {
-        marker: ";",
-      });
-      md.use(mdContainer, "trans", {
-        marker: ";",
-      });
       md.use(mdContainer, "stanza", {
         render: function (tokens, idx) {
           var m = tokens[idx].info.trim().match(/^stanza\s+(.*)$/);

@@ -125,10 +125,13 @@ a {
 }
 
 .no-sans .sans,
+.no-sans [sans],
 .no-trans .trans,
+.no-trans [trans],
 .no-words em,
 .no-eng .eng,
-.no-text p:not([class]) {
+.no-eng [eng],
+.no-text p:not([eng]) {
   @apply hidden;
 }
 

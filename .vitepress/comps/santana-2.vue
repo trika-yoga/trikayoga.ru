@@ -15,7 +15,7 @@
 
 <script setup>
 import santana from './santana.svg?component'
-import vishva from '@composables/tattvas.js'
+import vishva from '#/composables/tattvas.js'
 
 const state = reactive({
   active: false,
@@ -47,14 +47,16 @@ function close() {
 .container {
   @apply flex flex-col items-center max-w-60ch shadow-xl mx-auto cursor-pointer relative my-8;
 }
+
 .yantra {
-  @apply bg-light-100/30 dark:bg-light-100/10;
+  @apply bg-light-100/30 dark: bg-light-100/10;
 }
 
 * {
   transition: opacity 300ms ease;
   cursor: pointer;
 }
+
 .active,
 .active * {
   opacity: 1 !important;
@@ -65,7 +67,7 @@ function close() {
 }
 
 .overlay {
-  @apply p-2 sm:p-8 md:p-16;
+  @apply p-2 sm: p-8 md:p-16;
   display: flex;
   flex-flow: column;
   width: 100%;
