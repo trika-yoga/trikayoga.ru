@@ -5,6 +5,7 @@ sans: भगवन् नित्यानन्द
 trans: bhagavan nityānanda
 tags: teachers
 date: 2022-08-02
+cover: /img/teachers/nityananda-15.jpg
 ---
 
 [Wikipedia](https://en.wikipedia.org/wiki/Bhagawan_Nityananda)

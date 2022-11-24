@@ -5,6 +5,7 @@ sans: गब्रिएल् प्रदीपक
 trans: Gabriel Pradīpaka
 tags: teachers
 date: 2022-08-02
+cover: /img/teachers/pradiipaka-3.jpeg
 ---
 
 [Веб-сайт Габриеля Прадиипаки](https://www.sanskrit-trikashaivism.com/)

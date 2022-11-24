@@ -5,6 +5,7 @@ sans: स्वामि मुक्तानन्द​
 trans: svāmi muktānanda
 tags: teachers
 date: 2022-08-20
+cover: /img/teachers/muktananda-12.jpg
 ---
 
 Born Krishna Rai, was a yoga guru, the founder of Siddha Yoga. He was a disciple of Bhagavan Nityananda.
@@ -21,7 +22,7 @@ In 1956, Bhagawan Nityananda acknowledged the culmination of Muktananda's spirit
 
 In May 1982, Muktananda appointed two successors, Swami Chidvilasananda and her younger brother, Swami Nityananda, as joint leaders of Siddha Yoga. Nityananda later resigned and formed his own group.
 
-Muktananda died in October 1982. He is buried in his samādhi shrine in Gurudev Siddha Peeth in Ganeshpuri. 
+Muktananda died in October 1982. He is buried in his samādhi shrine in Gurudev Siddha Peeth in Ganeshpuri.
 
 ## Teaching and practice
 
@@ -30,7 +31,6 @@ Central to his teachings were to "See God in each other," and "Honor your Self. 
 According to Lola Williamson, Muktananda was known as a "shaktipat guru because kundalini awakening occurred so readily in his presence". Through Shaktipat Intensives participants were said to receive shaktipat initiation, the awakening of Kundalini Shakti that is said to reside within a person, and to deepen their practice of Siddha Yoga meditation. Historically, Shaktipat initiation had been reserved for the few who had done many years of spiritual service and practices; Muktananda offered this initiation to newcomers and yogis alike. There are several published accounts that describe the reception of shaktipat from Muktananda. Paul Zweig wrote one such account of receiving shaktipat from Muktananda. In Gurus of Modern Yoga, Andrea Jain, in her chapter on Muktananda, quotes an anonymous source, who describes his moment of shaktipat, when he was 19 years old, conferred by Muktananda with a wand of peacock feathers in 1975:
 
 > I almost jumped when the peacock feathers, firmly but with a soft weightiness, hit me repeatedly on my head, and then gently brushed my face as [Muktananda] [...] powerfully pressed one of his fingers into my forehead at a spot located just between my eyebrows [...] I'm honestly somewhat reluctant to write about what happened next because I know that whatever I say will inevitably diminish it, will make it sound as if it were just another "powerful experience." This was not an experience. This was THE event of my spiritual life. This was full awakening. This wasn't "knowing" anything, because you only know something that is separate from you. This was being: the Ultimate - a fountain of Light, a dancing, ever-new source. Utter freedom, utter joy [...] Completely fulfilled, completely whole, no limits to my power and love and light."
-
 
 [Wikipedia](https://en.wikipedia.org/wiki/Muktananda)
 

@@ -1,10 +1,11 @@
 ---
 title: Свами Лакшмана Джу Райна
 subtitle: 9 мая 1907 – 27 сентября 1991, Кашмир
-sans: स्वामि लक्ष्मण जू रैना 
-trans: svāmi lakṣmaṇa jū rainā 
+sans: स्वामि लक्ष्मण जू रैना
+trans: svāmi lakṣmaṇa jū rainā
 tags: teachers
 date: 2022-08-26
+cover: /img/teachers/lakshman-joo-10.jpg
 ---
 
 [Wikipedia](https://en.wikipedia.org/wiki/Lakshman_Joo)
@@ -53,7 +54,6 @@ Over a period of nineteen years John Hughes recorded Lakshman Joo's translations
 - Vijnana Bhairava: translation and commentary by Swami Lakshman Joo, original audio recordings (Kashmir, 1975).
 - Vijnana Bhairava Questions: Swami Lakshman Joo, original audio recordings (Kashmir, July 1985).
 
-
 ![](./lakshman-joo-2.jpg)
 ![](./lakshman-joo-3.png)
 ![](./lakshman-joo-4.jpg)
@@ -69,5 +69,3 @@ Over a period of nineteen years John Hughes recorded Lakshman Joo's translations
 ![](./lakshman-joo-14.jpg)
 ![](./lakshman-joo.jpg)
 ![](./laxmanjoo.jpg)
-
-
