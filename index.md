@@ -2,9 +2,9 @@
 title: Трика йога
 sans: त्रिक योग
 trans: trika yoga
-subtitle: Открытое собрание мантр, янтр, гимнов и священных текстов Кашмирского шиваизма (Трика)
+subtitle: Открытое собрание мантр, янтр, гимнов и священных текстов Кашмирского шиваизма (Трики)
 list: main
 nolangs: true
 ---
 
-![no-shadow](/img/trishula.svg 'Trishula - Трезубец Шивы')
+![no-shadow](/img/trishula.svg "Trishula - Трезубец Шивы")
