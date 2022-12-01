@@ -5,27 +5,25 @@ sans: नमस्ते अस्तु भगवन्
 trans: namaste astu bhagavan
 tags: mantra
 date: 2021-04-25
-
 ---
-
 
 :::stanza
 
-नमस्ते अस्तु भगवन् ।   
-विश्वेश्वराय महादेवाय ॥   
-त्र्यम्बकाय त्रिपुरान्तकाय ।   
-त्रिकालाग्निकालाय ॥    
-कालाग्नि रुद्राय ।   
-निलकण्ठाय मृत्युण्जयाय ॥   
+नमस्ते अस्तु भगवन् ।  
+विश्वेश्वराय महादेवाय ॥  
+त्र्यम्बकाय त्रिपुरान्तकाय ।  
+त्रिकालाग्निकालाय ॥  
+कालाग्नि रुद्राय ।  
+निलकण्ठाय मृत्युण्जयाय ॥  
 सर्वेश्वराय सदाशिवाय ।  
 श्रीमन्महादेवाय नमः ॥ {sans}
 
 namaste astu bhagavan ।  
-viśveśvarāya mahādevāya ॥   
+viśveśvarāya mahādevāya ॥  
 tryambakāya tripurāntakāya ।  
-trikālāgnikālāya ॥   
+trikālāgnikālāya ॥  
 kālāgni rudrāya ।  
-nilakaṇṭhāya mṛtyuṇjayāya ॥    
+nilakaṇṭhāya mṛtyuṇjayāya ॥  
 sarveśvarāya sadāśivāya ।  
 śrīmanmahādevāya namaḥ ॥ {trans}
 
@@ -37,4 +35,3 @@ sarveśvarāya sadāśivāya ।
 <audio-player title="Namaste astu Bhagavan" file="/audio/Shiva_-_Namaste_astu_Bhagavan_oum_ru.mp3" />
 
 <audio-player title="Rattan Mohan Sharma - Shiva prathana" file="/audio/Rattan_Mohan_Sharma_-_Shiva_Prarthana_oum_ru.mp3" />
-

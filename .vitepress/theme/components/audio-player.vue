@@ -5,6 +5,7 @@
     audio.rounded-xl.mx-auto(
       controls
       :src="file"
+      :loop="loop"
     )
 </template>
 
@@ -17,12 +18,16 @@ const props = defineProps({
   file: {
     type: String,
     default: ''
+  },
+  loop: {
+    type: Boolean,
+    default: true
   }
 });
 </script>
 
 <style scoped>
 .box {
-  @apply shadow-xl p-4 rounded-xl bg-light-300 dark:bg-dark-200;
+  @apply shadow-xl p-4 rounded-xl bg-light-300 dark: bg-dark-200;
 }
 </style>
