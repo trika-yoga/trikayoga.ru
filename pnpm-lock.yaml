@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@iconify/json': ^2.1.142
+  '@iconify/json': ^2.1.146
   '@vueuse/core': 9.6.0
   markdown-it-classy: ^0.2.0
   markdown-it-container: ^3.0.0
@@ -10,7 +10,7 @@ specifiers:
   markdown-it-sup: ^1.0.0
   patch-vue-directive-ssr: ^0.0.1
   pug: 3.0.2
-  unplugin-auto-import: ^0.11.5
+  unplugin-auto-import: ^0.12.0
   unplugin-icons: ^0.14.14
   unplugin-vue-components: ^0.22.11
   vite: 3.2.4
@@ -30,7 +30,7 @@ dependencies:
   vue: 3.2.45
 
 devDependencies:
-  '@iconify/json': 2.1.142
+  '@iconify/json': 2.1.146
   markdown-it-classy: 0.2.0
   markdown-it-container: 3.0.0
   markdown-it-custom-short-codes: 1.0.1
@@ -38,7 +38,7 @@ devDependencies:
   markdown-it-sup: 1.0.0
   patch-vue-directive-ssr: 0.0.1
   pug: 3.0.2
-  unplugin-auto-import: 0.11.5_@vueuse+core@9.6.0
+  unplugin-auto-import: 0.12.0_@vueuse+core@9.6.0
   unplugin-icons: 0.14.14
   unplugin-vue-components: 0.22.11_vue@3.2.45
   vite: 3.2.4
@@ -261,8 +261,8 @@ packages:
     requiresBuild: true
     optional: true
 
-  /@iconify/json/2.1.142:
-    resolution: {integrity: sha512-wTVti6wSp5ofWk7g7vWF+WDmC9ymI4PoNAGHQ0p4cGpNd04bMSS1DB+ptU8n6OqBg2T03kKEqRvG9PqjUiZSGA==}
+  /@iconify/json/2.1.146:
+    resolution: {integrity: sha512-wIGCtWvxNjWbHPOuJK1e7VaRn0EVrcpzTyC1TaSDRJFsBoGki9Z2NEPEPOS4VaEukh8MLHzLor1IMGgiLhfohg==}
     dependencies:
       '@iconify/types': 2.0.0
       pathe: 0.3.9
@@ -2197,8 +2197,8 @@ packages:
       - rollup
     dev: true
 
-  /unplugin-auto-import/0.11.5_@vueuse+core@9.6.0:
-    resolution: {integrity: sha512-nvbL2AQwLRR8wbHpJ6L1EBVNmjN045RSedTa4NtsGRkSQFXkI1iKHs4dTqJwcKZsnFrZOAKtLPiN1/oQTObLZw==}
+  /unplugin-auto-import/0.12.0_@vueuse+core@9.6.0:
+    resolution: {integrity: sha512-y1flixUHt0UioxeUwXe4N9GmIJskBz7uoC2qFGaUJO1feN9PYITHhRVqfXxYt7VAaZ24InNIeZIAIoQbRm3ZPw==}
     engines: {node: '>=14'}
     peerDependencies:
       '@vueuse/core': '*'
