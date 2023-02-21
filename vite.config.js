@@ -42,6 +42,7 @@ export default defineConfig({
       exclude: ['**/node_modules/**/*.*', '**/!(index).md'],
       extensions: ['md'],
       ...extendRoutes({
+        root: path.dirname(fileURLToPath(import.meta.url)),
         mediaTypes: {}
       }),
       onRoutesGenerated: routes => (generateSitemap({ routes, hostname: 'https://trikayoga.ru' })),
