@@ -1,6 +1,6 @@
 ---
 title: Шива сутра
-subtitle: Сутры о Благом
+description: Сутры о Благом
 sans: शिवसूत्रा
 trans: śivasūtrā
 tags: text

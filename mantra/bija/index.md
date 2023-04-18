@@ -1,6 +1,6 @@
 ---
 title: Биджа мантры
-subtitle: Семенные мантры
+description: Семенные мантры
 sans: बीजामन्त्
 trans: bīja-mantra
 tags: mantra

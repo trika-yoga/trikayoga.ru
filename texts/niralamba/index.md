@@ -1,6 +1,6 @@
 ---
 title: Нираламба упанишада
-subtitle: Наставление о безопорном
+description: Наставление о безопорном
 sans: निरालम्बोपनिषत्
 trans: nirālambopaniṣat
 tags: text

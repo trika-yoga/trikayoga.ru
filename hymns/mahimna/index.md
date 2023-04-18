@@ -1,6 +1,6 @@
 ---
 title: Шива махимна стотра
-subtitle: Гимн величия Шивы
+description: Гимн величия Шивы
 sans: पशिवमहिम्नः स्तोत्रम्
 trans: Śivamahimnaḥ stotram
 date: 2021-03-06

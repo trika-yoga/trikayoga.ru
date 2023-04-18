@@ -1,6 +1,6 @@
 ---
 title: 'Афоризм 11'
-subtitle: Шива сутра вимаршини. Глава 1.
+description: Шива сутра вимаршини. Глава 1.
 tags: vim-1
 sans: त्रितयभोक्ता वीरेशः
 trans: Tritayabhoktā vīreśaḥ

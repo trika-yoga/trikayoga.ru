@@ -1,8 +1,9 @@
 <script setup>
 import { useData, useRoute } from 'vitepress'
-const { site, frontmatter } = useData();
 import { langs } from './composables/langs.js'
 import { useFav } from './composables/favs.js'
+
+const { site, frontmatter } = useData();
 
 const { favs, mount } = useFav()
 
@@ -32,7 +33,7 @@ const route = useRoute();
         h1.text-4xl.font-bold.mb-8.text-center {{ frontmatter?.title }}
         .max-w-xl.mx-auto.sans.font-bold.mb-4.text-center {{ frontmatter?.sans }}
         .max-w-xl.mx-auto.text-2xl.mb-4.text-center {{ frontmatter?.trans }}
-        .max-w-xl.mx-auto.text-xl.text-center {{ frontmatter?.subtitle }}
+        .max-w-xl.mx-auto.text-xl.text-center {{ frontmatter?.description }}
       content
       page-list(v-if="frontmatter?.list")
   page-siblings(:key="route?.path")

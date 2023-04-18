@@ -1,6 +1,6 @@
 ---
 title: 'Афоризмы 8-10'
-subtitle: Шива сутра вимаршини. Глава 1.
+description: Шива сутра вимаршини. Глава 1.
 tags: vim-1
 sans: ज्ञानं जाग्रत्
 trans: Jñānaṁ jāgrat

@@ -1,6 +1,6 @@
 ---
 title: Махавакья
-subtitle: Великие изречения упанишад
+description: Великие изречения упанишад
 sans: महावाक्य
 trans: Mahāvākya
 tags: mantra

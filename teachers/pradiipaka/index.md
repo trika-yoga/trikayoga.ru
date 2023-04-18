@@ -1,6 +1,6 @@
 ---
 title: Габриель Прадиипака
-subtitle: 1964 г. – настоящее время, Москва
+description: 1964 г. – настоящее время, Москва
 sans: गब्रिएल् प्रदीपक
 trans: Gabriel Pradīpaka
 tags: teachers

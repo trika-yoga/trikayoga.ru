@@ -1,6 +1,6 @@
 ---
 title: Мула мантра
-subtitle: Коренная мантра
+description: Коренная мантра
 sans: मूल मन्त्र
 trans: mūla mantra
 tags: mantra

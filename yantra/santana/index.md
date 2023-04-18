@@ -1,6 +1,6 @@
 ---
 title: Сантана
-subtitle: Непрерывный поток
+description: Непрерывный поток
 sans: संतान
 trans: saṃtāna
 tags: yantra

@@ -6,7 +6,7 @@
         a.card.bg(:href="fav.link")
           .p-4.text-left
             .text-lg {{ fav.title }} 
-            .text-sm.mt-1 {{ fav.subtitle }}
+            .text-sm.mt-1 {{ fav.description }}
           .flex-1
           .p-2.font-bold.min-w-4rem.border-l-1 {{ fav.stanza }}
       button.button.bg.pl-6(@click="removeFav(fav.link)" ref="star" )
@@ -24,13 +24,15 @@ import { favs, removeFav } from '../../composables/favs.js'
 .row {
   @apply break-all rounded flex flex-wrap my-2 items-stretch gap-4;
 }
+
 .card {
   @apply rounded-lg text-xl flex items-center no-underline px-2;
 }
+
 .bg {
-  @apply transition-all duration-250 shadow-lg bg-light-100/50 dark:(bg-dark-100) hover:(bg-opacity-30);
+  @apply transition-all duration-250 shadow-lg bg-light-100/50 dark: (bg-dark-100) hover:(bg-opacity-30);
 }
+
 .button {
-  @apply p-3 outline-none rounded-lg ease-in  cursor-pointer opacity-70 hover:opacity-100;
-}
-</style>
+  @apply p-3 outline-none rounded-lg ease-in cursor-pointer opacity-70 hover: opacity-100;
+}</style>

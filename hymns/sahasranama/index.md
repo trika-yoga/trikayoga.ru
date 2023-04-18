@@ -1,6 +1,6 @@
 ---
 title: Шива сахасранама стотра
-subtitle: Тысяча восемь имён Шивы из Рудраямала-тантры
+description: Тысяча восемь имён Шивы из Рудраямала-тантры
 tags: hymn
 sans: श्री शिवसहस्रनामस्तोत्रम् रुद्रयामलतन्त्रन्तर्गत
 trans: śrī śivasahasranāmastotram rudrayāmalatantrantargata

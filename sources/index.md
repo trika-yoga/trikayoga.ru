@@ -1,7 +1,7 @@
 ---
 title: Источники
-subtitle: "Ссылки на ресурсы для дополнительного изучения, а также писания и исследования в формате электронных книг"
-tags: main
+description: "Ссылки на ресурсы для дополнительного изучения, а также писания и исследования в формате электронных книг"
+tags: main 
 date: 2021-04-01
 links:
   - title: Шайвавики
@@ -43,59 +43,59 @@ links:
 
 ru_books:
   - title: Утпаладева. Узнавание Ишвары
-    subtitle: Переводчик А. Орлов, издательство “Ганга”
+    description: Переводчик А. Орлов, издательство “Ганга”
     book: /books/Utpaladeva_-_Uznavanie_Ishvary.epub
     ISBN: 978-5-98882-069-7
     link: http://www.ozon.ru/context/detail/id/5681735/
     year: 2011
   - title: Ишвара-пратьябхиджня-карика Утпаладевы. Строфы об узнавании Бога
-    subtitle: Перевод с санскрита и комментарии Б.Н. Пандита. Перевод с английского Ананта Виджняна Даса
+    description: Перевод с санскрита и комментарии Б.Н. Пандита. Перевод с английского Ананта Виджняна Даса
     book: /books/ishvara-pratyabhijnya.pdf
     year: 2006
   - title: Кшемараджа. Шива-сутра вимаршини и Параправешика.
-    subtitle: Переводчик А. Орлов, издательство “Ганга”
+    description: Переводчик А. Орлов, издательство “Ганга”
     book: /books/Kshemaradzha-SHiva-sutra-vimarshini.pdf
     year: 2012
   - title: Шаттримшаттаттва сандоха
-    subtitle: Перевод, исследование и комментарии к Шаттримшаттаттва-сандохе В.П. Иванова в составе «Розенберговского сборника»
+    description: Перевод, исследование и комментарии к Шаттримшаттаттва-сандохе В.П. Иванова в составе «Розенберговского сборника»
     book: /books/SHattrimshattattva-sandoha.pdf
     year: 2014
   - title: Искусство как проводник. Кашмирский шиваизм. Абхинавагупта и Кшемараджа.
-    subtitle: Автор Наталья Исаева, Издательство Русской Христианской гуманитарной академии,
+    description: Автор Наталья Исаева, Издательство Русской Христианской гуманитарной академии,
     book: /books/Isaeva_Iskusstvo_kak_peovodnik.pdf
     ISBN: 978-5-88812-625-7
     link: http://www.ozon.ru/context/detail/id/25280699/
     year: 2014
   - title: Кашмирский шиваизм. Наслаждение и освобождение.
-    subtitle: Б.Н. Пандит. Перевод В.А. Дмитриевой.
+    description: Б.Н. Пандит. Перевод В.А. Дмитриевой.
     book: /books/B_N_Pandit_-_Kashmirskiy_Shivaizm_2010.pdf
     year: 2010
   - title: Паратришика-виварана Абхинавагупты. Тайны тантрического мистицизма.
-    subtitle: Джайдева Сингх при содействии Свами Лакшманджу.
+    description: Джайдева Сингх при содействии Свами Лакшманджу.
     book: /books/paratsrisika.pdf
   - title: Спанда карика.
-    subtitle: Перевод с санскрита Ерченкова О.Н.
+    description: Перевод с санскрита Ерченкова О.Н.
     book: /books/spanda-karika.pdf
   - title: Древние тантрические техники йоги и крийи
-    subtitle: "Том 1. Вводный курс"
+    description: "Том 1. Вводный курс"
     author: Свами Сатьянанда Сарасвати
     book: /books/drevnie_tantricheskie_vvodniy.pdf
     ISBN: 978-5-89533-283-2 
     year: 2013
   - title: Древние тантрические техники йоги и крийи
-    subtitle: "Том 2. Продвинутый курс"
+    description: "Том 2. Продвинутый курс"
     author: Свами Сатьянанда Сарасвати
     book: /books/drevnie_tantricheskie_prodvinutiy.pdf
     ISBN: 978-5-89533-288-7
     year: 2013
   - title: Древние тантрические техники йоги и крийи
-    subtitle: "Том 3. Мастер-курс"
+    description: "Том 3. Мастер-курс"
     author: Свами Сатьянанда Сарасвати
     book: /books/drevnie_tantricheskie_master.pdf
     ISBN: 978-5-89533-289-4 
     year: 2013
   - title: Йога нидра
-    subtitle: Бихарская школа йоги, Мунгер
+    description: Бихарская школа йоги, Мунгер
     author: Свами Сатьянанда Сарасвати
     book: /books/yoga_nidra.pdf
     ISBN: 5-89395-145-X
@@ -103,52 +103,52 @@ ru_books:
 
 en_books:
   - title: The Shiva Sutra of Vasugupta
-    subtitle: Sanskrit with Transliteration and English Translation
+    description: Sanskrit with Transliteration and English Translation
     book: /books/eng-sk-shiva-sutra-gerard.pdf
     ISBN: 978-90-78623-07-6
     link: https://www.researchgate.net/publication/332494763_The_Shiva_Sutra_of_Vasugupta_Sanskrit_and_English_Translation
     year: 2019
   - title: Tantrasara of Abhinavagupta.
-    subtitle: H.N. Chakravarty, Boris Marjanovic. 283 pages
+    description: H.N. Chakravarty, Boris Marjanovic. 283 pages
     book: /books/Tantrasara-of-Abhinavagupta.pdf
     ISBN: 0915801787
     link: https://www.amazon.com/Tantrasara-Abhinavagupta-H-N-Chakravarty/dp/0915801787
     year: 2012
   - title: The Ubiquitous Shiva. Somanandas Shivadrshti and his tantric Interlocutors
-    subtitle: by John Nemec. 436 pages
+    description: by John Nemec. 436 pages
     book: /books/John_Nemec_The_Ubiquitous_Siva_Somananda.pdf
     ISBN: 978-0-19-979545-1
     link: http://www.academia.edu/4425359/_THE_UBIQUITOUS_%C5%9AIVA._John_Nemec_
     year: 2011
   - title: Ishvara Pratyabhijna Karika of Utpaladeva. Verses on the Recognition of the Lord
-    subtitle: Translated by B.N. Pandit. 315 pages
+    description: Translated by B.N. Pandit. 315 pages
     book: /books/The_Isvara Pratyabhina Karika_Of_Utpaladeva_-_B.N._Pandit.pdf
     ISBN: 81-208-1785-0
     link: https://www.amazon.com/Isvara-Pratyabhijna-Karika-Utplaladeva-Recognition/dp/8120817850
     year: 2004
   - title: Kashmir Shaivism 
-    subtitle: The Secret Supreme
+    description: The Secret Supreme
     book: /books/en/Kashmir_Shaivism_Lakshman_Joo.pdf
     author: Swami Lakshmanjoo
   - title: The Aphorisms of Siva The Sivasutra
-    subtitle: With Bhaskara's Commentary, the Varttika
+    description: With Bhaskara's Commentary, the Varttika
     book: /books/en/The_Aphorisms_of_Siva_The_Sivasutra_With_Bhaskara_Commentary,_the_Varttika.pdf
     author: Mark S.G. Dyczkowski
   - title: The Doctrine of Vibration
-    subtitle: An analysis of the Doctrines and Practices of Kashmir Shaivism
+    description: An analysis of the Doctrines and Practices of Kashmir Shaivism
     book: /books/Mark_S_G_Dyczkowski_The_Doctrine_of_Vibration_b-ok_org.pdf
     author: Mark S.G. Dyczkowski
     ISBN: 81-208-0596-8
     year: 1987
   - title: The Triadic Heart Of Siva
-    subtitle: Paul Eduardo Muller-Ortega
+    description: Paul Eduardo Muller-Ortega
     book: /books/Paul-Eduardo-Muller-Ortega-The-Triadic-Heart-of-Siva.pdf
     author: Paul Eduardo Muller-Ortega
     ISBN:  0887067875
     link: https://www.amazon.com/Triadic-Heart-Siva-Tantricism-Abhinavagupta/dp/0887067875
     year: 1988
   - title: Yoga of Kashmir Shaivism
-    subtitle: Consciousness is everything
+    description: Consciousness is everything
     book: /books/en/Yoga_of_Kashmir_Shaivism.pdf
     author: Swami Shankarananda
     year: 20063
@@ -165,7 +165,7 @@ en_books:
     author: Gavin D. Flood
     year: 1993
   - title: Saints and sages of Kashmir. Ancient and modern ascetics of Kashmir
-    subtitle: by Kashmir News Network. 370 pages
+    description: by Kashmir News Network. 370 pages
     book: /books/saints.pdf
     year: 2007
 
@@ -183,7 +183,7 @@ video:
 ## Ресурсы в сети
 
 <list-links :links="$frontmatter.links" />
-
+ 
 :::
 
 ::: stanza

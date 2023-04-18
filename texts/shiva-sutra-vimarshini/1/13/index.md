@@ -1,6 +1,6 @@
 ---
 title: 'Афоризм 13'
-subtitle: Шива сутра вимаршини. Глава 1.
+description: Шива сутра вимаршини. Глава 1.
 sans: इच्छाशक्तिरुमा कुमारी
 trans: Icchāśaktirumā kumārī
 tags: vim-1

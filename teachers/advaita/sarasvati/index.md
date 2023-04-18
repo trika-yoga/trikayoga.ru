@@ -1,6 +1,6 @@
 ---
 title: Свами Сатьянанда Сарасвати
-subtitle: 24 декабря 1923, Алмора — 5 декабря 2009, Деогхар, Сантал-Паргана, Джаркханд, Индия
+description: 24 декабря 1923, Алмора — 5 декабря 2009, Деогхар, Сантал-Паргана, Джаркханд, Индия
 sans: स्वामी सत्यानन्द सरस्वती
 trans: svāmī satyānanda sarasvatī
 tags: advaita-teachers
@@ -8,25 +8,25 @@ cover: /img/teachers/Swami-Satyananda-H7,5cm_Q1.jpg
 date: 2022-06-30
 books:
   - title: Древние тантрические техники йоги и крийи
-    subtitle: "Том 1. Вводный курс"
+    description: "Том 1. Вводный курс"
     author: Свами Сатьянанда Сарасвати
     book: /books/drevnie_tantricheskie_vvodniy.pdf
     ISBN: 978-5-89533-283-2
     year: 2013
   - title: Древние тантрические техники йоги и крийи
-    subtitle: "Том 2. Продвинутый курс"
+    description: "Том 2. Продвинутый курс"
     author: Свами Сатьянанда Сарасвати
     book: /books/drevnie_tantricheskie_prodvinutiy.pdf
     ISBN: 978-5-89533-288-7
     year: 2013
   - title: Древние тантрические техники йоги и крийи
-    subtitle: "Том 3. Мастер-курс"
+    description: "Том 3. Мастер-курс"
     author: Свами Сатьянанда Сарасвати
     book: /books/drevnie_tantricheskie_master.pdf
     ISBN: 978-5-89533-289-4
     year: 2013
   - title: Йога нидра
-    subtitle: Бихарская школа йоги, Мунгер
+    description: Бихарская школа йоги, Мунгер
     author: Свами Сатьянанда Сарасвати
     book: /books/yoga_nidra.pdf
     ISBN: 5-89395-145-X

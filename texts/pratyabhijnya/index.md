@@ -1,6 +1,6 @@
 ---
 title: Пратьябхиджняхридаям
-subtitle: Сущность узнавания
+description: Сущность узнавания
 sans: प्रत्यभिज्ञाहृदयम्
 trans: Pratyabhijñāhṛdayam
 tags: text

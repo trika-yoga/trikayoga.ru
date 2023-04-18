@@ -1,6 +1,6 @@
 ---
 title: Намасте асту бхагаван
-subtitle: Приветствие Владыке
+description: Приветствие Владыке
 sans: नमस्ते अस्तु भगवन्
 trans: namaste astu bhagavan
 tags: mantra

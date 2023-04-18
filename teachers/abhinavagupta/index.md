@@ -1,6 +1,6 @@
 ---
 title: Абхинавагупта
-subtitle: ок. 950 – 1016, Кашмир
+description: ок. 950 – 1016, Кашмир
 sans: अभिनवगुप्त
 trans: abhinavagupta
 tags: teachers

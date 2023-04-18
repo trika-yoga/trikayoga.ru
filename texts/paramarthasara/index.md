@@ -1,6 +1,6 @@
 ---
 title: Парамартхасара
-subtitle: Суть Высшей Истины
+description: Суть Высшей Истины
 sans: परमार्थसार
 trans: Paramārthasāra
 tags: text

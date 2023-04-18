@@ -1,6 +1,6 @@
 ---
 title: 'Афоризм 14'
-subtitle: Шива сутра вимаршини. Глава 1.
+description: Шива сутра вимаршини. Глава 1.
 sans: दृश्यं शरीरम्
 trans: Dṛśyaṁ śarīram
 tags: vim-1

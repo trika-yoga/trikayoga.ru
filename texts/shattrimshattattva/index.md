@@ -1,6 +1,6 @@
 ---
 title: Шаттримшаттаттвасандоха
-subtitle: Собрание тридцати шести таттв
+description: Собрание тридцати шести таттв
 sans: षट्त्रिंशत्तत्त्वसन्दोह
 trans: Ṣaṭtriṁśattattvasandoha
 tags: text

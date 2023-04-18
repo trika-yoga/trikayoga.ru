@@ -1,6 +1,6 @@
 ---
 title: 'Афоризм 15'
-subtitle: Шива сутра вимаршини. Глава 1.
+description: Шива сутра вимаршини. Глава 1.
 sans: हृदये चित्तसङ्घट्टाद्दृश्यस्वापदर्शनम्
 trans: Hṛdaye cittasaṅghaṭṭāddṛśyasvāpadarśanam
 tags: vim-1

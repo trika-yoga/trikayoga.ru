@@ -1,6 +1,6 @@
 ---
 title: Свами Лакшмана Джу Райна
-subtitle: 9 мая 1907 – 27 сентября 1991, Кашмир
+description: 9 мая 1907 – 27 сентября 1991, Кашмир
 sans: स्वामि लक्ष्मण जू रैना
 trans: svāmi lakṣmaṇa jū rainā
 tags: teachers

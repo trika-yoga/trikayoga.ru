@@ -1,6 +1,6 @@
 ---
 title: Спанда карика
-subtitle: Строфы о Спанде
+description: Строфы о Спанде
 sans: स्पन्दकारिका
 trans: Spandakārikā
 toc: true

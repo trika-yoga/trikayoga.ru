@@ -1,6 +1,6 @@
 ---
 title: Пурнамадах Пурнамидам мантра
-subtitle: Мантра абсолютной полноты
+description: Мантра абсолютной полноты
 sans: पूर्णमदः पूर्णमिदं मंत्र
 trans: pūrṇamadaḥ pūrṇamidaṃ mantra
 tags: mantra

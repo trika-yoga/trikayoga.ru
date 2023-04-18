@@ -1,6 +1,6 @@
 ---
 title: Малини виджайоттара тантра
-subtitle: Фундаментальная тантра трики
+description: Фундаментальная тантра трики
 sans: मालिनीविजयोत्तरतन्त्र
 trans: mālinīvijayottaratantra
 tags: text

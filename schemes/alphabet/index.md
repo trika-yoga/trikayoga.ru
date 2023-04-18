@@ -1,6 +1,6 @@
 ---
 title: Санскритский алфавит
-subtitle: Varnamala
+description: Varnamala
 date: 2022-06-16
 ---
 

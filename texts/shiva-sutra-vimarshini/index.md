@@ -1,7 +1,7 @@
 ---
 title: 'Шива сутра вимаршини'
 toc: false
-subtitle: 'Прояснение Шива сутры'
+description: 'Прояснение Шива сутры'
 sans: शिवसूत्रविमर्शिनी
 trans: Śivasūtravimarśinī
 tags: text

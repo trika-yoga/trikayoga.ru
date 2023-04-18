@@ -5,7 +5,7 @@ date: 2021-01-02
 cover: /img/vishvam-unmilayati.svg
 sans: विश्वमुन्मीलयति 
 trans: viśvamunmīlayati
-subtitle: Раскрытие [глаз] Вселенной
+description: Раскрытие [глаз] Вселенной
 ---
 
 ![no-shadow](/img/vishvam-unmilayati.svg)

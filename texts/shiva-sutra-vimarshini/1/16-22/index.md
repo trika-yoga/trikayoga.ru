@@ -1,6 +1,6 @@
 ---
 title: 'Афоризмы 16—22'
-subtitle: Шива сутра вимаршини. Глава 1.
+description: Шива сутра вимаршини. Глава 1.
 sans: शुद्धतत्त्वसन्धानाद्वापशुशक्तिः
 trans: Śuddhatattvasandhānādvāpaśuśaktiḥ
 tags: vim-1

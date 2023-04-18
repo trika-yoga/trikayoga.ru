@@ -1,6 +1,6 @@
 ---
 title: 'Афоризм 12'
-subtitle: Шива сутра вимаршини. Глава 1.
+description: Шива сутра вимаршини. Глава 1.
 sans: विस्मयो योगभूमिकाः
 trans: Vismayo yogabhūmikāḥ
 tags: vim-1
