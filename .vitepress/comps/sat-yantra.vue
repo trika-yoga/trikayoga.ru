@@ -114,6 +114,7 @@ object svg {
   opacity: 1 !important;
 }
 
+
 .has-active :not(.active):not(g) {
   opacity: 0.05;
 }
@@ -125,7 +126,7 @@ object svg {
 
 .overlay {
   display: none;
-  color: #333;
+  color: #000;
   width: 100%;
   height: 100%;
   position: absolute;
@@ -135,7 +136,7 @@ object svg {
   transition: opacity 300ms ease;
   max-height: 100%;
   overflow-y: scroll;
-  background-color: hsla(0, 0%, 100%, 0.3);
+  background-color: hsla(0, 0%, 80%, 0.5);
 }
 
 .overlay .info {

@@ -26,13 +26,13 @@
 		"serve": "vitepress serve --port 5050"
 	},
 	"dependencies": {
-		"@vueuse/core": "10.0.2",
+		"@vueuse/core": "10.1.0",
 		"vitepress-pages": "^1.0.5",
 		"vue": "^3.2.47"
 	},
 	"devDependencies": {
-		"@iconify/json": "^2.2.51",
-		"@volar/vue-language-plugin-pug": "^1.2.0",
+		"@iconify/json": "^2.2.57",
+		"@volar/vue-language-plugin-pug": "^1.6.1",
 		"markdown-it-classy": "^0.2.0",
 		"markdown-it-container": "^3.0.0",
 		"markdown-it-custom-short-codes": "^1.0.1",
@@ -43,12 +43,12 @@
 		"unplugin-auto-import": "^0.15.3",
 		"unplugin-icons": "^0.16.1",
 		"unplugin-vue-components": "^0.24.1",
-		"vite": "4.2.2",
+		"vite": "4.3.3",
 		"vite-plugin-pages": "^0.29.0",
 		"vite-plugin-pages-sitemap": "^1.4.5",
 		"vite-plugin-windicss": "^1.8.10",
 		"vite-svg-loader": "^4.0.0",
-		"vitepress": "1.0.0-alpha.72",
+		"vitepress": "1.0.0-alpha.74",
 		"vue-demi": "^0.14.0",
 		"windicss": "3.5.6"
 	}
