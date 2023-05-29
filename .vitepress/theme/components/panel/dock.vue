@@ -50,20 +50,24 @@ const show = ref(false);
 .in-place {
   @apply fixed right-2 bottom-2;
 }
+
 .panel {
-  @apply flex flex-wrap p-1 gap-4 md:gap-2 sm:flex-col shadow items-center duration-300 rounded-xl transition-all opacity-50 bg-dark-900/30 dark:bg-dark-900 hover:(shadow-xl opacity-100);
+  @apply flex flex-wrap p-1 gap-4 md: gap-2 sm-flex-col shadow items-center duration-300 rounded-xl transition-all opacity-50 bg-dark-900/30 dark-bg-dark-900 hover-shadow-xl hover-opacity-100;
 }
+
 .btn {
-  @apply cursor-pointer leading-tight outline-none duration-100 p-2 md:(p-4) rounded-full transition-all transform  bg-light-100/10  hover:(bg-opacity-40);
+  @apply cursor-pointer leading-tight outline-none duration-100 p-2 md-p-4 rounded-full transition-all transform bg-light-100/10 hover-bg-opacity-40;
 }
+
 .shower {
-  @apply flex sm:flex-col gap-2;
+  @apply flex sm-flex-col gap-2;
 }
 
 .toggler {
   @apply border-dark-100 border-2 opacity-40;
-  &.active {
-    @apply opacity-100 border-light-100;
-  }
+}
+
+.toggler.active {
+  @apply opacity-100 border-light-100;
 }
 </style>

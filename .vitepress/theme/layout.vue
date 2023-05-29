@@ -49,7 +49,7 @@ const route = useRoute();
 }
 
 .header {
-  @apply bg-light-100 dark: bg-dark-600 pt-8 pb-4 mb-12 shadow-xl;
+  @apply bg-light-100 dark-bg-dark-600 pt-8 pb-4 mb-12 shadow-xl;
 }
 
 .content {

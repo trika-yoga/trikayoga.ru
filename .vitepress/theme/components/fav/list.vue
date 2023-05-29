@@ -30,9 +30,10 @@ import { favs, removeFav } from '../../composables/favs.js'
 }
 
 .bg {
-  @apply transition-all duration-250 shadow-lg bg-light-100/50 dark: (bg-dark-100) hover:(bg-opacity-30);
+  @apply transition-all duration-250 shadow-lg bg-light-100/50 dark-bg-dark-100 hover-bg-opacity-30;
 }
 
 .button {
   @apply p-3 outline-none rounded-lg ease-in cursor-pointer opacity-70 hover: opacity-100;
-}</style>
+}
+</style>

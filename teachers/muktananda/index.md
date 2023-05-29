@@ -8,6 +8,8 @@ date: 2022-08-20
 cover: /img/teachers/muktananda-12.jpg
 ---
 
+::: stanza
+
 Born Krishna Rai, was a yoga guru, the founder of Siddha Yoga. He was a disciple of Bhagavan Nityananda.
 
 ## Biography
@@ -24,6 +26,10 @@ In May 1982, Muktananda appointed two successors, Swami Chidvilasananda and her 
 
 Muktananda died in October 1982. He is buried in his samādhi shrine in Gurudev Siddha Peeth in Ganeshpuri.
 
+:::
+
+::: stanza
+
 ## Teaching and practice
 
 Central to his teachings were to "See God in each other," and "Honor your Self. Worship your Self. Meditate on your Self. God dwells within you as you." Muktananda often gave a shorter version of this teaching: "God dwells within you as you."
@@ -33,6 +39,8 @@ According to Lola Williamson, Muktananda was known as a "shaktipat guru because 
 > I almost jumped when the peacock feathers, firmly but with a soft weightiness, hit me repeatedly on my head, and then gently brushed my face as [Muktananda] [...] powerfully pressed one of his fingers into my forehead at a spot located just between my eyebrows [...] I'm honestly somewhat reluctant to write about what happened next because I know that whatever I say will inevitably diminish it, will make it sound as if it were just another "powerful experience." This was not an experience. This was THE event of my spiritual life. This was full awakening. This wasn't "knowing" anything, because you only know something that is separate from you. This was being: the Ultimate - a fountain of Light, a dancing, ever-new source. Utter freedom, utter joy [...] Completely fulfilled, completely whole, no limits to my power and love and light."
 
 [Wikipedia](https://en.wikipedia.org/wiki/Muktananda)
+
+:::
 
 ![](./muktananda-1.jpg)
 ![](./muktananda-2.jpg)

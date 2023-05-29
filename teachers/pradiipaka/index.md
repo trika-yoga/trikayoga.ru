@@ -8,6 +8,7 @@ date: 2022-08-02
 cover: /img/teachers/pradiipaka-3.jpeg
 ---
 
+::: stanza
 [Веб-сайт Габриеля Прадиипаки](https://www.sanskrit-trikashaivism.com/)
 
 **Spiritual name:** Pradīpaka (lit. "the one who sheds light", i.e. the one who sheds light on the secret meanings of the scriptures).
@@ -25,6 +26,8 @@ In February of 2016, he founded the Parabhairavayoga, a brandnew spiritual movem
 In short, he is a spiritual guru, conversant with Sanskrit language and Trika philosophy, who sheds light on spirituality as a whole and helps spiritual aspirants out with the process known as Self-realization or Final Liberation.
 
 **Studies:** Sanskrit, Trika (Non-dual Shaivism of Kashmir), Tantra, Patañjali's Yoga, Sāṅkhya, Vedānta, Vedic rituals, etc. Anyway, his specialty is Trika and Sanskrit. He has been learning/teaching Trika and Sanskrit in depth since 1989.
+
+:::
 
 ![](./pradiipaka-1.jpeg)
 ![](./pradiipaka-2.jpeg)

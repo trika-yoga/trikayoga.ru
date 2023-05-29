@@ -3,14 +3,18 @@ import mdClass from "markdown-it-classy";
 import mdSup from "markdown-it-sup";
 import mdContainer from "markdown-it-container";
 
+const isProd = process.env.NODE_ENV === "production";
+const site = isProd ? "https://trikayoga.ru/" : "http://localhost:3333";
+
 const meta = {
   title: "Трика йога",
   description:
     "Открытое собрание мантр, янтр и писаний Трика йоги и Кашмирского шиваизма",
-  author: "Denis Starov",
+  author: "davay42",
   tags: "трика, йога, мантра, янтра, тантра, священные писания, шива, шива-сутра, бхайрава",
   icon: "/img/sadvidya.svg",
   site: "www.trikayoga.ru",
+  image: '/img/trishula.png'
 };
 
 export default {
@@ -35,20 +39,30 @@ export default {
     ["meta", { name: "MobileOptimized", content: "320" }],
     ["meta", { name: "theme-color", content: "#ffff00" }],
 
-    ["meta", { name: "twitter:card", content: "summary_large_image" }],
-    ["meta", { name: "twitter:site", content: meta.site }],
-    ["meta", { name: "twitter:title", value: meta.title }],
-    ["meta", { name: "twitter:description", value: meta.description }],
-    ["meta", { name: "twitter:image", content: meta.icon }],
-
     ["meta", { property: "og:type", content: "website" }],
-    ["meta", { property: "og:locale", content: "en-EN" }],
+    ["meta", { property: "og:locale", content: "ru-RU" }],
     ["meta", { property: "og:site", content: meta.site }],
     ["meta", { property: "og:site_name", content: meta.title }],
-    ["meta", { property: "og:title", content: meta.title }],
-    ["meta", { property: "og:image", content: meta.icon }],
-    ["meta", { property: "og:description", content: meta.description }],
   ],
+  transformHead(ctx) {
+    const url = ctx.pageData.relativePath.split('index.md')[0]
+    let image = meta?.image
+    if (ctx.pageData.frontmatter?.cover) {
+      image = 'media_files/cover/' + url.split('/').join('-') + ctx.pageData.frontmatter?.cover
+    }
+    return [
+      ['meta', { property: 'og:title', content: ctx.pageData?.title + ' | Трика йога' }],
+      ['meta', { property: 'og:description', content: ctx.pageData?.description }],
+      ['meta', { property: 'og:url', content: site + url }],
+      ['meta', { property: 'og:image', content: site + image }],
+      ['meta', { name: 'twitter:title', content: ctx.pageData.title + ' | Трика йога' }],
+      ['meta', { name: 'twitter:description', content: ctx.pageData.description }],
+      ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+      ['meta', { name: 'twitter:site', content: `@${meta?.author}` }],
+      ['meta', { name: 'twitter:creator', content: `@${meta?.author}` }],
+      ['meta', { name: 'twitter:image', content: site + image }],
+    ]
+  },
   themeConfig: {
     repo: "",
     logo: "/img/sadvidya.svg",

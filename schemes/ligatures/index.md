@@ -90,7 +90,7 @@ tags: scheme
 }
 
 .only-ligatures td:nth-child(odd) {
-  @apply bg-light-500 dark:bg-dark-800;
+  @apply bg-light-500 dark-bg-dark-800;
 }
 
 .megatable {
@@ -100,13 +100,13 @@ tags: scheme
     position: relative;
 }
 .megatable tr:first-child {
-  @apply bg-light-100 dark:bg-dark-100;
+  @apply bg-light-100 dark-bg-dark-100;
   position: sticky;
   top: 0;
 }
 
 .megatable td:first-child {
-  @apply bg-light-100 dark:bg-dark-100;
+  @apply bg-light-100 dark-bg-dark-100;
   position: sticky;
   left: 0;
 }

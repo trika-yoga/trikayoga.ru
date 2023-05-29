@@ -49,7 +49,7 @@ function close() {
 }
 
 .yantra {
-  @apply bg-light-100/30 dark: bg-light-100/10;
+  @apply bg-light-100/30 dark-bg-light-100/10;
 }
 
 * {

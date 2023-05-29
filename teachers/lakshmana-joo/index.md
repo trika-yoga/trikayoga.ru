@@ -8,6 +8,9 @@ date: 2022-08-26
 cover: /img/teachers/lakshman-joo-10.jpg
 ---
 
+
+::: stanza 
+
 [Wikipedia](https://en.wikipedia.org/wiki/Lakshman_Joo)
 
 He was known as Lal Sahib ("Friend of God") by followers.
@@ -25,6 +28,10 @@ Little was known about the Swami for almost three decades (1930-1960), as it was
 It was a few years later, in 1965, after attending a Sanskrit conference in Varanasi, chaired by the renowned Sanskrit Tantra scholar Gopinath Kaviraj, that the word quickly spread that the tradition of Kashmir Shaivism was alive and well, and fully embodied in the person of Swami Lakshman Joo. Maharishi Mahesh Yogi visited the Swami each summer from 1966 to 1969. The two saints formed a lasting relationship. Baba Muktananda, of Siddha Yoga also visited on two occasions. Until his death in 1991, Swami Lakshmanjoo freely taught, giving weekly lectures on the mystical and philosophical texts of Kashmir Shaivism. Many of these lectures were audio recorded by John Hughes and later published. Lakshman Joo's interpretation of Kashmir Shavism attracted the attention of both Indian and western Indologists. The Swami has correspondence with Professor Giuseppe Tucci of the University of Rome La Sapienza, and his regular visitors included scholars, such as, Jaideva Singh, Professor Nilkanth Gurtoo, Acharya Rameshwar Jha, Jankinath Kaul "Kamal", Raniero Gnoli, Alexis Sanderson and Mark Dyczkowski.
 
 In 1991 the Swami traveled to the United States and established the Universal Shaiva Fellowship where he designated John Hughes and his wife Denise to continue publishing his teachings of Kashmir Shaivism. In India the teachings of Lakshman Joo are carried on by Ishwar Ashram Trust, an organisation founded shortly after his death.
+
+:::
+
+::: stanza
 
 ## Kashmir Shaivism – Library
 
@@ -53,6 +60,8 @@ Over a period of nineteen years John Hughes recorded Lakshman Joo's translations
 - Vatulanath Sutras of Kshemaraja: Swami Lakshman joo, original audio recordings (Kashmir, 1975).
 - Vijnana Bhairava: translation and commentary by Swami Lakshman Joo, original audio recordings (Kashmir, 1975).
 - Vijnana Bhairava Questions: Swami Lakshman Joo, original audio recordings (Kashmir, July 1985).
+
+:::
 
 ![](./lakshman-joo-2.jpg)
 ![](./lakshman-joo-3.png)
