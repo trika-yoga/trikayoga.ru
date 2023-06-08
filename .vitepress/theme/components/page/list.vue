@@ -1,27 +1,28 @@
 <script setup>
 import { useRoute } from 'vitepress'
-import { pages } from '@theme/composables/pages'
+import { usePages, cleanLink } from 'vitepress-pages';
+import { data } from '../../../../pages.data';
 const route = useRoute()
-const list = computed(() => pages[route.path]);
+const { children } = usePages(route, data)
 </script>
 
 <template lang="pug">
 .flex.flex-wrap.max-w-60ch.mx-auto
   a.card(
-    v-for="page in list"
-    :key="page.path"
-    :href="page.path"
-  ) 
+    v-for="page in children"
+    :key="page.url"
+    :href="page.url"
+    ) 
     img.rounded(
       style="margin:  1rem 0"
-      v-if="page.cover"
-      :src="page.cover"
+      v-if="page.frontmatter?.cover"
+      :src="page.frontmatter?.cover"
     )
     .p-2.my-auto
-      .text-xl.font-bold {{ page.title }}
-      .text-2xl.my-4.font-bold {{ page.sans }}
-      .text-xl.my-4.opacity-70 {{ page.trans }}
-      .text-sm {{ page.description }}
+      .text-xl.font-bold {{ page.frontmatter?.title }}
+      .text-2xl.my-4.font-bold {{ page.frontmatter?.sans }}
+      .text-xl.my-4.opacity-70 {{ page.frontmatter?.trans }}
+      .text-sm {{ page.frontmatter?.description }}
 </template>
 
 

@@ -4,10 +4,6 @@ import Icons from "unplugin-icons/vite";
 import IconsResolver from "unplugin-icons/resolver";
 import AutoImport from "unplugin-auto-import/vite";
 
-import Pages from "vite-plugin-pages";
-import { extendRoutes } from "vitepress-pages";
-import generateSitemap from 'vite-plugin-pages-sitemap'
-
 import Unocss from 'unocss/vite'
 import { transformerDirectives, presetIcons, presetUno, extractorSplit } from 'unocss'
 import extractorPug from '@unocss/extractor-pug'
@@ -34,21 +30,6 @@ export default defineConfig({
         /\.vue\??/, // .vue
       ],
       imports: ["vue"],
-    }),
-    svgLoader({
-      svgo: false,
-    }),
-    Pages({
-      dirs: [
-        { dir: ".", baseRoute: "." },
-      ],
-      exclude: ['**/node_modules/**/*.*', '**/!(index).md'],
-      extensions: ['md'],
-      ...extendRoutes({
-        root: path.dirname(fileURLToPath(import.meta.url)),
-        mediaTypes: {}
-      }),
-      onRoutesGenerated: routes => (generateSitemap({ routes, hostname: 'https://trikayoga.ru' })),
     }),
     Components({
       dirs: [".vitepress/theme/components", ".vitepress/comps"],
@@ -84,6 +65,9 @@ export default defineConfig({
         extractorPug()
       ]
     }),
+    // svgLoader({
+    //   svgo: false,
+    // }),
   ],
   optimizeDeps: {
     include: ["vue"],
@@ -98,31 +82,31 @@ export default defineConfig({
   },
 });
 
-const { extname } = require("path");
-const fs = require("fs").promises;
-const { compileTemplate } = require("@vue/compiler-sfc");
+// import { extname } from "node:path"
+// import fs from 'node:fs';
+// import { compileTemplate } from "@vue/compiler-sfc"
 
-function svgLoader(options = {}) {
-  const { svgoConfig, svgo } = options;
+// function svgLoader(options = {}) {
+//   const { svgoConfig, svgo } = options;
 
-  return {
-    name: "svg-loader",
-    enforce: "pre",
+//   return {
+//     name: "svg-loader",
+//     enforce: "pre",
 
-    async load(id) {
-      const [path, parameter] = id.split("?");
+//     async load(id) {
+//       const [path, parameter] = id.split("?");
 
-      if (extname(path).startsWith(".svg") && parameter === "component") {
-        const svg = await fs.readFile(path, "utf-8");
+//       if (extname(path).startsWith(".svg") && parameter === "component") {
+//         const svg = await fs.readFile(path, "utf-8");
 
-        const { code } = compileTemplate({
-          id: JSON.stringify(id),
-          source: svg,
-          transformAssetUrls: false,
-        });
+//         const { code } = compileTemplate({
+//           id: JSON.stringify(id),
+//           source: svg,
+//           transformAssetUrls: false,
+//         });
 
-        return `${code}\nexport default render`;
-      }
-    },
-  };
-}
+//         return `${code}\nexport default render`;
+//       }
+//     },
+//   };
+// }

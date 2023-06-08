@@ -1,18 +1,23 @@
-<template lang="pug">
-a.p-2.no-underline.transition-all.duration-300(
-  v-for="page in pages['/']"
-  :key="page.path"
-  :href="page.path"
-  :class="{ active: route.path.includes(page.path) }"
-) {{ page.title }} 
-</template>
-
 <script setup>
 import { useRoute } from 'vitepress'
-import { pages } from '@theme/composables/pages'
+import { data } from '../../../../pages.data';
+import { usePages, cleanLink } from 'vitepress-pages';
 
-const route = useRoute();
+const route = useRoute()
+
+const { children } = usePages({ path: '/' }, data)
 </script>
+
+<template lang="pug">
+a.p-2.no-underline.transition-all.duration-300(
+  v-for="page in children"
+  :key="page.url"
+  :href="page.url"
+  :class="{ active: route.path.includes(cleanLink(page.url)) }"
+) {{ page.frontmatter?.title }} 
+</template>
+
+
   
 <style scoped>
 .active {

@@ -15,7 +15,7 @@
 
 <script setup>
 import santana from './santana.svg?component'
-import vishva from '#/composables/tattvas.js'
+import vishva from '../theme/composables/tattvas.js'
 
 const state = reactive({
   active: false,
