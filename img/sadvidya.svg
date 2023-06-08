@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 175.907 175.907">
+  <defs>
+    <style>.a{fill:none;}.b{fill:#ffce03;}.c{fill:#f6e81e;}.d{clip-path:url(#a);}.e{fill:#fff;}</style>
+    <clipPath id="a" transform="translate(-53.776 -53.776)">
+      <polygon class="a" points="65.457 185.885 141.73 53.776 218.003 185.885 65.457 185.885"></polygon>
+    </clipPath>
+  </defs>
+  <title>sadvidya</title>
+  <circle class="b" cx="87.954" cy="87.954" r="87.954"></circle>
+  <path class="c" d="M141.73,53.776A152.314,152.314,0,0,0,65.6,185.531a152.276,152.276,0,0,0,152.263.018A152.315,152.315,0,0,0,141.73,53.776Z" transform="translate(-53.776 -53.776)"></path>
+  <g class="d">
+    <rect class="e" x="64.728" y="53.776" width="153.901" height="134.306" transform="translate(229.581 188.082) rotate(180)"></rect>
+  </g>
+</svg>

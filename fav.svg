@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img"
+  class="iconify iconify--la" width="32" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32">
+  <style>
+    .star {
+      fill: #ffce03;
+    }
+  </style>
+  <path class="star"
+    d="M30.336 12.547l-10.172-1.074L16 2.133l-4.164 9.34l-10.172 1.074l7.598 6.848L7.14 29.398L16 24.29l8.86 5.11l-2.122-10.004z">
+  </path>
+</svg>
