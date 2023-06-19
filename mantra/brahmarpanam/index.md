@@ -13,8 +13,8 @@ date: 2021-06-01
 ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्म्मसमाधिना ॥ {sans}
 
 
-brahmārpaṇaṁ brahma-havir brahmagnau brahmaṇā hutam ।      
-brahmaiva tena gantavyaṁ brahma-karma-samādhinā ॥ {trans}
+brahmārpaṇaṃ brahmahavirbrahmāgnau brahmaṇā hutam |     
+brahmaiva tena gantavyaṃ brahmakarmmasamādhinā ||  {trans}
 
 Брахман - жертвенный сосуд, Брахман - жертвенное подношение, Брахман - огонь, в который приносится жертва,     
 [самим] Брахманом совершается жертвоприношение. Воистину Брахмана достигает тот, кто совершает это сосредоточение на Брахмане. 
