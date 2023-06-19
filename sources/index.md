@@ -14,6 +14,12 @@ links:
     url: https://www.learnsanskrit.cc/
   - title: Санскритско-английский словарь
     url: https://sanskritdictionary.com/
+  - title: Онлайн транслитерация санскрита
+    url: https://www.lexilogos.com/keyboard/sanskrit_conversion.htm
+  - title: Словари санскрита онлайн + материалы
+    url: https://www.lexilogos.com/english/sanskrit_dictionary.htm
+  - title: Собрание транслитерированных санскритских текстов
+    url: http://www.sanskrit-linguistics.org/dcs/index.php?contents=texte
   - title: Словарь Монье-Вильямса онлайн
     url: https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc2/index.php
   - title: Интерактивный словарь санскрита
