@@ -20,6 +20,8 @@ jobs:
           node-version: 16
 
       - uses: pnpm/action-setup@v2
+        with:
+          version: 8.6.2
 
       - name: Build project
         run: pnpm run build
