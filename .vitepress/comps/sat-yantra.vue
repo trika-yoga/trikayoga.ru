@@ -21,7 +21,7 @@ section.holder.max-w-60ch.mx-auto.my-16
 </template>
 
 <script setup>
-import vishva from '#/composables/tattvas.js'
+import vishva from '../../db/vishva'
 const props = defineProps(['name', 'info', 'no-shadow']);
 
 const state = reactive({

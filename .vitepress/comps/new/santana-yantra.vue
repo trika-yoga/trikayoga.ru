@@ -12,7 +12,7 @@
 </template>
 
 <script setup>
-import vishva from '#/composables/tattvas.js'
+import vishva from '../../../db/vishva'
 
 
 let active = null
