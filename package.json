@@ -27,14 +27,14 @@
 		"serve": "vitepress serve --port 5050"
 	},
 	"dependencies": {
-		"@unocss/reset": "0.54.1",
-		"@vueuse/core": "10.3.0",
+		"@unocss/reset": "0.55.3",
+		"@vueuse/core": "10.4.0",
 		"vitepress-pages": "2.0.1",
 		"vue": "^3.3.4"
 	},
 	"devDependencies": {
-		"@iconify/json": "^2.2.99",
-		"@unocss/extractor-pug": "^0.54.1",
+		"@iconify/json": "^2.2.106",
+		"@unocss/extractor-pug": "^0.55.3",
 		"@vue/language-plugin-pug": "1.8.8",
 		"markdown-it-container": "^3.0.0",
 		"markdown-it-custom-short-codes": "^1.0.1",
@@ -42,12 +42,12 @@
 		"markdown-it-sup": "^1.0.0",
 		"pug": "3.0.2",
 		"sitemap": "^7.1.1",
-		"unocss": "^0.54.1",
+		"unocss": "^0.55.3",
 		"unplugin-auto-import": "^0.16.6",
 		"unplugin-icons": "^0.16.5",
 		"unplugin-vue-components": "^0.25.1",
 		"vite": "4.4.9",
 		"vite-svg-loader": "^4.0.0",
-		"vitepress": "1.0.0-beta.7"
+		"vitepress": "1.0.0-rc.4"
 	}
 }
