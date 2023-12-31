@@ -59,7 +59,7 @@ body {
 	@apply font-bold text-xl my-4;
 }
 .content hr {
-	@apply my-16 bg-dark-100/50 h-1px dark-bg-light-100/50 max-w-xl;
+	@apply my-16 mx-auto bg-dark-100/50 h-1px dark-bg-light-100/50 max-w-xl;
 }
 .content img {
 	scroll-snap-align: start;
