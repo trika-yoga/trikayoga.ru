@@ -71,42 +71,5 @@ export default defineConfig({
   ],
   optimizeDeps: {
     include: ["vue"],
-  },
-  build: {
-    chunkSizeWarningLimit: 800,
-    rollupOptions: {
-      output: {
-        manualChunks: {},
-      },
-    },
-  },
+  }
 });
-
-// import { extname } from "node:path"
-// import fs from 'node:fs';
-// import { compileTemplate } from "@vue/compiler-sfc"
-
-// function svgLoader(options = {}) {
-//   const { svgoConfig, svgo } = options;
-
-//   return {
-//     name: "svg-loader",
-//     enforce: "pre",
-
-//     async load(id) {
-//       const [path, parameter] = id.split("?");
-
-//       if (extname(path).startsWith(".svg") && parameter === "component") {
-//         const svg = await fs.readFile(path, "utf-8");
-
-//         const { code } = compileTemplate({
-//           id: JSON.stringify(id),
-//           source: svg,
-//           transformAssetUrls: false,
-//         });
-
-//         return `${code}\nexport default render`;
-//       }
-//     },
-//   };
-// }
