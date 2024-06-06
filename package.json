@@ -26,6 +26,7 @@
 		"dev": "vitepress dev ",
 		"serve": "vitepress serve --port 5050"
 	},
+	"packageManager": "pnpm@9.0.4",
 	"dependencies": {
 		"@unocss/reset": "^0.60.3",
 		"@vueuse/core": "^10.9.0",
