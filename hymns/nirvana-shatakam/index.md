@@ -164,9 +164,9 @@ I am (Shiva) the auspiciousness.   {eng}
 
 
 
-<audio-player title="Nirvana Shatkam Chant" file="/audio/Nirvana_Shatakam_Chant.mp3" />
+<audio-player title="Nirvana Shatkam Chant" file="/audio/Nirvana_Shatkam_Chant.mp3" />
 
-<audio-player title="Nirvana Shatkam Sing" file="/audio/Nirvana_Shatkam.mp3" />
+<audio-player title="Nirvana Shatkam - Gopika" file="/audio/Nirvana_Shatkam_Gopika.mp3" />
 
 :::
 ::: stanza
