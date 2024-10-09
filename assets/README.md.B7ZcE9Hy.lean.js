@@ -1,1 +1,0 @@
-import{_ as a,d as e,c as t,g as i}from"./chunks/framework.GTYrCuXB.js";const u=JSON.parse('{"title":"ТРИКА ЙОГА","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),l={name:"README.md"},o=i("",3),r=[o];function _(s,n,c,d,h,m){return t(),e("div",null,r)}const f=a(l,[["render",_]]);export{u as __pageData,f as default};
