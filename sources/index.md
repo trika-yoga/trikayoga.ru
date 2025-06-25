@@ -1,7 +1,7 @@
 ---
 title: Источники
 description: "Ссылки на ресурсы для дополнительного изучения, а также писания и исследования в формате электронных книг"
-tags: main 
+tags: main
 date: 2021-04-01
 links:
   - title: Шайвавики
@@ -86,7 +86,7 @@ ru_books:
     description: "Том 1. Вводный курс"
     author: Свами Сатьянанда Сарасвати
     book: /books/drevnie_tantricheskie_vvodniy.pdf
-    ISBN: 978-5-89533-283-2 
+    ISBN: 978-5-89533-283-2
     year: 2013
   - title: Древние тантрические техники йоги и крийи
     description: "Том 2. Продвинутый курс"
@@ -98,7 +98,7 @@ ru_books:
     description: "Том 3. Мастер-курс"
     author: Свами Сатьянанда Сарасвати
     book: /books/drevnie_tantricheskie_master.pdf
-    ISBN: 978-5-89533-289-4 
+    ISBN: 978-5-89533-289-4
     year: 2013
   - title: Йога нидра
     description: Бихарская школа йоги, Мунгер
@@ -114,6 +114,12 @@ en_books:
     ISBN: 978-90-78623-07-6
     link: https://www.researchgate.net/publication/332494763_The_Shiva_Sutra_of_Vasugupta_Sanskrit_and_English_Translation
     year: 2019
+
+  - title: Ṣaṭtriṁśattattva-sandoha
+    description: A Text of Trika Philosophy of Kashmir. With the commeatgry of Rajanaka Asanda Kavi
+    book: /books/Ṣaṭtriṁśattattva-sandoha.pdf
+    year: 1977
+
   - title: Tantrasara of Abhinavagupta.
     description: H.N. Chakravarty, Boris Marjanovic. 283 pages
     book: /books/Tantrasara-of-Abhinavagupta.pdf
@@ -132,7 +138,7 @@ en_books:
     ISBN: 81-208-1785-0
     link: https://www.amazon.com/Isvara-Pratyabhijna-Karika-Utplaladeva-Recognition/dp/8120817850
     year: 2004
-  - title: Kashmir Shaivism 
+  - title: Kashmir Shaivism
     description: The Secret Supreme
     book: /books/en/Kashmir_Shaivism_Lakshman_Joo.pdf
     author: Swami Lakshmanjoo
@@ -150,7 +156,7 @@ en_books:
     description: Paul Eduardo Muller-Ortega
     book: /books/Paul-Eduardo-Muller-Ortega-The-Triadic-Heart-of-Siva.pdf
     author: Paul Eduardo Muller-Ortega
-    ISBN:  0887067875
+    ISBN: 0887067875
     link: https://www.amazon.com/Triadic-Heart-Siva-Tantricism-Abhinavagupta/dp/0887067875
     year: 1988
   - title: Yoga of Kashmir Shaivism
