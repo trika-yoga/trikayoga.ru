@@ -151,7 +151,7 @@ Sādākhya)</td>
 <tr>
 <td class="num">15.</td>
 <td>
-<p class="sans">अहङ्कार</p>
+<p class="sans">अहंकार</p>
 <p class="trans">Ahaṅkāra</p>
 (अस्मिता
 Asmitā)</td>
