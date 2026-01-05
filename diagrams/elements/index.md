@@ -1,6 +1,6 @@
 ---
 title: 'Таблица 5 первоэлементов'
-tags: scheme
+tags: diagram
 ---
 
 पञ्चमहाभूत {sans}

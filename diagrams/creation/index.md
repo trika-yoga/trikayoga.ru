@@ -1,6 +1,6 @@
 ---
 title: 'Творение мира через 36 элементов'
-tags: scheme
+tags: diagram
 ---
 
 ::: stanza

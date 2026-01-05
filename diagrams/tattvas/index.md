@@ -1,6 +1,6 @@
 ---
 title: 'Таблица 36 таттв'
-tags: scheme
+tags: diagram
 ---
 
 <table id="tattvas" class="names">

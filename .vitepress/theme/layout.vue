@@ -34,8 +34,9 @@ const route = useRoute();
         .max-w-xl.mx-auto.sans.font-bold.mb-4.text-center {{ frontmatter?.sans }}
         .max-w-xl.mx-auto.text-2xl.mb-4.text-center {{ frontmatter?.trans }}
         .max-w-xl.mx-auto.text-xl.text-center {{ frontmatter?.description }}
-      content
       page-list(v-if="frontmatter?.list")
+      content
+      
   page-siblings(:key="route?.path")
   page-footer
   panel-dock

@@ -1,6 +1,6 @@
 ---
 title: 'Лигатуры согласных деванагари'
-tags: scheme
+tags: diagram
 ---
 
 

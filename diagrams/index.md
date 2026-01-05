@@ -2,7 +2,7 @@
 title: Схемы
 tags: main
 description: 'Материалы для лучшего понимания и запоминания различных аспектов учения'
-list: scheme
+list: diagram
 date: 2021-05-01
 ---
 
