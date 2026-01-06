@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as i,d as l}from"./chunks/framework.Dij-6R1w.js";const m=JSON.parse('{"title":"ТРИКА ЙОГА","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),r={name:"README.md"};function n(o,a,s,_,d,c){return i(),t("div",null,[...a[0]||(a[0]=[l("",3)])])}const p=e(r,[["render",n]]);export{m as __pageData,p as default};
