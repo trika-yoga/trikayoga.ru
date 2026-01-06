@@ -8,3 +8,5 @@ cover: /img/dots.png
 ---
 
 ![no-shadow](./dots.svg)
+
+![no-shadow](./36-tattva-dots-trident.svg)
